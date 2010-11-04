@@ -12,5 +12,5 @@ do
 	id=$(echo "$part" | cut -d'.' -f1)
 
 	# take action on each file. $f store current file name
-	./send.sh $f $type $id es-test
+	curl -XDELETE http://localhost:9200/es-test/$type/$id
 done

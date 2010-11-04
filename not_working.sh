@@ -1,4 +1,4 @@
-curl -XGET 'http://localhost:9200/hb-test/video/_search?pretty=true' -d '
+curl -XGET 'http://localhost:9200/es-test/video/_search?pretty=true' -d '
 {
     "query": {
         "filtered": {
@@ -59,15 +59,15 @@ curl -XGET 'http://localhost:9200/hb-test/video/_search?pretty=true' -d '
     "size" : 10 
 }'
 
-curl -XGET 'http://localhost:9200/hb-test/_search?pretty=true' -d '
-{
- "query" :{
-   "bool" : {
-      "must" : [
-      		{"field" : { "appAccountIds" : 14 }},
-      		{"field" : { "appAccountIds" : 179 }}
-       ],
-       "minimum_number_should_match" : 1 
-   },
-   "size" : 5
-}'
+#curl -XGET 'http://localhost:9200/es-test/_search?pretty=true' -d '
+#{
+#"query" :{
+#   "bool" : {
+#      "must" : [
+#      		{"field" : { "appAccountIds" : 14 }},
+#      		{"field" : { "appAccountIds" : 179 }}
+#       ],
+#       "minimum_number_should_match" : 1 
+#   },
+#   "size" : 5
+#}'
