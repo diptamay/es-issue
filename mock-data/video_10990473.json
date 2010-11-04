@@ -1,0 +1,58 @@
+{
+  "_id" : 10990473,
+  "name" : "DAM Media: 10990473 LAD@ALT: Kuo tosses a perfect ninth for the save",
+  "itemType" : "video",
+  "state" : "A",
+  "userDate" : "2010-08-15T00:00:00-0400",
+  "appAccountIds" : [ 14 ],
+  "fields" : {
+    "headline" : "Kuo saves it",
+    "kicker" : "Top Play Dodgers",
+    "blurb" : "LAD@ALT: Kuo tosses a perfect ninth for the save",
+    "bigblurb" : "8/14/10: Hong-Chih Kuo pitches a perfect ninth inning in his first official assignment as closer to secure the win"
+  },
+  "tags" : {
+    "away_team_id" : [ {
+      "value" : "119"
+    } ],
+    "subject" : [ {
+      "value" : "MLBMOBILE_FEATURES",
+      "displayName" : "MLBMOBILE_FEATURES"
+    }, {
+      "value" : "MLBMOBILE_APPLICATION_HIGHLIGHT",
+      "displayName" : "MLBMOBILE_APPLICATION_HIGHLIGHT"
+    }, {
+      "value" : "MLBCOM_TOP_PLAY",
+      "displayName" : "MLBCOM_TOP_PLAY"
+    } ],
+    "game_pk" : [ {
+      "value" : "265550",
+      "displayName" : "2010/08/14/lanmlb-atlmlb-1"
+    } ],
+    "yahoo_player_id" : [ {
+      "value" : "7649",
+      "displayName" : "425539"
+    } ],
+    "game_id" : [ {
+      "value" : "2010/08/14/lanmlb-atlmlb-1"
+    } ],
+    "event_date" : [ {
+      "value" : "2010-08-14T19:10:00-0400",
+      "displayName" : "2010-08-14T19:10:00-0400"
+    } ],
+    "home_team_id" : [ {
+      "value" : "144"
+    } ],
+    "player_id" : [ {
+      "value" : "425539",
+      "displayName" : "Hong-Chih Kuo"
+    } ],
+    "calendar_event_id" : [ {
+      "value" : "14-265550-2010-08-14"
+    } ],
+    "team_id" : [ {
+      "value" : "119",
+      "displayName" : "Los Angeles Dodgers"
+    } ]
+  }
+}
