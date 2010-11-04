@@ -1,0 +1,9 @@
+Steps to setup and run queries:
+------------------------------
+1) Ensure ES is running at localhost:9200
+2) run ./automate.sh
+   a) This will create an es-test index and load the sample data.
+   b) Then it fire ./not_working.sh to run the query which is not working always.
+   c) It will then delete the documents.
+
+Note: The difference between the working and not working version, is the absence of "minimum_number_should_match" : 1 
