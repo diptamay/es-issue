@@ -1,0 +1,28 @@
+{
+  "_id" : 10990239,
+  "name" : "DAM Media: 10990239 8/14/10: A-Rod belts three home runs against Angels",
+  "itemType" : "video",
+  "state" : "A",
+  "userDate" : "2010-08-15T00:00:00-0400",
+  "appAccountIds" : [ 14,179 ],
+  "fields" : {
+    "kicker" : "Yankees: A-Rod",
+    "blurb" : "8/14/10: A-Rod belts three home runs against Angels",
+    "headline" : "A-Rod hits three homers vs. LAA",
+    "bigblurb" : "Alex Rodriguez's last three home run game came against the Angels in 2005 at Yankee Stadium"    
+  },
+  "tags" : {
+    "subject" : [ {
+      "value" : "MLBCOM_FEATURE",
+      "displayName" : "MLBCOM_FEATURE"
+    } ],
+    "player_id" : [ {
+      "value" : "121347",
+      "displayName" : "Alex Rodriguez"
+    } ],
+    "team_id" : [ {
+      "value" : "147",
+      "displayName" : "New York Yankees"
+    } ]
+  }
+}
