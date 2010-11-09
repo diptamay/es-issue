@@ -7,39 +7,11 @@ curl -XGET 'http://localhost:9200/es-test/video/_search?pretty=true' -d '
                     "should" : [
                         {
                             "field" : {
-                                "fields.kicker" : "Top" 
+                                "fields.kicker" : "A-Rod" 
                             } 
                         }
                     ],
-                    "must" : [
-                        {
-                            "field" : {
-                                "appAccountIds" : 14 
-                            } 
-                        },
-                        {
-                            "field" : {
-                                "appAccountIds" : 179
-                            } 
-                        },
-                        {
-                            "bool" : {
-                                "should" : [
-                                    {
-                                        "field" : {
-                                            "tags.subject.value" : "MLBMOBILE_FEATURES" 
-                                        } 
-                                    },
-                                    {
-                                        "field" : {
-                                            "tags.subject.value" : "MLBCOM_TOP_PLAY" 
-                                        } 
-                                    } 
-                                ],
-                                "minimum_number_should_match" : 1 
-                            } 
-                        }
-                    ]
+                    "minimum_number_should_match" : 1 
                 } 
             },
             "filter": {
@@ -58,14 +30,3 @@ curl -XGET 'http://localhost:9200/es-test/video/_search?pretty=true' -d '
     "size" : 10 
 }'
 
-#curl -XGET 'http://localhost:9200/es-test/_search?pretty=true' -d '
-#{
-# "query" :{
-#   "bool" : {
-#      "must" : [
-#      		{"field" : { "appAccountIds" : 14 }},
-#      		{"field" : { "appAccountIds" : 179 }}
-#       ]
-#   },
-#   "size" : 5
-#}'

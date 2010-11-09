@@ -1,13 +1,13 @@
 {
   "_id" : 10990695,
-  "name" : "DAM Media: 10990695 08/14/10 Condensed Game: LAD@ATL",
+  "name" : "DAM Media: 10990695 08/14/10 Condensed Game: LAD@ATL. Rod",
   "itemType" : "video",
-  "state" : "A",
+  "state" : "D",
   "userDate" : "2010-08-15T00:00:00-0400",
   "appAccountIds" : [ 14 ],
   "fields" : {
-    "blurb" : "08/14/10 Condensed Game: LAD@ATL",
-    "bigblurb" : "08/14/10 Condensed Game: LAD@ATL",
+    "blurb" : "08/14/10 Condensed Game: LAD@ATL. Rod",
+    "bigblurb" : "08/14/10 Condensed Game: LAD@ATL. Rod",
     "kicker" : "08/14/10 CG: LAD@ATL",
     "headline" : "08/14/10 CG: LAD@ATL"
   },
