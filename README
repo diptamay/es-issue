@@ -16,3 +16,24 @@ Steps to setup and reproduce:
 4) run ./break-it.sh. This will keep running the query above from 2b in an infinite loop. Keep it running
 5) stop and start ES at localhost:9200
 6) You should see the issues listed above. If not repeat step 5. 
+
+Configuration of ES:
+--------------------
+cluster:
+  name: sanyal
+gateway: 
+  type: fs 
+  fs: 
+    location:  /Users/sanyal/Documents/workspace/hb_indices 
+index: 
+  memory:
+    enabled: true
+  gateway:
+    snapshot_interval : 30s
+  store: 
+    type: niofs
+  number_of_shards : 2 
+  number_of_replicas : 1 
+path:
+  home: /Users/sanyal/Installs/elasticsearch
+  logs: /Users/sanyal/Documents/workspace/logs 
