@@ -8,7 +8,7 @@ Most of the times when an ES server is stopped and restarted, and if search quer
  
 Steps to setup and reproduce:
 ------------------------------
-1) Ensure ES is running at localhost:9200
+1) Ensure ES is running at localhost:9200 (look at configuration below)
 2) run ./automate.sh.
    a) This will create an es-test index and load the sample data.
    b) Then it fires a query which returns results correctly. This runs in an infinite loop
