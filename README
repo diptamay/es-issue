@@ -3,7 +3,10 @@ Steps to setup and run queries:
 1) Ensure ES is running at localhost:9200
 2) run ./automate.sh
    a) This will create an es-test index and load the sample data.
-   b) Then it fire ./not_working.sh to run the query which is not working always.
-   c) It will then delete the documents.
+   b) Then it fire ./not_working.sh to run the query which is not working as desired.
+   c) It will then delete the documents. 
 
-Note: The difference between the working and not working version, is the absence of "minimum_number_should_match" : 1 
+Issues:
+-------
+i) The first query is searching for the text "A-Rod" globally. Expected that only document 10990239 would be returned. But the document 10990695 is returned as well since it has the word "Rod". If you look at ./working.sh, you will see the difference between the working and not working version, is that "fields.kicker" is used instead of "_all". And this works as expected. Probably this is expected behavior because of the special field "_all". Is that so?
+ii) The second query adds on to the first query and add the additional criteria that I want all documents which have state = "A" (aka active or "D" for disabled).  Expected that only document 10990239 would be returned. But nothing was returned. What could be wrong here?
