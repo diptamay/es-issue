@@ -1,12 +1,18 @@
-Steps to setup and run queries:
+Scenario:
+--------
+Most of the times when an ES server is stopped and restarted, and if search queries are fired while the server is starting up, the following issues are seen:
+1) {
+  "error" : "ClusterBlockException[blocked by: [1/not recovered from gateway];[3/index not recovered];]"
+}
+2) Once the above error is encountered and the server has started up completely, the search queries which were executing successfully before the stoppage, are not returning results anymore.
+ 
+Steps to setup and reproduce:
 ------------------------------
 1) Ensure ES is running at localhost:9200
-2) run ./automate.sh
+2) run ./automate.sh.
    a) This will create an es-test index and load the sample data.
-   b) Then it fire ./not_working.sh to run the query which is not working as desired.
-   c) It will then delete the documents. 
-
-Issues:
--------
-i) The first query is searching for the text "A-Rod" globally. Expected that only document 10990239 would be returned. But the document 10990695 is returned as well since it has the word "Rod". If you look at ./working.sh, you will see the difference between the working and not working version, is that "fields.kicker" is used instead of "_all". And this works as expected. Probably this is expected behavior because of the special field "_all". Is that so?
-ii) The second query adds on to the first query and add the additional criteria that I want all documents which have state = "A" (aka active or "D" for disabled).  Expected that only document 10990239 would be returned. But nothing was returned. What could be wrong here?
+   b) Then it fires a query which returns results correctly. This runs in an infinite loop
+3) stop running ./automate.sh
+4) run ./break-it.sh. This will keep running the query above from 2b in an infinite loop. Keep it running
+5) stop and start ES at localhost:9200
+6) You should see the issues listed above. If not repeat step 5. 
