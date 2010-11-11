@@ -1,0 +1,10 @@
+{
+    "video" : {
+        "properties" : {
+            "state" : {
+                "type" : "string",
+                "index" : "not_analyzed"
+            }
+        }
+    }
+}

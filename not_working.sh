@@ -1,65 +1,28 @@
 curl -XGET 'http://localhost:9200/es-test/video/_search?pretty=true' -d '
 {
-    "query": {
-        "filtered": {
-            "query" : {
-                "bool" : {
-                    "should" : {
-						"field" : {
-							"_all" : "A-Rod" 
-						} 
-                     },
-                    "minimum_number_should_match" : 1 
-                } 
-            },
-            "filter": {
-                "range": {
-                    "userDate": {
-                        "from": "2010-08-15T00:00:00-0400",
-                        "to": "2010-08-16T00:00:00-0400",
-                        "include_lower": true,
-                        "include_upper": true 
-                    } 
-                } 
+    "query" : {
+        "bool" : {
+            "must" : {
+                "field" : {
+                    "appAccountIds" : 179 
+                }
             } 
         } 
     },
-    "from" : 0,
-    "size" : 10 
+    "size" : 10
 }'
 
-
-curl -XGET 'http://localhost:9200/es-test/video/_search?pretty=true' -d '
-{
-    "query": {
-        "filtered": {
-            "query" : {
-                "bool" : {
-                    "must" : {
-						"field" : {
-							"state" : "A" 
-						} 
-                    },
-                    "should" : {
-						"field" : {
-							"_all" : "A-Rod" 
-						} 
-                     },
-                    "minimum_number_should_match" : 1 
-                } 
-            },
-            "filter": {
-                "range": {
-                    "userDate": {
-                        "from": "2010-08-15T00:00:00-0400",
-                        "to": "2010-08-16T00:00:00-0400",
-                        "include_lower": true,
-                        "include_upper": true 
-                    } 
-                } 
-            } 
-        } 
-    },
-    "from" : 0,
-    "size" : 10 
-}'
+#curl -XGET 'http://localhost:9200/es-test/_search?pretty=true' -d '
+#{
+#    "query" : {
+#        "bool" : {
+#            "should" : {
+#                "term" : {
+#                    "_id" : 10990239 
+#                } 
+#            },
+#            "minimum_number_should_match" : 1 
+#        } 
+#    },
+#    "size" : 5 
+#}'
