@@ -1,7 +1,7 @@
 #!/bin/bash
-./index-setup.sh
-for (( ; ; ))
-do
+#for (( ; ; ))
+#do
+   ./index-setup.sh
 	echo ""
 	echo "LOADING"
 	echo ""	
@@ -10,10 +10,9 @@ do
    echo ""
    echo "SEARCHING"
    echo ""
-   ./not_working.sh
+   ./lineup.sh
    #echo ""
    #echo "DELETING"
    #echo ""
    #./delete.sh
-   #curl -XPOST 'http://localhost:9200/es-test/_refresh'
-done
+#done
