@@ -1,0 +1,72 @@
+{
+  "_id" : 10783636,
+  "name" : "New York Mets in 14-264627-2010-06-04",
+  "itemType" : "lineup",
+  "state" : "A",
+  "createdOn" : "2010-06-04T00:00:00-0400",
+  "userDate" : "2010-06-04T00:00:00-0400",
+  "lastSave" : "2010-06-04T00:00:00-0400",
+  "lastPublish" : "2010-06-04T00:00:00-0400",
+  "namespaceId" : 1,
+  "displayData" : "name=New%20York%20Mets%20in%2014-264627-2010-06-04",
+  "appAccountIds" : [ 14 ],
+  "fields" : {
+    "umpire_id_2b" : "427537",
+    "umpire_id_hp" : "427444",
+    "umpire_id_1b" : "427552",
+    "official_scorer_id" : "431077",
+    "umpire_id_3b" : "482631"
+  },
+  "tags" : {
+    "player_285079_pos" : [ {
+      "value" : "1",
+      "displayName" : "P"
+    } ],
+    "player_424726_pos" : [ {
+      "value" : "7",
+      "displayName" : "LF"
+    } ],
+    "game_pk" : [ {
+      "value" : "264627",
+      "displayName" : "2010/06/04/flomlb-nynmlb-1"
+    } ],
+    "player_477195_pos" : [ {
+      "value" : "3",
+      "displayName" : "1B"
+    } ],
+    "player_150148_pos" : [ {
+      "value" : "2",
+      "displayName" : "C"
+    } ],
+    "player_425796_pos" : [ {
+      "value" : "9",
+      "displayName" : "RF"
+    } ],
+    "event_date" : [ {
+      "value" : "2010-06-04"
+    } ],
+    "player_434636_pos" : [ {
+      "value" : "8",
+      "displayName" : "CF"
+    } ],
+    "player_431151_pos" : [ {
+      "value" : "5",
+      "displayName" : "3B"
+    } ],
+    "calendar_event_id" : [ {
+      "value" : "14-264627-2010-06-04"
+    } ],
+    "player_408314_pos" : [ {
+      "value" : "6",
+      "displayName" : "SS"
+    } ],
+    "player_514913_pos" : [ {
+      "value" : "4",
+      "displayName" : "2B"
+    } ],
+    "team_id" : [ {
+      "value" : "121",
+      "displayName" : "New York Mets"
+    } ]
+  }
+}

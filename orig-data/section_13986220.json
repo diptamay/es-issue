@@ -1,0 +1,1722 @@
+{
+  "_id" : 13986220,
+  "name" : "COPY OF => kc / ballpark_demo",
+  "itemType" : "section",
+  "state" : "A",
+  "createdOn" : "2010-08-27T00:00:00-0400",
+  "userDate" : "2010-08-27T00:00:00-0400",
+  "lastSave" : "2010-08-27T00:00:00-0400",
+  "namespaceId" : 1,
+  "displayData" : "name=COPY%20OF%20%3D%3E%20kc%20%2F%20ballpark_demo",
+  "appAccountIds" : [ 14 ],
+  "fields" : {
+    "id" : "ballpark_demo",
+    "is_web_only" : "N",
+    "url" : "/kc/ballpark_demo/index.jsp",
+    "short_title" : "Kauffman Stadium",
+    "body" : null,
+    "pages" : {
+      "XMLCascade" : "Y",
+      "items" : [ {
+        "rank" : 8,
+        "viewId" : 0,
+        "_id" : 12214512,
+        "name" : "kc / Special Events",
+        "itemType" : "page",
+        "state" : "A",
+        "createdOn" : "2010-07-12T00:00:00-0400",
+        "userDate" : "2010-07-12T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=kc%20%2F%20Special%20Events",
+        "appAccountIds" : [ 14 ],
+        "fields" : {
+          "short_title" : "Special Events",
+          "is_web_only" : "N",
+          "url" : "/kc/ballpark_demo/information/events.jsp",
+          "long_title" : "Special Events",
+          "id" : "events",
+          "body" : "<ul class=\"photo_container\" align=\"center\">\n\t<li><img src=\"/kc/images/ballpark/special_events/diamond_club_480x200.jpg\" width=\"480\" height=\"200\" /></li>\n</ul><div class=\"clear\"></div>\n<p>Looking for that perfect unique location to hold your event? The newly renovated Kauffman Stadium is the place to be. Give your guests an event to remember through our excellent catering services, breathtaking views of the field and brand new venues. Whether it is a small business meeting, wedding reception or conference we can guarantee exceptional service and amenities.</p>\n<p>Our Sales and Catering Department is happy to help you out with any of your special event needs.</p>\n<p>For further information please contact Audra Kamin our Catering Sales Manager at 816.504.4016 or <a href=\"mailto:Kamin-audra@aramark.com\">Kamin-audra@aramark.com</a>.</p>",
+          "items" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 13983246,
+              "name" : "kc / Catering",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-08-27T00:00:00-0400",
+              "userDate" : "2010-08-27T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20%2F%20Catering",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "id" : "special_event_catering",
+                "short_title" : "Catering",
+                "long_title" : "Catering",
+                "url" : "/kc/ballpark_demo/information/events.jsp?content=catering",
+                "is_web_only" : "N",
+                "body" : "<ul class=\"photo_container\">\n\t<li><img src=\"/kc/images/ballpark/special_events/catering_132x92.jpg\" width=\"132\" height=\"92\" /></li>\n</ul>\n<p>Aramark is the exclusive caterer for Kauffman Stadium. Our highly trained culinary team and event staff are ready to serve you to the highest degree.</p>\n<ul class=\"related_content\">\n\t<li><a href=\"/kc/ballpark_demo/information/events.jsp?content=catering\">More Info</a></li>\n</ul>"
+              }
+            }, {
+              "rank" : 1,
+              "viewId" : 0,
+              "_id" : 13982874,
+              "name" : "kc / Venues",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-08-27T00:00:00-0400",
+              "userDate" : "2010-08-27T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20%2F%20Venues",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "long_title" : "Venues",
+                "short_title" : "Venues",
+                "url" : "/kc/ballpark_demo/information/events.jsp?content=venues",
+                "id" : "special_event_venues",
+                "is_web_only" : "N",
+                "body" : "<ul class=\"photo_container\">\n\t<li><img src=\"/kc/images/ballpark/special_events/venue_132x92.jpg\" width=\"132\" height=\"92\" /></li>\n</ul>\n<p>With 14 great locations to choose from, Kauffman Stadium has a space for any kind of event.</p>\n<ul class=\"related_content\">\n\t<li><a href=\"/kc/ballpark_demo/information/events.jsp?content=venues\">More Info</a></li>\n</ul>"
+              }
+            } ]
+          },
+          "pages" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 13985054,
+              "name" : "kc / Catering",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-08-27T00:00:00-0400",
+              "userDate" : "2010-08-27T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20%2F%20Catering",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "is_web_only" : "N",
+                "id" : "special_event_catering",
+                "short_title" : "Catering",
+                "long_title" : "Catering",
+                "url" : "/kc/ballpark_demo/information/events.jsp?content=catering",
+                "body" : "<ul class=\"photo_container\">\n\t<li><a href=\"/kc/ballpark/ballpark_panoramas.jsp?pano=outfield_exp\">\n\t<img src=\"/kc/images/ballpark/special_events/menu_300x200.jpg\" width=\"300\" height=\"200\" border=\"0\" /></a></li>\n</ul>\n<p>Aramark is the exclusive caterer for Kauffman Stadium. Our highly trained culinary team and event staff are ready to serve you to the highest degree.</p>\n\n<p>The menu gives great examples of what we are capable of. If you do not see something that you really want, let our Chef design a menu specialized for your event.</p>\n\n<ul class=\"photo_container\">\n<li><ul class=\"related_content\">\n\t<li><a href=\"/kc/downloads/y2010/special_events_menu.pdf\">Download Menu</a></li>\n</ul></li>\n\t<li><a href=\"http://get.adobe.com/reader/\" target=\"new\">\n\t<img src=\"/bal/images/misc/getadobereader.gif\" border=\"0\" /></a></li>\n</ul>"
+              }
+            }, {
+              "rank" : 1,
+              "viewId" : 0,
+              "_id" : 13983264,
+              "name" : "kc / Venues",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-08-27T00:00:00-0400",
+              "userDate" : "2010-08-27T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20%2F%20Venues",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "long_title" : "Venues",
+                "short_title" : "Venues",
+                "id" : "special_event_venues",
+                "url" : "/kc/ballpark_demo/information/events.jsp?content=venues",
+                "is_web_only" : "N",
+                "body" : null,
+                "pages" : {
+                  "XMLCascade" : "Y",
+                  "items" : [ {
+                    "rank" : 13,
+                    "viewId" : 0,
+                    "_id" : 13985056,
+                    "name" : "kc / Diamond Club",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-08-27T00:00:00-0400",
+                    "userDate" : "2010-08-27T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=kc%20%2F%20Diamond%20Club",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "id" : "diamond_club",
+                      "long_title" : "Diamond Club",
+                      "short_title" : "Diamond Club",
+                      "is_web_only" : "N",
+                      "body" : "<ul class=\"photo_container\">\n\t<li><a href=\"/kc/ballpark/ballpark_panoramas.jsp?pano=diamond_club_3\"><img src=\"/kc/images/ballpark/special_events/diamond_club_205.jpg\" width=\"205\" height=\"175\" border=\"0\" /></a></li>\n</ul>\n<p>Located behind home plate on the Plaza Level, the Diamond Club is easily accessed from Gate C. With floor to ceiling windows guests can enjoy an amazing view of the field. The club is uniquely decorated with balls and bats and serves as our largest indoor space.</p>\n\n<ul class=\"related_content\">\n\t<li style=\"vertical-align:middle; display:inline;\"><span class=\"button purchase\"><a href=\"https://secure.mlb.com/kc/special_events/events_form.jsp\">Reserve Online &#187;</a></span></li>\n</ul>\n\n<p>Seated Capacity - 300<br  />\nCocktail Capacity - 500<br  />\nPresentation Capacity - N/A</p>"
+                    }
+                  }, {
+                    "rank" : 5,
+                    "viewId" : 0,
+                    "_id" : 13985462,
+                    "name" : "kc / Kauffman Board Room",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-08-27T00:00:00-0400",
+                    "userDate" : "2010-08-27T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=kc%20%2F%20Kauffman%20Board%20Room",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "long_title" : "Kauffman Board Room",
+                      "short_title" : "Kauffman Board Room",
+                      "is_web_only" : "N",
+                      "id" : "kauffman_board_room",
+                      "body" : "<ul class=\"photo_container\">\n\t<li><a href=\"javascript:popWin('/kc/images/ballpark/special_events/board_room_600.jpg','',610,408);\">\n\t<img src=\"/kc/images/ballpark/special_events/board_room_205.jpg\" width=\"205\" height=\"175\" border=\"0\" /></a></li>\n</ul>\n\n<p>Located on the Loge Level in the Triple Crown Suites hallway, Kauffman Boardroom is easily accessed by the Diamond Club lobby elevator. This room is equipped with a drop down screen and a ceiling mounted projector. Great for a small board room style meeting.</p>\n\n<ul class=\"related_content\">\n\t<li style=\"vertical-align:middle; display:inline;\"><span class=\"button purchase\"><a href=\"https://secure.mlb.com/kc/special_events/events_form.jsp\">Reserve Online &#187;</a></span></li>\n</ul>\n\n<p>Seated Capacity - 15-25<br />\nCocktail Capacity - N/A<br />\nPresentation Capacity - 15-25</p>"
+                    }
+                  }, {
+                    "rank" : 2,
+                    "viewId" : 0,
+                    "_id" : 13986700,
+                    "name" : "kc / Hall of Fame Museum",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-08-27T00:00:00-0400",
+                    "userDate" : "2010-08-27T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=kc%20%2F%20Hall%20of%20Fame%20Museum",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "short_title" : "Hall of Fame Museum",
+                      "long_title" : "Hall of Fame Museum",
+                      "id" : "hall_of_fame_museum",
+                      "is_web_only" : "N",
+                      "body" : "<ul class=\"photo_container\">\n\t<li><a href=\"/kc/ballpark/ballpark_panoramas.jsp?pano=hof_brett\">\n\t<img src=\"/kc/images/ballpark/special_events/hof_lobby_205.jpg\" width=\"205\" height=\"175\" border=\"0\" /></a></li>\n</ul>\n\n<p>The Hall of Fame Museum is located in left field directly behind the visiting team bullpen. This is a unique space for a cocktail event. Enjoy drinks and hors d'oeuvres while traveling through some of the most incredible moments in the history of Royals baseball.</p>\n\n<ul class=\"related_content\">\n\t<li style=\"vertical-align:middle; display:inline;\"><span class=\"button purchase\"><a href=\"https://secure.mlb.com/kc/special_events/events_form.jsp\">Reserve Online &#187;</a></span></li>\n</ul>\n\n<p>Seated Capacity - 100<br />\nCocktail Capacity - 150<br />\nPresentation Capacity - 50</p>"
+                    }
+                  }, {
+                    "rank" : 7,
+                    "viewId" : 0,
+                    "_id" : 13984794,
+                    "name" : "kc / The Kids Interactive Area",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-08-27T00:00:00-0400",
+                    "userDate" : "2010-08-27T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=kc%20%2F%20The%20Kids%20Interactive%20Area",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "long_title" : "The Kids Interactive Area",
+                      "id" : "kids_interactive_area",
+                      "is_web_only" : "N",
+                      "short_title" : "The Kids Interactive Area",
+                      "body" : "<ul class=\"photo_container\">\n\t<li><a href=\"/kc/ballpark/ballpark_panoramas.jsp?pano=outfield_exp\">\n\t<img src=\"/kc/images/ballpark/special_events/outfield_205.jpg\" width=\"205\" height=\"175\" border=\"0\" /></a></li>\n</ul>\n\n<p>The Kids Interactive area is located just beyond the outfield and is a fun place for kids of all ages! This space offers the John Deere Little K, MLB2K10 Game Lounge, Sluggerrr's Mini Golf, Batting Challenge, Pitching Mound and Base Run. Plus, guests can enjoy a baseball-themed carousel and playground. </p>\n\n<ul class=\"related_content\">\n\t<li style=\"vertical-align:middle; display:inline;\"><span class=\"button purchase\"><a href=\"https://secure.mlb.com/kc/special_events/events_form.jsp\">Reserve Online &#187;</a></span></li>\n</ul>\n\n<p>Seated Capacity - N/A<br />\nCocktail Capacity - N/A<br />\nPresentation Capacity - N/A</p>"
+                    }
+                  }, {
+                    "rank" : 11,
+                    "viewId" : 0,
+                    "_id" : 13985592,
+                    "name" : "kc / BATS Crown Club",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-08-27T00:00:00-0400",
+                    "userDate" : "2010-08-27T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=kc%20%2F%20BATS%20Crown%20Club",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "id" : "bats_crown_club",
+                      "is_web_only" : "N",
+                      "long_title" : "BATS Crown Club",
+                      "short_title" : "BATS Crown Club",
+                      "body" : "<ul class=\"photo_container\">\n\t<li><a href=\"/kc/ballpark/ballpark_panoramas.jsp?pano=crown_club\"><img src=\"/kc/images/ballpark/special_events/crown_club_205.jpg\" width=\"205\" height=\"175\" border=\"0\" /></a></li>\n</ul>\n\n<p>Located on Level 1 of the Stadium, the BATS Crown Club is easily accessed by way of the Diamond Club Lobby. This upscale, intimate space is the perfect setting for that special dinner or Wedding Reception. It is equipped with a beautiful bar, flatscreen monitors and booths lining the perimeters of the space.</p>\n\n<ul class=\"related_content\">\n\t<li style=\"vertical-align:middle; display:inline;\"><span class=\"button purchase\"><a href=\"https://secure.mlb.com/kc/special_events/events_form.jsp\">Reserve Online &#187;</a></span></li>\n</ul>\n\n<p>Seated Capacity - 200<br />\nCocktail Capacity - 250<br />\nPresentation Capacity - 150</p>"
+                    }
+                  }, {
+                    "rank" : 10,
+                    "viewId" : 0,
+                    "_id" : 13985602,
+                    "name" : "kc / Stadium Club",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-08-27T00:00:00-0400",
+                    "userDate" : "2010-08-27T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=kc%20%2F%20Stadium%20Club",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "id" : "stadium_club",
+                      "long_title" : "Stadium Club",
+                      "short_title" : "Stadium Club",
+                      "is_web_only" : "N",
+                      "body" : "<ul class=\"photo_container\">\n\t<li><a href=\"/kc/ballpark/ballpark_panoramas.jsp?pano=stadium_club\"><img src=\"/kc/images/ballpark/special_events/stadium_club_205.jpg\" width=\"205\" height=\"175\" border=\"0\" /></a></li>\n</ul>\n\n<p>Located on the Loge Level of the stadium, the Stadium Club is accessed by way of the Diamond Club lobby elevators. Floor to ceiling windows give this tiered, upscale club a true overlook of the field. Bring in your wedding party to enjoy your rehearsal dinner baseball style.</p>\n\n<ul class=\"related_content\">\n\t<li style=\"vertical-align:middle; display:inline;\"><span class=\"button purchase\"><a href=\"https://secure.mlb.com/kc/special_events/events_form.jsp\">Reserve Online &#187;</a></span></li>\n</ul>\n\n<p>Seated Capacity - 110<br />\nCocktail Capacity - 175<br />\nPresentation Capacity - N/A</p>"
+                    }
+                  }, {
+                    "rank" : 4,
+                    "viewId" : 0,
+                    "_id" : 13986586,
+                    "name" : "kc / Media Interview Room ",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-08-27T00:00:00-0400",
+                    "userDate" : "2010-08-27T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=kc%20%2F%20Media%20Interview%20Room%20",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "is_web_only" : "N",
+                      "id" : "media_interview_room",
+                      "short_title" : "Media Interview Room ",
+                      "long_title" : "Media Interview Room ",
+                      "body" : "<ul class=\"photo_container\">\n\t<li><img src=\"/kc/images/ballpark/special_events/kc_logo_205.jpg\" width=\"205\" height=\"175\" border=\"0\" /></li>\n</ul>\n\n<p>Available during the off season only</p>\n\n<p>Located on the lower level, the Media Interview Room is easily accessible by way of the Diamond Club lobby elevators. Host your meeting or luncheon in the same room where Trey Hillman conducts his post game press conferences.</p>\n\n<ul class=\"related_content\">\n\t<li style=\"vertical-align:middle; display:inline;\"><span class=\"button purchase\"><a href=\"https://secure.mlb.com/kc/special_events/events_form.jsp\">Reserve Online &#187;</a></span></li>\n</ul>\n\n<p>Seated Capacity - 25<br />\nCocktail Capacity - N/A<br />\nPresentation Capacity - 25</p>"
+                    }
+                  }, {
+                    "rank" : 12,
+                    "viewId" : 0,
+                    "_id" : 13984252,
+                    "name" : "kc / Hall of Fame Suites",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-08-27T00:00:00-0400",
+                    "userDate" : "2010-08-27T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=kc%20%2F%20Hall%20of%20Fame%20Suites",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "long_title" : "Hall of Fame Suites",
+                      "is_web_only" : "N",
+                      "id" : "hall_of_fame_suites",
+                      "short_title" : "Hall of Fame Suites",
+                      "body" : "<ul class=\"photo_container\">\n\t<li><a href=\"/kc/ballpark/ballpark_panoramas.jsp?pano=hof_suite_1\"><img src=\"/kc/images/ticketing/y2009/hof_suite_205x175.jpg\" width=\"205\" height=\"175\" border=\"0\" /></a></li>\n</ul>\n<p>The Hall of Fame Suites are located on the Plaza Level on the left outfield concourse. They are housed directly underneath the brand new Hall of Fame Museum.</p>\n\n<p>There are 5 suites with airwalls to separate them. Depending on your event needs, you can use them in their entirety or use them as smaller rooms. Each room can accommodate 25 classroom style, 25 conference style and 50 theatre style. All rooms come with drop down screens, plasma TV's, wireless internet access and plenty of electrical outlets in the floors and walls.</p>\n\n<ul class=\"related_content\">\n\t<li style=\"vertical-align:middle; display:inline;\"><span class=\"button purchase\"><a href=\"https://secure.mlb.com/kc/special_events/events_form.jsp\">Reserve Online &#187;</a></span></li>\n</ul>\n\n<p>Give your meeting that extra interesting touch with its full wall of windows and easily accessible patio space.</p>\n\n<p>Seated Capacity - 150<br />\nCocktail Capacity - 175<br />\nPresentation Capacity - 100<br />\nPatio space available from March through October</p>"
+                    }
+                  }, {
+                    "rank" : 3,
+                    "viewId" : 0,
+                    "_id" : 13985006,
+                    "name" : "kc / Frank White/George Brett Lounge",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-08-27T00:00:00-0400",
+                    "userDate" : "2010-08-27T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=kc%20%2F%20Frank%20White%2FGeorge%20Brett%20Lounge",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "long_title" : "Frank White/George Brett Lounge",
+                      "is_web_only" : "N",
+                      "id" : "frank_white_george_brett_lounge",
+                      "short_title" : "Frank White/George Brett Lounge",
+                      "body" : "<ul class=\"photo_container\">\n\t<li><a href=\"/kc/ballpark/ballpark_panoramas.jsp?pano=signature_lounge\">\n\t<img src=\"/kc/images/ballpark/special_events/brett_lounge_205.jpg\" width=\"205\" height=\"175\" border=\"0\" /></a></li>\n</ul>\n\n<p>Located on the Loge Level, the Frank White and George Brett Lounge can be accessed by way of the Diamond Club lobby elevators. With private interior spaces containing a lounge and bar area, this space would be ideal for a cocktail party, rehearsal dinner or presentation.</p>\n\n<ul class=\"related_content\">\n\t<li style=\"vertical-align:middle; display:inline;\"><span class=\"button purchase\"><a href=\"https://secure.mlb.com/kc/special_events/events_form.jsp\">Reserve Online &#187;</a></span></li>\n</ul>\n\n<p>Seated Capacity - 80<br />\nCocktail Capacity - 80<br />\nPresentation Capacity - 30</p>"
+                    }
+                  }, {
+                    "rank" : 1,
+                    "viewId" : 0,
+                    "_id" : 13985012,
+                    "name" : "kc / Outfield Concourse",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-08-27T00:00:00-0400",
+                    "userDate" : "2010-08-27T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=kc%20%2F%20Outfield%20Concourse",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "id" : "outfield_concourse",
+                      "is_web_only" : "N",
+                      "long_title" : "Outfield Concourse",
+                      "short_title" : "Outfield Concourse",
+                      "body" : "<ul class=\"photo_container\">\n\t<li><a href=\"/kc/ballpark/ballpark_panoramas.jsp?pano=outfield_exp\">\n\t<img src=\"/kc/images/ballpark/special_events/outfield_205.jpg\" width=\"205\" height=\"175\" border=\"0\" /></a></li>\n</ul>\n\n<p>This area extends between the Hall Of Fame in left field and Rivals Sports Bar in right field. The Outfield Concourse is a great space for a company party, birthday party or a trade show. This large space includes a stage with plenty of room for dancing and endless ways to set the scene for your event.</p>\n\n<ul class=\"related_content\">\n\t<li style=\"vertical-align:middle; display:inline;\"><span class=\"button purchase\"><a href=\"https://secure.mlb.com/kc/special_events/events_form.jsp\">Reserve Online &#187;</a></span></li>\n</ul>\n\n<p>Seated Capacity - 6,000<br />\nCocktail Capacity - 6,000<br />\nPresentation Capacity - N/A</p>"
+                    }
+                  }, {
+                    "rank" : 0,
+                    "viewId" : 0,
+                    "_id" : 13985014,
+                    "name" : "kc / Visitors Clubhouse",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-08-27T00:00:00-0400",
+                    "userDate" : "2010-08-27T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=kc%20%2F%20Visitors%20Clubhouse",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "long_title" : "Visitors Clubhouse",
+                      "short_title" : "Visitors Clubhouse",
+                      "is_web_only" : "N",
+                      "id" : "visitors_clubhouse",
+                      "body" : "<ul class=\"photo_container\">\n\t<li><img src=\"/kc/images/ballpark/special_events/kc_logo_205.jpg\" width=\"205\" height=\"175\" border=\"0\" /></li>\n</ul>\n\n<p>Available during the off season only</p>\n\n<p>The Visitors Clubhouse is a unique space for a rehearsal dinner, holiday party or even a business meeting (equipped with TV and internet access). Experience the way the visiting team lives on the road!</p>\n\n<ul class=\"related_content\">\n\t<li style=\"vertical-align:middle; display:inline;\"><span class=\"button purchase\"><a href=\"https://secure.mlb.com/kc/special_events/events_form.jsp\">Reserve Online &#187;</a></span></li>\n</ul>\n\n<p>Seated Capacity - 50<br />\nCocktail Capacity - 50<br />\nPresentation Capacity - 50</p>"
+                    }
+                  }, {
+                    "rank" : 8,
+                    "viewId" : 0,
+                    "_id" : 13986066,
+                    "name" : "kc / BBQ Area",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-08-27T00:00:00-0400",
+                    "userDate" : "2010-08-27T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=kc%20%2F%20BBQ%20Area",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "is_web_only" : "N",
+                      "id" : "bbq_area",
+                      "short_title" : "BBQ Area",
+                      "long_title" : "BBQ Area",
+                      "body" : "<ul class=\"photo_container\">\n\t<li><a href=\"javascript:popWin('/kc/images/ballpark/special_events/BBQ_600.jpg','',610,408);\">\n\t<img src=\"/kc/images/ballpark/special_events/BBQ_205.jpg\" width=\"205\" height=\"175\" border=\"0\" /></a></li>\n</ul>\n\n<p>This section is a part of the extended outfield concourse and is located behind Rivals. Bring your company out for a large social networking event. Our very own BBQ Pit can even be set up to serve out some delicious smoked meats. An outdoor sound system is available to set up for your event speaker or to enjoy some music.</p>\n\n<ul class=\"related_content\">\n\t<li style=\"vertical-align:middle; display:inline;\"><span class=\"button purchase\"><a href=\"https://secure.mlb.com/kc/special_events/events_form.jsp\">Reserve Online &#187;</a></span></li>\n</ul>\n\n<p>Seated Capacity - 450<br />\nCocktail Capacity - 800<br />\nPresentation Capacity - N/A</p>"
+                    }
+                  }, {
+                    "rank" : 9,
+                    "viewId" : 0,
+                    "_id" : 13985212,
+                    "name" : "kc / Rivals",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-08-27T00:00:00-0400",
+                    "userDate" : "2010-08-27T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=kc%20%2F%20Rivals",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "id" : "rivals",
+                      "long_title" : "Rivals",
+                      "is_web_only" : "N",
+                      "short_title" : "Rivals",
+                      "body" : "<ul class=\"photo_container\">\n\t<li><a href=\"javascript:popWin('/kc/images/ballpark/special_events/rivals_600.jpg','',610,408);\"><img src=\"/kc/images/ballpark/special_events/rivals_205.jpg\" width=\"205\" height=\"175\" border=\"0\" /></a></li>\n</ul>\n\n<p>Located on the just beyond right field, Rivals Restaurant is nearest Gate E. Kauffman Stadium's first sports bar has garage doors to allow for open air and a large circular bar with baseball d&#233;cor. A small patio sits right off of the lower level restaurant and a rooftop deck is just above on the second level of the building. Reserve Rivals for a company party to watch a Royals away game or just to enjoy the view and weather.</p>\n\n<ul class=\"related_content\">\n\t<li style=\"vertical-align:middle; display:inline;\"><span class=\"button purchase\"><a href=\"https://secure.mlb.com/kc/special_events/events_form.jsp\">Reserve Online &#187;</a></span></li>\n</ul>\n\n<p>Seated Capacity - 150<br />\nCocktail Capacity - 300<br />\nPresentation Capacity - N/A<br />\nRooftop Deck available March thru October</p>"
+                    }
+                  }, {
+                    "rank" : 6,
+                    "viewId" : 0,
+                    "_id" : 13985674,
+                    "name" : "kc / Herk Robinson Conference Room",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-08-27T00:00:00-0400",
+                    "userDate" : "2010-08-27T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=kc%20%2F%20Herk%20Robinson%20Conference%20Room",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "id" : "herk_robinson_conference_room",
+                      "is_web_only" : "N",
+                      "long_title" : "Herk Robinson Conference Room",
+                      "short_title" : "Herk Robinson Conference Room",
+                      "body" : "<ul class=\"photo_container\">\n\t<li><a href=\"javascript:popWin('/kc/images/ballpark/special_events/herk_robinson_600.jpg','',610,408);\">\n\t<img src=\"/kc/images/ballpark/special_events/herk_robinson_205.jpg\" width=\"205\" height=\"175\" border=\"0\" /></a></li>\n</ul>\n\n<p>Located on the Loge Level in the Triple Crown Suites hallway, Herk Robinson is easily accessed by the Diamond Club lobby elevator. This room is equipped with a drop down screen, podium and microphone. A great intimate setting for a small lunch meeting.</p>\n\n<ul class=\"related_content\">\n\t<li style=\"vertical-align:middle; display:inline;\"><span class=\"button purchase\"><a href=\"https://secure.mlb.com/kc/special_events/events_form.jsp\">Reserve Online &#187;</a></span></li>\n</ul>\n\n<p>Seated Capacity - 50<br />\nCocktail Capacity - N/A<br />\nPresentation Capacity - 75</p>"
+                    }
+                  } ]
+                }
+              }
+            } ]
+          }
+        }
+      }, {
+        "rank" : 7,
+        "viewId" : 0,
+        "_id" : 12215586,
+        "name" : "kc / Team Store ",
+        "itemType" : "page",
+        "state" : "A",
+        "createdOn" : "2010-07-12T00:00:00-0400",
+        "userDate" : "2010-07-12T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=kc%20%2F%20Team%20Store%20",
+        "appAccountIds" : [ 14 ],
+        "fields" : {
+          "short_title" : "Royals Team Store",
+          "url" : "/kc/ballpark_demo/store/index.jsp",
+          "is_web_only" : "N",
+          "long_title" : "Royals Team Store",
+          "id" : "store",
+          "body" : "<p>Visit the Royals Majestic Team Store located at Gate C, behind home plate. The 7,000 square foot store is your home for all your Kansas City Royals merchandise, novelties, collectibles, game-used products and more! The store also features exclusive product from Majestic, Nike, New Era, Banner, Red Jacket, and more. Support your Royals and find the best selection of merchandise right here at The K. </p>",
+          "pages" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 12215584,
+              "name" : "kc / Team Store Information",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-07-12T00:00:00-0400",
+              "userDate" : "2010-07-12T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20%2F%20Team%20Store%20Information",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "is_web_only" : "N",
+                "id" : "team_store",
+                "long_title" : "Team Store Information",
+                "url" : "/kc/ballpark_demo/store/index.jsp",
+                "short_title" : "Team Store Information",
+                "body" : "<ul class=\"related_content\"><li>\n<div  class=\"container\">\n<div class=\"pad7\" style=\"height:290px; background: url(/kc/images/ticketing/module_bg_blue.gif) bottom left repeat-x;\">\n<h4>New Powder Blue Caps have arrived!</h4>\n<p><a href=\"http://shop.mlb.com/product/index.jsp?productId=3915818\"><img src=\"/kc/images/ballpark/y2009/lt_blue_hat_300x250.jpg\" class=\"image_right\" alt=\"Store\"></a>The Kansas City Royals and the Majestic Team Store are excited to offer fans the opportunity to purchase New Authentic New Era alternate powder blue caps - the same caps that will be worn by the Kansas City Royals in conjunction with their alternate powder blue jerseys during the 2010 season! New Authentic New Era alternate powder blue caps are now available at both the Royals Majestic Team Store and here at royals.com. </p>\n<span class=\"button purchase\"><a href=\"http://shop.mlb.com/product/index.jsp?productId=3915818\">Buy New alternate powder blue caps now &raquo;</a></span>\n\n</div>\n</div>\n\n<br><br>\n<p><strong>Zack Greinke Cy Young Merchandise</strong><br>\nFans have the opportunity to purchase special Cy Young baseball plaques-available now, exclusive Cy Young T-Shirts in adult and youth sizes on Friday, November 27, photos, hats, pennants and signs early next week and bracelets by the first few weeks of December at the Majestic Team Store.  Get your Zack Greinke Cy Young merchandise at <a href=\"http://shop.mlb.com/family/index.jsp?categoryId=3919444\">royals.com</a> now!\n\n<img src=\"/kc/images/ballpark/y2009/store_300x260.jpg\" class=\"image_right\" alt=\"Store\">\n</li>\n</ul>\n<p><strong>Off-Season Hours</strong><br>\nHours of operation during the off-season are 10am-4pm, Tuesday through Saturday.\n</p>\n<p><strong>In-Season Hours</strong><br>\nOn game days, the store closes 30 minutes before gates and is open until after the end of the game.  During day games we open when gates open and remain open until after the game.\n</p>\n<p><strong>Contact Us</strong><br>\n\nFor additional information please contact us at 816-504-4045.</p>\n<p><strong>Shop Online Now</strong><br>\nThe official online shop of the Kansas City Royals \n<span class=\"button purchase\"><a href=\"http://shop.mlb.com/shop/index.jsp?categoryId=1452354\">Shop Now &raquo;</a></span></p>\n"
+              }
+            } ]
+          }
+        }
+      }, {
+        "rank" : 6,
+        "viewId" : 0,
+        "_id" : 12214510,
+        "name" : "kc / Outfield Experience",
+        "itemType" : "page",
+        "state" : "A",
+        "createdOn" : "2010-07-12T00:00:00-0400",
+        "userDate" : "2010-07-12T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=kc%20%2F%20Outfield%20Experience",
+        "appAccountIds" : [ 14 ],
+        "fields" : {
+          "long_title" : "Outfield Experience",
+          "id" : "outfield_experience",
+          "short_title" : "Outfield Experience",
+          "is_web_only" : "N",
+          "url" : "/kc/ballpark_demo/information/outfield_experience.jsp",
+          "body" : "<p>For young Royals fans, a day at The K is more than just a baseball game in 2010. Grab the little ones and head out to the ballpark early to take advantage of the new kid-friendly Outfield Experience!</p>\n\n<h5>Outfield Experience Essentials</h5>\n<ul class=\"bullet_round_black\">\n<li>The Outfield Experience will open 1 &#189; hours before game time 7 days a week. Fans may access the Outfield Experience through Gates A and E. On Saturday, July 31, Gates A & E will open at 3:00 p.m. to accommodate Salute to the Negro Leagues and on Saturday, September 18, Gates A & E will open at 3:30 p.m. for Girls Night Out VIP ticket holders.</li>\n<li>Tokens are needed for most - but not all - of the Outfield Experience activities. Tokens cost $1 and can be purchased at the token sales counter located by the carousel.</li>\n<li>The Outfield Experience includes four separate restroom facilities and two family restrooms.</li>\n<li>The Outfield Experience is equipped with Flat Screen TV's with IPTV Technology and every turn so you won't miss a minute of the game.</li></ul>",
+          "items" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 3,
+              "viewId" : 0,
+              "_id" : 14097716,
+              "name" : "kc / Retail",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-08-30T00:00:00-0400",
+              "userDate" : "2010-08-30T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20%2F%20Retail",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "is_web_only" : "N",
+                "url" : "/kc/ballpark_demo/information/outfield_experience.jsp?content=retail",
+                "short_title" : "Retail",
+                "id" : "outfield_experience_retail",
+                "long_title" : "Retail",
+                "body" : "<ul class=\"photo_container\">\n\t<li><img src=\"/kc/images/ballpark/y2010/kids_store_150.jpg\" width=\"132\" height=\"92\" /></li>\n</ul>\n<p>Swing by the Hall of Fame, New Era and Kids stores for all the latest Royals gear.</p>\n<ul class=\"related_content\">\n\t<li><a href=\"/kc/ballpark_demo/information/outfield_experience.jsp?content=retail\">More Info</a></li>\n</ul>"
+              }
+            }, {
+              "rank" : 2,
+              "viewId" : 0,
+              "_id" : 14097714,
+              "name" : "kc / Food And Beverage",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-08-30T00:00:00-0400",
+              "userDate" : "2010-08-30T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20%2F%20Food%20And%20Beverage",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "long_title" : "Food And Beverage",
+                "id" : "outfield_experience_food_and_beverage",
+                "url" : "/kc/ballpark_demo/information/outfield_experience.jsp?content=food_and_beverage",
+                "is_web_only" : "N",
+                "short_title" : "Food And Beverage",
+                "body" : "<ul class=\"photo_container\">\n\t<li><img src=\"/kc/images/ballpark/y2010/beverage_150x100.jpg\" width=\"132\" height=\"92\" /></li>\n</ul>\n<p>Enjoy Stroud's Chicken, Sheridan's Frozen Custard, All-Star BBQ and more!</p>\n<ul class=\"related_content\">\n\t<li><a href=\"/kc/ballpark_demo/information/outfield_experience.jsp?content=food_and_beverage\">More Info</a></li>\n</ul>"
+              }
+            }, {
+              "rank" : 1,
+              "viewId" : 0,
+              "_id" : 14097712,
+              "name" : "kc / Events",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-08-30T00:00:00-0400",
+              "userDate" : "2010-08-30T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20%2F%20Events",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "id" : "outfield_experience_events",
+                "short_title" : "Events",
+                "long_title" : "Events",
+                "is_web_only" : "N",
+                "url" : "/kc/ballpark_demo/information/outfield_experience.jsp?content=events",
+                "body" : "<ul class=\"photo_container\">\n\t<li><img src=\"/kc/images/ballpark/y2010/610_sat_200.jpg\" width=\"132\" height=\"92\" /></li>\n</ul>\n<p>Check out some the great events planned for 2010 in the Outfield Experience.</p>\n<ul class=\"related_content\">\n\t<li><a href=\"/kc/ballpark_demo/information/outfield_experience.jsp?content=events\">More Info</a></li>\n</ul>"
+              }
+            }, {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 14097718,
+              "name" : "kc / Activities",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-08-30T00:00:00-0400",
+              "userDate" : "2010-08-30T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20%2F%20Activities",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "url" : "/kc/ballpark_demo/information/outfield_experience.jsp?content=activities",
+                "short_title" : "Activities",
+                "long_title" : "Activities",
+                "id" : "outfield_experience_activities",
+                "is_web_only" : "N",
+                "body" : "<ul class=\"photo_container\">\n\t<li><img src=\"/kc/images/ballpark/y2010/activities_150x100.jpg\" width=\"132\" height=\"92\" /></li>\n</ul>\n<p>There are many new activities in the new Outfield Experience including Sluggerrr's Pitching Mound, the Carousel and More.</p>\n<ul class=\"related_content\">\n\t<li><a href=\"/kc/ballpark_demo/information/outfield_experience.jsp?content=activities\">More Info</a></li>\n</ul>"
+              }
+            } ]
+          }
+        }
+      }, {
+        "rank" : 5,
+        "viewId" : 0,
+        "_id" : 12216386,
+        "name" : "KC / Getting to the K",
+        "itemType" : "page",
+        "state" : "A",
+        "createdOn" : "2010-07-12T00:00:00-0400",
+        "userDate" : "2010-07-12T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=KC%20%2F%20Getting%20to%20the%20K",
+        "appAccountIds" : [ 14 ],
+        "fields" : {
+          "long_title" : "Getting to the K",
+          "is_web_only" : "N",
+          "id" : "gettothek",
+          "url" : "/kc/ballpark_demo/get/index.jsp",
+          "short_title" : "Getting to the K",
+          "body" : "<p >Getting to The K has been updated as part of the $250 million renovation of Kauffman Stadium. Because of this, you won't be able to drive your vehicle from the West Parking Lot to the East Parking Lot (or vice-versa) once you've entered the stadium complex.</p>",
+          "pages" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 12216384,
+              "name" : "KC / Getting to the K",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-07-12T00:00:00-0400",
+              "userDate" : "2010-07-12T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=KC%20%2F%20Getting%20to%20the%20K",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "long_title" : "Getting to the K",
+                "is_web_only" : "N",
+                "id" : "get_to_the_k",
+                "short_title" : "Getting to the K",
+                "url" : "/kc/ballpark_demo/get/index.jsp",
+                "body" : "<div class=\"row_a feature\"> <!-- 50/50 BEGIN -->\n<div class=\"column first\">\n                     <div class=\"cell_head_secondary\">MAILING ADDRESS</div>\n    <div class=\"cell_desc_secondary\">P.O. Box 419969<br />\n\t\t\t\t\tKansas City, MO 64141-6969</div>     \n    </div>\n    <div class=\"column\">\n        \t<div class=\"cell_head_secondary\">PHONE NUMBER</div>\n\t <div class=\"cell_desc_secondary\">816.921.8000</div>     \n    </div><!-- 50/50 END -->\n</div>\n\n\n\t\t\t\t\t\n\n\n<p>&nbsp;</p>\n\n<p class=\"textLg primary\"><strong>GENERAL DIRECTIONS</strong></p>\n  \n\t\n\t\n\n\n<div class=\"row_a feature\"> <!-- 50/50 BEGIN -->\n<div class=\"column first\">\n                   <div class=\"cell_head\">COMING FROM THE<br>EAST OR WEST</div>\n<div class=\"cell_desc\"><ol class=\"numeric\"><li>Head into Kansas City on Interstate 70</li><li>Take Exit #9 - Blue Ridge Cutoff/Sports Complex</li></ol></div>\n         \n    </div>\n    <div class=\"column\">\n      <div class=\"cell_head\">COMING FROM THE<br>NORTH OR SOUTH</div>\n<div class=\"cell_desc\"><ol class=\"numeric\"><li>Head into Kansas City on Interstate 435</li><li>Take Exit #63 B - Sports Complex exit</li></ol></div>\n\n      \n    </div><!-- 50/50 END -->\n</div>\n<p>&nbsp;</p>\n<ul class=\"related_content\"><li>\n<p class=\"hlSm\">Area Map</p>\n<p align=\"center\"><img src=\"/kc/images/ballpark/metro_map.jpg\" width=\"430\" height=\"500\" alt=\"\" border=\"0\" alt=\"area map\"></p>\n<p>&nbsp;</p>\n<p class=\"hlSm\">Parking Map</p>\n<p>\nCheck out more detailed <a href=\"/kc/ballpark/parking.jsp\"><strong>parking information &raquo;</strong></a></p>\n<p align=\"center\"><img src=\"/kc/images/ballpark/2009_parking.gif\" height=\"387\" width=\"581\" alt=\"General Parking Map\"></p>\n<p>&nbsp;</p></li>\n</ul>"
+              }
+            } ]
+          }
+        }
+      }, {
+        "rank" : 9,
+        "viewId" : 0,
+        "_id" : 11191194,
+        "name" : "kc / Royals Hall of Fame",
+        "itemType" : "page",
+        "state" : "A",
+        "createdOn" : "2010-06-15T00:00:00-0400",
+        "userDate" : "2010-06-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=kc%20%2F%20Royals%20Hall%20of%20Fame",
+        "appAccountIds" : [ 14 ],
+        "fields" : {
+          "long_title" : "Royals Hall of Fame",
+          "url" : "/kc/ballpark/hall_of_fame.jsp",
+          "short_title" : "Royals Hall of Fame",
+          "is_web_only" : "Y",
+          "body" : null
+        }
+      }, {
+        "rank" : 3,
+        "viewId" : 0,
+        "_id" : 11191086,
+        "name" : "kc Ballpark History",
+        "itemType" : "page",
+        "state" : "A",
+        "createdOn" : "2010-06-15T00:00:00-0400",
+        "userDate" : "2010-06-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=kc%20Ballpark%20History",
+        "appAccountIds" : [ 14 ],
+        "fields" : {
+          "short_title" : "Ballpark History",
+          "is_web_only" : "N",
+          "long_title" : "Ballpark History",
+          "url" : "/kc/ballpark_demo/history/index.jsp",
+          "id" : "history",
+          "body" : null,
+          "pages" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 11191084,
+              "name" : "kc History of Kauffman Stadium",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-06-15T00:00:00-0400",
+              "userDate" : "2010-06-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20History%20of%20Kauffman%20Stadium",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "short_title" : "History of Kauffman Stadium",
+                "is_web_only" : "N",
+                "id" : "ballpark_history",
+                "url" : "/kc/ballpark_demo/history/index.jsp",
+                "long_title" : "History of Kauffman Stadium",
+                "body" : "\n<p class=\"h1md primary\"><strong>THE HISTORY OF KAUFFMAN STADIUM</strong></p>\n\n<p>Opened as Royals Stadium on April 10, 1973, Kauffman is recognized throughout baseball as one of the game's most beautiful ballparks. Since then, many exciting games have been contested, including the 1973 All-Star Game, three no-hitters, playoff games in 1976, '77, '78, '80, '81, '84 and '85 and seven World Series tilts in 1980 and 1985. The facility was officially renamed in honor of Ewing M. Kauffman in a ceremony at the stadium on July 2, 1993. </p>\n<p>Before the 2004 season, the outfield fences in the gaps and in straight-away center field were moved back 10 feet to their original dimensions of 387 and 410, respectively, making Kauffman Stadium one of the most spacious parks in Major League Baseball. In addition, the warning track was changed to a natural surface, and the height of the fence is now at 8 feet. The fences were moved in 10 feet from bullpen to bullpen prior to the 1995 season and lowered from 12 feet to 9 feet. Also at that time, a grass playing field replaced the artificial surface at Kauffman Stadium. </p>\n<p>Kauffman Stadium's unique features include a a 322-foot wide water spectacular. The water spectacular is the largest privately funded fountain in the world.</p>\n<p>In keeping with the architecture of the stadium, the existing water spectacular featuring cascading water now extends near the left field corner.</p>\n<p>Prior to the 1999 campaign, additional field level seating, known as \"Crown Seats\" and four dugout suites were added. </p>\n<p>The renaming of the stadium was appropriate in that it was the strength and integrity of Ewing M. Kauffman's ownership that provided the cornerstone for the Royals success. Kauffman purchased the club as an expansion franchise in 1968 with the primary and continuous motivation of providing winning Major League Baseball for Kansas Citians. Kauffman, who founded Marion Laboratories in his mother's basement and built it into a diversified health care company with sales reaching nearly one billion dollars, possessed a sense of daring and an innate ability to motivate those around him. \"Mr. K\" also gave much personal attention to the Kansas City community, an important philosophy that was inbred into the Royals organization and still remains today.</p>\n<p>Among the awards Mr. Kauffman won for his leadership include the Kansas City Press Club's 1973 Man of the Year, an induction into the Missouri Sports Hall of Fame and was one of 20 finalists for enshrinement in the Baseball Hall of Fame in 2008. Mr. K passed away on Aug. 1, 1993.</p>\n\n\n\n\n  <span class=\"hlXs\">Kauffman Stadium Milestones</span> <br />\n  <br />\n <ul class=\"bullet_round_black\">\n \t<li><b>July 11, 1968</b> - Ground is broken for Kansas City's Harry S. Truman Sports Complex.</li>\n    <li><b>April 10, 1973</b> - Royals Stadium is inaugurated with 39,464 fans for a 12-1 win over Texas.</li>\n    <li><b>May 15, 1973</b> - California Angels ace Nolan Ryan records the first no-hitter at Royals Stadium. He struck out 12 for a 3-0 win, his first career no-hitter.</li>\n    <li><b>July 24, 1973</b> - Kansas City hosts the 40th anniversary All-Star Game. Cincinnati's Johnny Bench blasts a mammoth homer to spark a 7-1 National League win. Hall of Famer Willie Mays makes his last All-Star appearance and Royals John Mayberry and Amos Otis combine for 3 of the 5 A.L. hits.</li>\n    <li><b>Oct. 3, 1976</b> - George Brett, Hal McRae and Minnesota's Rod Carew entered the final game of the season separated by .001 in the batting race. Brett (.333) went 3-for-4 to edge teammate McRae (.332) by .001 in a battle of one of the closest batting title races in baseball history.</li>\n    <li><b>Oct. 9, 1976</b> - First post-season game played at Royals Stadium in Game 1 of the 1976 American League Championship Series. New York takes a 4-1 win in the opener.</li>\n    <li><b>Oct. 10, 1976</b> - Kansas City wins its first post-season game with a 7-3 victory against the Yankees.</li>\n    <li><b>May 14, 1977</b> - Jim Colborn hurls the first no-hitter by a Royals pitcher at Royals Stadium, blanking Texas, 6-0.</li>\n    <li><b>Sept. 15, 1977</b> - The Royals take a 10-inning, 5-4 win in the 2nd game of a doubleheader vs. Oakland to set club record of 16 straight wins.</li>\n\t <li><b>Sept. 29, 1977</b> - The Royals reach the 100-win mark as they defeat the California Angels, 6-3. </li>\n    <li><b>Oct. 1, 1978</b> - The Royals finish at 92-70 and draw a season attendance total of 2,255,294, the first time Kansas City has drawn over two million fans.</li>\n    <li><b>July 26, 1980</b> - The largest single-game attendance record at Royals Stadium is established as 41,860 fans watch Kansas City face New York.</li>\n    <li><b>Aug. 17, 1980</b> - George Brett reaches the .400 mark with a 4-for-4 outburst against Toronto, capped by a standing ovation at second base after a double.</li>\n    <li><b>Oct. 17, 1980</b> - Kansas City hosts its first World Series game and registers a 4-3, 10-inning win vs. the Philadelphia Phillies.</li>\n    <li><b>Oct. 27, 1985</b> - The Royals captures its first World Series Championship with an 11-0 win at Royals Stadium in Game 7 over St. Louis.</li>\n    <li><b>June 7, 1986</b> - Amos Otis and Steve Busby are the inaugural inductees into the newly formed Royals Hall of Fame with a pre-game ceremony.</li>\n    <li><b>Sept. 14, 1986</b> - Bo Jackson launches the longest home run in Royals Stadium history, a 475-foot shot off Seattle's Mike Moore. It was Jackson's first career home run.</li>\n    <li><b>July 3, 1987</b> - \"Dick Howser Day\" is held at Royals Stadium for the late manager. Howser's number 10 is retired and he is inducted into the Royals Hall of Fame.</li>\n    <li><b>Sept. 24, 1989</b> - The Royals set their all-time season attendance mark at 2,477,700.</li>\n\t<li><b>July 6, 1991</b> - Danny Tartabull becomes the first Royal to hit 3 home runs at Royals Stadium. </li>\n    <li><b>Aug. 26, 1991</b> - Bret Saberhagen fires a no-hitter to beat the White Sox 7-0 at Royals Stadium.</li>\n    <li><b>May 23, 1993</b> - Owner Ewing Kauffman inducted into the Royals Hall of Fame. </li>\n    <li><b>July 2, 1993</b> - Royals Stadium is renamed to Kauffman Stadium.</li>\n    <li><b>Sept. 29, 1993 </b>- George Brett plays final game at Kauffman Stadium and concludes his career by kissing home plate after the game.</li>\n    <li><b>April 7, 1995</b> - New grass field replaces the artificial turf surface.</li>\n\t<li><b>June 14, 1996</b> - Cal Ripken Jr. of the Baltimore Orioles played in consecutive game number 2,216, breaking the previous world record for consecutive games played, which was held by Sachio Kinugasa of Japan.</li>\n    <li><b>Sept. 16, 1996</b> - Minnesota's Paul Molitor lashes a triple to join the 3,000 hit club.</li>\n    <li><b>June 16, 1997 </b>- The first interleague game is played at Kauffman Stadium, as Kansas City topples Houston, 5-2.</li>\n    <li><b>April 7, 1999</b> - The debut of the Royals offseason renovations, with the new Crown Club, Dugout Suites and lower level seat replacement project.</li>\n    <li><b>Aug. 7, 1999</b> - The Royals hold an on-field ceremony to honor George Brett's induction into the Baseball Hall of Fame.</li>\n    <li><b>April 7, 2000</b> - The Royal Pavilion and completed seat replacement makes a debut at Kauffman Stadium.</li>\n    <li><b>June 10, 2000 </b>- Kansas City welcomes David Glass with a pre-game ceremony to commemorate the new ownership of the Kansas City Royals.</li>\n    <li><b>April 25, 2000</b> - Kansas City goes over the 50 million mark in attendance. </li>\n    <li><b>June 8, 2004</b> - Kansas City goes over the 60 million mark in attendance.</li> \n\t<li><strong>May 31, 2005</strong> - The Buddy Bell era begins as Kansas City defeats the New York Yankees in Bell?s managerial debut with the Royals. KC would go on to sweep the Yankees in the three-game series. </li>\n<li><strong>Aug. 12, 2005</strong> - The Royals celebrate the 20th anniversary of the 1985 World Championship with a World Series Reunion Weekend.</li>\n<li><strong>April 4, 2006</strong> - Kansas City voters approve a $250 million renovation of Kauffman Stadium to update the 35 year old facility.</li>\n<li><strong>April 5, 2006</strong> - Mascot Sluggerrr celebrates his 10th birthday</li>\n<li><strong>April 21, 2006</strong> - The Royals named the Kauffman Stadium Press Box after Hall of Fame writer and former Royals board member, Joe McGuff.</li>\n<li><strong>June 10, 2006</strong> - Outfielder Reggie Sanders hits his 300th career home run off of Tampa Bay?s Chad Harville to become just the fifth player in Major League history to record both 300 home runs and 300 steals in a career, joining Barry Bonds, Bobby Bonds, Andre Dawson and Willie Mays. Steve Finley became the sixth member of the elite group later in 2006. </li>\n<li><strong>Oct. 3, 2007</strong> - Ground is broken on a $250 million renovation of Kauffman Stadium.  </li>\n<li><strong>Sept. 21, 2008</strong> - The final home game in the \"old\" Kauffman Stadium is played.  </li>\n</ul>"
+              }
+            } ]
+          }
+        }
+      }, {
+        "rank" : 2,
+        "viewId" : 0,
+        "_id" : 11191658,
+        "name" : "kc Kauffman Stadium Panoramas",
+        "itemType" : "page",
+        "state" : "A",
+        "createdOn" : "2010-06-15T00:00:00-0400",
+        "userDate" : "2010-06-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=kc%20Kauffman%20Stadium%20Panoramas",
+        "appAccountIds" : [ 14 ],
+        "fields" : {
+          "short_title" : "Kauffman Stadium Panoramas",
+          "id" : "panoramas",
+          "is_web_only" : "Y",
+          "url" : "/kc/ballpark/ballpark_panoramas.jsp",
+          "long_title" : "Kauffman Stadium Panoramas",
+          "body" : null
+        }
+      }, {
+        "rank" : 1,
+        "viewId" : 0,
+        "_id" : 11192244,
+        "name" : "kc / Tours",
+        "itemType" : "page",
+        "state" : "A",
+        "createdOn" : "2010-06-15T00:00:00-0400",
+        "userDate" : "2010-06-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=kc%20%2F%20Tours",
+        "appAccountIds" : [ 14 ],
+        "fields" : {
+          "long_title" : "Tours",
+          "short_title" : "Tours",
+          "is_web_only" : "N",
+          "id" : "tours",
+          "url" : "/kc/ballpark_demo/tours/index.jsp",
+          "body" : "<ul class=\"photo_container\"><li><img class=\"image_left\" alt=\"Kauffman Stadium\" src=\"http://mlb.mlb.com/kc/images/ballpark/new_stadium_280.jpg\"></li></ul>\n\n<p>Kauffman Stadium, home of the Kansas City Royals, is better than ever! In addition to having the largest hi-definition video board in Major League Baseball, it now features an expanded Outfield Plaza, Royals Hall of Fame, Interactive Kids Area and the new Rivals Sports Bar.</p>\n\t<p>A tour of this \"Crown Jewel\" of baseball stadiums will take you to areas of the ballpark not normally open to the public including the Royals Dugout, Crown Club and Visitor's locker room.*</p>\n\t<ul class=\"related_content\"><li><span class=\"button purchase\"><a href=\"http://purchase.tickets.com/buy/MLBEventInfo?orgid=22613&agency=MLBTOUR&trxstate=8\" target=\"_blank\">Buy Tour Tickets Now </a></span></li></ul>\n",
+          "pages" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 11192242,
+              "name" : "kc Educational Field Trips",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-06-15T00:00:00-0400",
+              "userDate" : "2010-06-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20Educational%20Field%20Trips",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "url" : "/kc/ballpark_demo/tours/index.jsp",
+                "short_title" : "Educational Field Trips",
+                "id" : "education",
+                "is_web_only" : "N",
+                "long_title" : "Educational Field Trips",
+                "body" : "Reserve your time now for your end of season celebration in one of our Hall of Fame Suites located in the new Royals Hall of Fame.\nThe package includes:\n\t<dl class=\"bullet_round_black\">\n\t\t<dd>Private tour of Kauffman Stadium</dd>\n\t\t<dd>Private suite overlooking the field</dd>\n\t\t<dd>Team greeting on the video boards</dd>\n\t\t<dd>Party favors for team members</dd>\n\t\t<dd>Team photo opportunities in the Royals Dugout</dd>\n\t\t<dd>Private guided tour of the Royals Hall of Fame</dd>\n\t</dl>\n\t<p>To schedule your banquet; contact Morrie Carlson at (816) 504-4222.</p>\n<ul class=\"related_content\"><li><span class=\"button content\"><a href=\"http://kansascity.royals.mlb.com/kc/ballpark/rsvp.jsp\" target=\"_blank\">Book A Birthday Party</a></span></li></ul>"
+              }
+            }, {
+              "rank" : 1,
+              "viewId" : 0,
+              "_id" : 11192240,
+              "name" : "kc / Birthday Party Tours ",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-06-15T00:00:00-0400",
+              "userDate" : "2010-06-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20%2F%20Birthday%20Party%20Tours%20",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "long_title" : "Birthday Party Tours ",
+                "id" : "party_tours",
+                "url" : "/kc/ballpark_demo/tours/index.jsp",
+                "short_title" : "Birthday Party Tours ",
+                "is_web_only" : "N",
+                "body" : "<p>\"The Party\" is 2 hours of fun for everyone, including the adults. Your birthday party package includes:\n\t<dl class=\"bullet_round_black\">\n\t\t<dd>A private guided tour for up to 16 people</dd>\n\t\t<dd>Access to the Little K Diamond</dd>\n\t\t<dd>Pizza or Hot Dog Lunch at Rivals Sports Bar</dd>\n\t\t<dd>Official KC Royals Autographed MLB Baseball</dd>\n\t\t<dd>Party favors for all guests</dd>\n\t\t<dd>Special Royals Baseball Birthday Cake</dd>\n\t</dl>\n\t<p>The cost for \"The Party\" is $400 for up to 16 people. Additional guests are $25 each. To schedule a birthday party, contact Morrie Carlson at (816) 504-4222, or fill out the reservation form by clicking the \"Book Birthday Party ?\" button below.</p>\n<ul class=\"related_content\"><li><span class=\"button purchase\"><a href=\"https://secure.mlb.com/kc/fan_forum/birthday_parties_form.jsp\" target=\"_blank\">Book A Birthday Party</a></span></li></ul>\n"
+              }
+            }, {
+              "rank" : 3,
+              "viewId" : 0,
+              "_id" : 11192236,
+              "name" : "KC Kauffman Stadium Ballpark Tours",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-06-15T00:00:00-0400",
+              "userDate" : "2010-06-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=KC%20Kauffman%20Stadium%20Ballpark%20Tours",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "url" : "/kc/ballpark/tours/index.jsp",
+                "id" : "ballpark_tours",
+                "is_web_only" : "N",
+                "long_title" : "Kauffman Stadium Ballpark Tours",
+                "short_title" : "Kauffman Stadium Ballpark Tours",
+                "body" : "<a name=\"public\"></a>\n<u>\"The Classic\"</u> - Get a behind-the-scenes peek at Kauffman Stadium on this 75 minute tour which includes:\n\n\n\n\t\t<dl class=\"bullet_round_black\">\n\t\t\t<dd>Royals Hall of Fame</dd>\n\t\t\t<dd>Press Box</dd>\n\t\t\t<dd>Royals Interview Room</dd>\n\t\t\t<dd>Royals Dugout</dd>\n\t\t\t<dd>Visitors Clubhouse (when available)</dd>\n\t\t</dl>\n\n\t\t<table cellspacing=\"1\" class=\"prices\" summary=\"This is a table describing the pricing options for The Classic ballpark tour of Kauffman Stadium\">\n\t\t\t<caption style=\"display:none;\">The Classic Stadium Tour Pricing</caption>\n\t\t\t<tbody>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"first\" colspan=\"2\">Prices</td>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"tickettype\">Adults</td>\n\t\t\t\t\t<td class=\"price\">$10</td>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"tickettype\">Seniors (55 & up)</td>\n\t\t\t\t\t<td class=\"price\">$9</td>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"tickettype\">Children (4-12)</td>\n\t\t\t\t\t<td class=\"price\">$7</td>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"tickettype\">Children (3 & under)</td>\n\t\t\t\t\t<td class=\"price\">Free</td>\n\t\t\t\t</tr>\n\t\t\t</tbody>\n\t\t</table>\n\n\t\n\n<p>\t<u>\"The All-Star\"</u> - This 90-minute \"VIP Tour\" includes all the stops on the \"Classic tour, a commemorative Kauffman Stadium baseball cap plus these additional areas:</p>\n\n\t\n\t\t\n\t\t<dl class=\"bullet_round_black\">\n\t\t\t<dd>Luxury Suite</dd>\n\t\t\t<dd>Dugout Suite</dd>\n\t\t\t<dd>Stadium Club</dd>\n\t\t\t<dd>Party Deck</dd>\n\t\t\t\t\t</dl>\n\n\t\t<table cellspacing=\"1\" class=\"prices\" summary=\"This is a table describing the pricing options for The All-Star ballpark tour of Kauffman Stadium\">\n\t\t\t<caption style=\"display:none;\">The All-Star Stadium Tour Pricing</caption>\n\t\t\t<tbody>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"first\" colspan=\"2\">Prices</td>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"tickettype\">Adults</td>\n\t\t\t\t\t<td class=\"price\">$20</td>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"tickettype\">Seniors (55 & up)</td>\n\t\t\t\t\t<td class=\"price\">$18</td>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"tickettype\">Children (4-12)</td>\n\t\t\t\t\t<td class=\"price\">$14</td>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"tickettype\">Children (3 & under)</td>\n\t\t\t\t\t<td class=\"price\">Free</td>\n\t\t\t\t</tr>\n\t\t\t</tbody>\n\t\t</table>\n\n\t\n<p>\n\t<u>\"The Grand Slam\"</u> - This two hour tour \"touches all the bases.\" Enjoy your tour from the comfort of a limousine golf cart complete with complimentary bottled water. In addition to all of the features of the All-Star tour, you will also receive an official Kansas City Royals autographed baseball and a 4x6 photo of you next to the giant #5 in the Royals Hall of Fame. It also includes these additional stops:\n</p>\n\t\t<dl class=\"bullet_round_black\">\n\t\t\t<dd>Diamond Club</dd>\n\t\t\t<dd>View Level Overlook</dd>\n\t\t\t<dd>Rivals Sports Bar</dd>\n\t\t\t<dd>Little K Playing field</dd>\n\t\t</dl>\n\n\t\t<table cellspacing=\"1\" class=\"prices\" summary=\"This is a table describing the pricing options for The Grand Slam ballpark tour of Kauffman Stadium\">\n\t\t\t<caption style=\"display:none;\">The Grand Slam Stadium Tour Pricing</caption>\n\t\t\t<tbody>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"first\" colspan=\"2\">Prices</td>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"tickettype\">Adults</td>\n\t\t\t\t\t<td class=\"price\">$50</td>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"tickettype\">Seniors (55 & up)</td>\n\t\t\t\t\t<td class=\"price\">$45</td>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"tickettype\">Children (4-12)</td>\n\t\t\t\t\t<td class=\"price\">$35</td>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"tickettype\">Children (3 & under)</td>\n\t\t\t\t\t<td class=\"price\">N/A</td>\n\t\t\t\t</tr>\n\t\t\t</tbody>\n\t\t</table>\n\n\n\n\t<p>\"<u>The Early Bird</u>\" - GAME TOUR - This one hour tour gets you inside The K before the gates open to the public for a front row seat to watch Royals batting practice. Early Bird is also a private guided tour of the Royals Hall of Fame and participants receive their own set of \"Official Game Notes.\" </p>\n\n\n\n\t\t\n\n\t\t<table cellspacing=\"1\" class=\"prices\" summary=\"This is a table describing the pricing options for The Grand Slam ballpark tour of Kauffman Stadium\">\n\t\t\t<caption style=\"display:none;\">The Early Bird - Game Tour</caption>\n\t\t\t<tbody>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"first\" colspan=\"2\">Prices</td>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"tickettype\">Adults</td>\n\t\t\t\t\t<td class=\"price\">$10</td>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"tickettype\">Seniors (55 & up)</td>\n\t\t\t\t\t<td class=\"price\">$10</td>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"tickettype\">Children (4-12)</td>\n\t\t\t\t\t<td class=\"price\">$10</td>\n\t\t\t\t</tr>\n\t\t\t\t\n\t\t\t</tbody>\n\t\t</table>\n\n\t<p>\"<u>The All-Access</u>\" - GAME TOUR - On this VIP tour you'll go on-the-field during Royals batting practice and make other unique stops, including the FS-Kansas City TV booth, Royals Radio Network booth and CrownVision videoboard control room as everyone prepares for game time. Then watch the game from Diamond Club Box seats and take home some great souvenirs including an official MLB bat and baseball autographed by a Royals Player. Limited availability - must be booked in advance!</p>\n\t\t<p>Call 816-504-4297 to schedule this unforgettable experience at Kauffman Stadium.</p>\n\t\t\n\n\t\t<table cellspacing=\"1\" class=\"prices\" summary=\"This is a table describing the pricing options for The Grand Slam ballpark tour of Kauffman Stadium\">\n\t\t\t<caption style=\"display:none;\">All-Access - Game Tour</caption>\n\t\t\t<tbody>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"first\" colspan=\"2\">Prices</td>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"tickettype\">Adults</td>\n\t\t\t\t\t<td class=\"price\">$250</td>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"tickettype\">Seniors (55 & up)</td>\n\t\t\t\t\t<td class=\"price\">$250</td>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"tickettype\">Children (4-12)</td>\n\t\t\t\t\t<td class=\"price\">$250</td>\n\t\t\t\t</tr>\n\t\t\t\t\n\t\t\t</tbody>\n\t\t</table>\n"
+              }
+            }, {
+              "rank" : 4,
+              "viewId" : 0,
+              "_id" : 11192234,
+              "name" : "KC Kauffman Stadium Tour Schedule",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-06-15T00:00:00-0400",
+              "userDate" : "2010-06-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=KC%20Kauffman%20Stadium%20Tour%20Schedule",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "long_title" : "Kauffman Stadium Tour Schedule",
+                "is_web_only" : "N",
+                "id" : "tour_schedule",
+                "url" : "/kc/ballpark/tours/index.jsp",
+                "short_title" : "Kauffman Stadium Tour Schedule",
+                "body" : "<a name=\"schedule\"></a>\n\t<dl class=\"list_a\">\n\t\t<dt>March 15 - October 10</dt>\n\t\t<dd><strong>Times:</strong></dd>\n\t\t<dd><u>\"The Classic\"</u> - 9:30, 11:00, 12:30, 2:00 Monday through Sunday on days when there are no games. On the days of evening games only the 9:30, 11:00 and 12:30 will be available. Tours are not available on day game days.</dd>\n\t\t<dd><u>\"The All-Star\"</u> - 9:30, 11:00, 12:30, 2:00 Monday through Sunday on days when there are no games. On the days of evening games only the 9:30, 11:00 and 12:30 will be available. Tours are not available on day game days.</dd>\n\t\t<dd><u>\"The Grand Slam\"</u> - 11:00 and 1:00 Monday through Sunday on days when there are no games. On the days of evening games only the 11:00 will be available. Tours are not available on day game days.</dd>\n\t\t<dD><u>\"The Early Bird\"</u> - 4:00 pm Friday and 3:00 pm Saturday for home games. 4:30 pm on selected Tuesdays and Thursdays (5/11, 6/1, 6/29, 7/20, 8/12, 8/17, 9/14).</dd>\n\t\t<dd><u>\"The All-Access\"</u> - 2 hours before any regularly scheduled Royals home game.</dd>\n\t</dl>\n\t<dl class=\"list_b\">\n\t\t<dt>October 11 - March 14, 2011 </dt>\n\t\t<dd><strong>Times:</strong></dd>\n\t\t<dd><u>Kauffman Stadium Tours</u> \n\t\t<dd>Stadium Tours are available any day of the week by appointment for groups of 10 or more guests. Please call (816) 504-4222 at least 24 hours in advance to book your event.</dd>\n\t\t<%--\n\t- 9:30, 11:00, 12:30, 2:00 Tuesday-Thursday-Saturday. Holiday schedule may vary, so call ahead for details.</dd>\n\t\t<dd><u>\"The All-Star\"</u> - 9:30, 11:00, 12:30, 2:00 Tuesday-Thursday-Saturday.</dd>\n\t\t<dd><u>\"The Grand Slam\"</u> - 11:00 and 1:00 Tuesday-Thursday-Saturday.</dd>--%></dl>"
+              }
+            }, {
+              "rank" : 5,
+              "viewId" : 0,
+              "_id" : 11192232,
+              "name" : "KC Kauffman Stadium Tour Tickets",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-06-15T00:00:00-0400",
+              "userDate" : "2010-06-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=KC%20Kauffman%20Stadium%20Tour%20Tickets",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "long_title" : "Kauffman Stadium Tour Tickets",
+                "is_web_only" : "N",
+                "id" : "tour_tickets",
+                "url" : "/kc/ballpark/tours/index.jsp",
+                "short_title" : "Kauffman Stadium Tour Tickets",
+                "body" : "<a name=\"tickets\"></a>\n\t<ul class=\"related_content\"><li><dl class=\"list_a\">\n\t\t<dt>Order your tickets online</dt>\n\t\t<dd>Advance individual tickets are ON SALE NOW online. To purchase tickets for a Kauffman Stadium Tour, click the \"Buy Tour Tickets Now ?\" below, select a month and click the <img src=\"http://mlb.mlb.com/mlb/images/icon_ticket.gif\" class=\"no_border\" alt=\"Buy Tickets\" class=\"t_button\" /> link on the date you wish to attend.</dd>\n\t\t<dd><span class=\"button purchase\"><a href=\"http://purchase.tickets.com/buy/MLBEventInfo?orgid=22613&agency=MLBTOUR&trxstate=8\" target=\"_blank\">Buy Tour Tickets Now </a></span></dd>\n\t</dl></li></ul>\n\t<dl class=\"list_b\">\n\t\t<dt>Purchase your tickets in person</dt>\n\t\t<dd>Tickets for all public tours can be purchased in advance or on the day of your tour at our main ticket office located behind home plate at Kauffman Stadium, One Royal Way, Kansas City, MO 64129.</dd>\n\t</dl>\n\t<dl class=\"list_b\">\n\t\t<dt>Purchase your ticket by phone or email</dt>\n\t\t<dd>For tour reservations by phone, please call (816) 504-4222 or email <a href=\"mailto:tours@royals.com\">tours@royals.com</a>.</dd>\n\t</dl>"
+              }
+            }, {
+              "rank" : 2,
+              "viewId" : 0,
+              "_id" : 11192238,
+              "name" : "KC Kauffman Stadium Group Tours",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-06-15T00:00:00-0400",
+              "userDate" : "2010-06-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=KC%20Kauffman%20Stadium%20Group%20Tours",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "long_title" : "Kauffman Stadium Group Tours",
+                "is_web_only" : "N",
+                "id" : "group_tours",
+                "url" : "/kc/ballpark/tours/index.jsp",
+                "short_title" : "Kauffman Stadium Group Tours",
+                "body" : "<p>Gather your team and SAVE!  Groups of 30 or more will receive a $1 discount per person. Reserve a private tour for your school, church, day care center, business, birthday party or family gathering. Group tours are available Monday through Friday 9 a.m.-3 p.m. and Saturday 9 a.m.-1 p.m. Reservations are required, and the Tour Department can be reached by phone at 816-504-4222 or e-mail at <a href=\"mailto:tours@royals.com\" class=\"primaryVlink\">tours@royals.com</a>.\n</p>"
+              }
+            } ]
+          }
+        }
+      }, {
+        "rank" : 0,
+        "viewId" : 0,
+        "_id" : 10109930,
+        "name" : "kc / Kauffman Stadium Information",
+        "itemType" : "page",
+        "state" : "A",
+        "createdOn" : "2010-05-17T00:00:00-0400",
+        "userDate" : "2010-05-17T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=kc%20%2F%20Kauffman%20Stadium%20Information",
+        "appAccountIds" : [ 14 ],
+        "fields" : {
+          "is_web_only" : "N",
+          "url" : "/kc/ballpark_demo/information/index.jsp",
+          "short_title" : "Kauffman Stadium Information",
+          "id" : "information",
+          "long_title" : "Kauffman Stadium Information",
+          "body" : "<p>The Kansas City Royals will celebrate their 38th season at Kauffman Stadium in 2010. Kauffman has always been one of the crown jewel ballparks of Major League Baseball. Hosting 63,761,065 baseball fans since 1973, \"The K\", with its signature look, has proudly stood the test of time</p>\n                                                                                <ul class=\"photo_container\">\n                                                                                                <li><img src=\"/kc/images/ballpark/y2010/thek_630x188.jpg\" /></li>\n                                                                                </ul>\n\n",
+          "items" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 1,
+              "viewId" : 0,
+              "_id" : 12215582,
+              "name" : "kc / Kauffman Stadium Photo Gallery",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-07-12T00:00:00-0400",
+              "userDate" : "2010-07-12T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20%2F%20Kauffman%20Stadium%20Photo%20Gallery",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "short_title" : "Photo Gallery",
+                "url" : "/kc/ballpark/the_new_k_gallery.jsp",
+                "is_web_only" : "N",
+                "long_title" : "Photo Gallery",
+                "body" : "<ul class=\"photo_container\">\n\t<li><img src=\"/kc/images/ballpark/y2009/gallery_132.jpg\" width=\"132\" height=\"92\" alt=\"Tarp over the field\" /></li>\n</ul>\n<p>Enjoy the Kauffman Stadium Photo Gallery page with photos from the New K interior, exterior and more. </p>\n<ul class=\"related_content\">\n\t<li><a href=\"/kc/ballpark/the_new_k_gallery.jsp\">More Info</a></li>\n</ul>"
+              }
+            }, {
+              "rank" : 2,
+              "viewId" : 0,
+              "_id" : 11191078,
+              "name" : "kc / Rivals",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-06-15T00:00:00-0400",
+              "userDate" : "2010-06-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20%2F%20Rivals",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "is_web_only" : "N",
+                "short_title" : "Rivals",
+                "id" : "rivals",
+                "url" : "/kc/ballpark/rivals.jsp",
+                "long_title" : "Rivals",
+                "body" : "<ul class=\"photo_container\">\n\t<li><img src=\"/kc/images/ticketing/y2009/rivals_132x92.jpg\" width=\"132\" height=\"92\" /></li>\n</ul>\n<p>Rivals Sports Bar, located just beyond the stadium's signature fountains in right field, boasts one of the best vantage points in the New K. </p>\n<ul class=\"related_content\">\n\t<li><a href=\"/kc/ballpark/rivals.jsp\">More Info</a></li>\n</ul>"
+              }
+            }, {
+              "rank" : 3,
+              "viewId" : 0,
+              "_id" : 11192086,
+              "name" : "kc / Ground Rules",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-06-15T00:00:00-0400",
+              "userDate" : "2010-06-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20%2F%20Ground%20Rules",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "id" : "rules",
+                "url" : "/kc/ballpark_demo/information/index.jsp?content=rules",
+                "is_web_only" : "N",
+                "long_title" : "Ground Rules",
+                "short_title" : "Ground Rules",
+                "body" : "<ul class=\"photo_container\">\n\t<li><img src=\"/kc/images/ballpark/y2010/ground_rules_132.jpg\" width=\"132\" height=\"92\" /></li>\n</ul>\n<p>Ground rules for games at Kauffman Stadium.</p>\n<ul class=\"related_content\">\n\t<li><a href=\"/kc/ballpark_demo/information/index.jsp?content=rules\">More Info</a></li>\n</ul>"
+              }
+            }, {
+              "rank" : 4,
+              "viewId" : 0,
+              "_id" : 11192084,
+              "name" : "kc / security",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-06-15T00:00:00-0400",
+              "userDate" : "2010-06-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20%2F%20security",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "is_web_only" : "N",
+                "url" : "/kc/ballpark_demo/information/index.jsp?content=security",
+                "long_title" : "Security",
+                "short_title" : "Security",
+                "id" : "security",
+                "body" : "<ul class=\"photo_container\">\n\t<li><img src=\"/kc/images/ballpark/y2009/security_132.jpg\" width=\"132\" height=\"92\" /></li>\n</ul>\n<p>Heightened ballpark security initiatives continue for games at Kauffman Stadium.</p>\n<ul class=\"related_content\">\n\t<li><a href=\"/kc/ballpark_demo/information/index.jsp?content=security\">More Info</a></li>\n</ul>"
+              }
+            }, {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 12215792,
+              "name" : "kc Weather Updates ",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-07-12T00:00:00-0400",
+              "userDate" : "2010-07-12T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20Weather%20Updates%20",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "id" : "weather",
+                "long_title" : "Weather Updates ",
+                "short_title" : "Weather Updates ",
+                "is_web_only" : "Y",
+                "url" : "/kc/ballpark/weather_update.jsp",
+                "body" : "<ul class=\"photo_container\">\n\t<li><img src=\"/kc/images/ballpark/y2009/weather_132.jpg\" width=\"132\" height=\"92\" alt=\"Tarp over the field\" /></li>\n</ul>\n<p>Check out the Royals weather updates every time you're heading out to the ballpark for up-to-the-minute information on weather and other game day conditions.</p>\n<ul class=\"related_content\">\n\t<li><a href=\"/kc/ballpark/weather_update.jsp\">More Info</a></li>\n</ul>"
+              }
+            }, {
+              "rank" : 5,
+              "viewId" : 0,
+              "_id" : 10109928,
+              "name" : "kc / A-Z Guide",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-05-17T00:00:00-0400",
+              "userDate" : "2010-05-17T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20%2F%20A-Z%20Guide",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "id" : "ballpark_guide",
+                "short_title" : "A-Z Guide",
+                "url" : "/kc/ballpark_demo/information/index.jsp?content=guide",
+                "is_web_only" : "N",
+                "long_title" : "A-Z Guide",
+                "body" : "<ul class=\"photo_container\">\n\t<li><img src=\"/kc/images/ballpark/y2009/atoz_132.jpg\" width=\"132\" height=\"92\" /></li>\n</ul>\n<p>Looking for specific details on how things work at Kauffman Stadium? Our A-to-Z Guide can answer your questions!</p>\n<ul class=\"related_content\">\n\t<li><a href=\"/kc/ballpark_demo/information/index.jsp?content=guide\">More Info</a></li>\n</ul>"
+              }
+            } ]
+          },
+          "pages" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 13317966,
+              "name" : "Kc / Best Around the Ballpark, presented by Yahoo!",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-08-11T00:00:00-0400",
+              "userDate" : "2010-08-11T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=Kc%20%2F%20Best%20Around%20the%20Ballpark%2C%20presented%20by%20Yahoo%21",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "id" : "best_around_the_ballpark\n",
+                "url" : "/sponsors/yahoo/best_around_the_ballpark.jsp?c_id=kc",
+                "short_title" : "Best Around the Ballpark, presented by Yahoo!",
+                "is_web_only" : "Y",
+                "body" : null
+              }
+            }, {
+              "rank" : 3,
+              "viewId" : 0,
+              "_id" : 11192422,
+              "name" : "KC / Security",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-06-15T00:00:00-0400",
+              "userDate" : "2010-06-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=KC%20%2F%20Security",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "is_web_only" : "N",
+                "short_title" : "Security",
+                "id" : "security",
+                "url" : "/kc/ballpark_demo/information/index.jsp?content=security",
+                "long_title" : "Security",
+                "body" : "<ul class=\"photo_container\">\n\t<li><img src=\"/kc/images/ballpark/y2009/security_132.jpg\" width=\"132\" height=\"92\" /></li>\n</ul>\n<p>Heightened ballpark security initiatives continue for games at Kauffman Stadium.</p>",
+                "pages" : {
+                  "XMLCascade" : "Y",
+                  "items" : [ {
+                    "rank" : 1,
+                    "viewId" : 0,
+                    "_id" : 11704212,
+                    "name" : "kc Prohibited Items",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-28T00:00:00-0400",
+                    "userDate" : "2010-06-28T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=kc%20Prohibited%20Items",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "long_title" : "Prohibited Items",
+                      "short_title" : "Prohibited Items",
+                      "is_web_only" : "N",
+                      "id" : "items",
+                      "body" : " Heightened security policies established by the Kansas City Royals and Kauffman Stadium remain in effect. We would like to remind you that these enhanced security measures are for your safety. We understand that this is an added inconvenience, however due to the nature of current world events, we feel they are necessary. \n<p align=\"left\"><strong>The following items are prohibited from Kauffman Stadium</strong></p>\n\n<p class=\"textXs\">Bags/purses in excess of 16&quot; x 16&quot; x 8&quot;<br>\nBackpacks in excess of 16&quot; x 16&quot; x 8&quot;<br>\nLiquid containers of any kind/type (water in plastic cups or bottles is acceptable)<br>\nWeapons/fireworks<br>\nItems that could be projectiles<br>\n\nCameras with 12&quot; or more lenses<br>\nBanners or flags with sticks in them<br>\nBullhorns/airhorns<br>\nLasers or laser pens<br>\nBrooms in excess of 4 feet in height<br>\nCoolers of any kind<br>\nAnything that can obstruct a fans view<br>\nWrapped presents and/or gifts of any kind*</p>\n\n <p>*Please note that if you have a planned party of any kind that includes gifts, we advise either wrapping the gift item at Kauffman Stadium after the item has been inspected or place the unboxed gift item in a gift bag. Our security staff will ask guests to open any wrapped items.</p>\n If any of the above items are discovered at our gates, our security staff members will ask that you return these items to your vehicle or be thrown away. Prohibited items will not be stored at the gates or guest services.</p>\n          "
+                    }
+                  }, {
+                    "rank" : 0,
+                    "viewId" : 0,
+                    "_id" : 11704214,
+                    "name" : "kc These initiatives include",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-28T00:00:00-0400",
+                    "userDate" : "2010-06-28T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=kc%20These%20initiatives%20include",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "long_title" : "These initiatives include:",
+                      "short_title" : "These initiatives include:",
+                      "is_web_only" : "N",
+                      "id" : "initatives",
+                      "body" : "<p>Heightened ballpark security initiatives continue for games at Kauffman Stadium.</p>\n\n      <p><strong>These initiatives include:</strong></p>\n      <ul style=\"margin-left: 15px\" class=\"bullet_round_black\">\n        <li>Increased presence of uniformed law enforcement at all games.\n        <li>Daily facility inspection by stadium and law enforcement personnel prior to the opening of gates to the public.\n        <li>Identification and inspection of all ballpark deliveries.\n        <li>Prohibition of coolers, large backpacks or large bags in the ballpark;smaller bags, backpacks and other articles to be inspected prior to entry. <strong>Bags, backpacks or other articles must fit within a space  of 16&quot; x 16&quot; x 8&quot; inches (16 inches long, 16 inches tall,  and 8 inches wide).</strong> Articles or bags fans intend to bring into  Kauffman Stadium must not exceed these dimensions.        \n        <li>Unauthorized vehicle parking prohibited within 100 feet of the ballpark exterior; parking lots are inspected daily and unattended vehicles removed.\n        <li>Security awareness training for all club personnel and detailed review of all existing security personnel.\n      </ul>\n\n\t  \n      <p>To help insure everyone's safety and enjoyment of the game the Kansas City Royals request your assistance in abiding by these policies:</p> \n      <div style=\"margin-left: 15px\"><p>Guests will enjoy the baseball experience free from foul/abusive language or obscene gestures. </p>\n<p>Intervention with an impaired or intoxicated guest will be handled in a prompt and safe manner. </p>\n<p>The progress of the game will not be disrupted by guests' actions or unauthorized persons on the playing field.</p>\n<p>Smoking will be permitted in designated areas only. </p>\n<p>Guests will show their ticket when requested and out of respect for other customers, sit only in their seat. </p>\n<p>Large bags, hard sided coolers, alcoholic beverages or liquid containers will not be allowed to enter the park. </p>\n<p>Bags that do not exceed 16x16x8 inches will be permitted in the park after a thorough inspection by Royals personnel. </p>\n\n<p>Water in plastic bottles or cups will be allowed to enter the stadium.</p>"
+                    }
+                  } ]
+                }
+              }
+            }, {
+              "rank" : 2,
+              "viewId" : 0,
+              "_id" : 11192420,
+              "name" : "kc / Ground Rules",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-06-15T00:00:00-0400",
+              "userDate" : "2010-06-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20%2F%20Ground%20Rules",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "is_web_only" : "N",
+                "short_title" : "Ground Rules",
+                "id" : "groundrules",
+                "url" : "/kc/ballpark_demo/information/index.jsp?content=rules",
+                "long_title" : "Ground Rules",
+                "body" : "<ul class=\"photo_container\">\n\t<li><img src=\"/kc/images/ballpark/y2010/ground_rules_132.jpg\" width=\"132\" height=\"92\" alt=\"Ground Rules\" /></li>\n</ul>\n\n<p>Kauffman Stadium Ground Rules</p>",
+                "pages" : {
+                  "XMLCascade" : "Y",
+                  "items" : [ {
+                    "rank" : 0,
+                    "viewId" : 0,
+                    "_id" : 11704512,
+                    "name" : "kc Rules",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-28T00:00:00-0400",
+                    "userDate" : "2010-06-28T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=kc%20Rules",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "is_web_only" : "N",
+                      "short_title" : "Kauffman Stadium Ground Rules",
+                      "url" : "/kc/ballpark_demo/information/index.jsp?content=rules",
+                      "id" : "ground_rules",
+                      "long_title" : "Kauffman Stadium Ground Rules",
+                      "body" : "<p>Foul poles -- above surrounding fenceline is a home run. Below surrounding fenceline is in play.</p>\n<p>Ball going into dugout, camera bays or hitting padded protective railings along dugout is out of play.</p>\n<p>Ball hitting guy wires supporting backstop screen is the same as ball going into stands.</p>\n<p>Batted or thrown ball that hits tarpaulin area cover is in play.</p>\n<p>Thrown ball lodging in or under backstop protective canvas and remaining: 2 bases; Pitched ball: 1 base.</p>"
+                    }
+                  } ]
+                }
+              }
+            }, {
+              "rank" : 1,
+              "viewId" : 0,
+              "_id" : 11191080,
+              "name" : "kc / Rivals",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-06-15T00:00:00-0400",
+              "userDate" : "2010-06-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20%2F%20Rivals",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "is_web_only" : "Y",
+                "short_title" : "Rivals",
+                "long_title" : "Rivals",
+                "id" : "rivals",
+                "expires" : "2010-07-01T14:44:00-0400",
+                "url" : "/kc/ballpark/rivals.jsp",
+                "body" : "\t\t  <h4>Rivals Sports Bar</h4>\n\t\t <p><img src=\"/kc/images/ticketing/y2009/rivals_205x175.jpg\" class=\"image_right\" height=\"175\">\n\n\t\t<p>Rivals Sports Bar, located just beyond the stadium's signature fountains in right field, boasts one of the \t\nbest vantage points in Kauffman Stadium.  Floor-to-ceiling glass offers dynamic views of the playing field \t\nand they are enhanced even further on warm days when the retractable warehouse doors provide an \t\nopen-air setting. A bank of flat screen HDTVs - including an exceptional 103\" display-- compliments the \t\ncustom-made 360 degree bar.\t\n</p>\n<p>The 150-seat restaurant offers a full menu of food and beverages, including items such as The True \nKC cheese steak sandwich, Shredded Southern BBQ pork sandwich and malt shop banana splits.\nRivals Sports Bar offers a full menu of food and beverages\n</p>\n<p>Rivals Sports Bar will be open 1.5 hours before game time for Sunday-Thursday games and 2 hours \t\t\t\nbefore game time on Friday & Saturday for each of the Royals 81 home games on a first-come, \t\t\t\nfirst-served basis to any fan with a game ticket.\t\t\t\n</p>\n",
+                "pages" : {
+                  "XMLCascade" : "Y",
+                  "items" : [ {
+                    "rank" : 0,
+                    "viewId" : 0,
+                    "_id" : 11704888,
+                    "name" : "kc Front Row",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-28T00:00:00-0400",
+                    "userDate" : "2010-06-28T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=kc%20Front%20Row",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "is_web_only" : "N",
+                      "url" : "/kc/ballpark_demo/information/index.jsp?content=rivals",
+                      "short_title" : "Rivals Front Row Seating",
+                      "long_title" : "Rivals Front Row Seating",
+                      "id" : "front_row",
+                      "body" : "<div class=\"teamBorderColor pad3\" style=\"background:url(/style/subindex/images/module_bg_gray.gif) bottom left repeat-x;height:200px\">\n\n       \t\t<p>\n\t\t\t\n\t\t\t<ul class=\"photo_container\"><li><a href=\"/kc/ballpark/ballpark_panoramas.jsp?pano=hof_suite_1\"><img src=\"/kc/images/ticketing/y2009/rivals_fr_205x175.jpg\" class=\"image_right\" height=\"175\"></a></li></ul>\n\t\tRoyals fans may also purchase a Rivals Front Row Seating table package, which includes four game \t\t\t\t\t\t\t\t\ntickets, seats for four at a window-side table overlooking the field as well as $25 per person in \t\t\t\t\t\t\t\t\nvalue toward the purchase of food and beverage.  Pricing below is for individual 4-seat tables.\t\t\t\t\t\t\t\t\n</p>\n\n\t\t<p><ul class=\"related_content\"><li><span class=\"button purchase\"><a href=\"/kc/ticketing/group_tickets_form.jsp\">Place a Deposit Now </a></span></li></ul></p>\n<table id=\"pricingTable\" summary=\"A complete listing of each venue\" style=\"width:300px;\">\n <caption>Pricing for 4-person table</caption>\n<colgroup>\n<col id=\"Game Type \" />\n<col id=\"Price\" />\n</colgroup>\n\n<tbody>\n<tr valign=\"top\">\n<td align=\"left\">Regular</td>\n<td align=\"center\">$240</td>\n</tr>\n<tr valign=\"top\">\n<td align=\"left\">Premium</td>\n<td align=\"center\">$300 </td>\n</tr>\n</tbody></table>\n\n\t\t\t\n\t\t\n\n</div> <!-- 100 END -->\n<p>\n<em>* The $25 in loaded value and any portion thereof is not redeemable for cash. Any remaining value on the ticket which is not used by the conclusion of the game on the ticket may not be used, redeemed or in any way replaced. In the event of rainout prior to a game becoming complete or rescheduling of a game remaining value may be redeemed for merchandise or food during the reschedule game. In the event a game is cancelled and the game is not rescheduled, added value will not be transferred. \n</em></p>\n"
+                    }
+                  } ]
+                }
+              }
+            }, {
+              "rank" : 4,
+              "viewId" : 0,
+              "_id" : 10109022,
+              "name" : "kc / A-Z Guide",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-05-17T00:00:00-0400",
+              "userDate" : "2010-05-17T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20%2F%20A-Z%20Guide",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "long_title" : "A-Z Guide",
+                "id" : "ballpark_guide",
+                "short_title" : "A-Z Guide",
+                "is_web_only" : "N",
+                "url" : "/kc/ballpark_demo/information/index.jsp?content=guide",
+                "body" : "<p>Kansas City Royals are committed to fielding a competitive team both on and off the field, one that exemplifies a strong work ethic, respect for the game and loyalty to our fans.</p>\n<ul class=\"related_content\" id=\"top\">\n<li>\n<a href=\"#A\">A </a>| <a href=\"#B\">B</a> | <a href=\"#C\">C</a> | <a href=\"#D\">D</a> | <a href=\"#E\">E</a> | <a href=\"#F\">F</a> | <a href=\"#G\">G</a> | <a href=\"#H\">H</a> | <a href=\"#I\">I</a> | <a href=\"#J\">J</a> | <a href=\"#K\">K</a> | <a href=\"#L\">L</a> | <a href=\"#M\">M</a> | <a href=\"#N\">N</a> | <a href=\"#O\">O</a> | <a href=\"#P\">P</a> | <a href=\"#Q\">Q</a> | <a href=\"#R\">R</a> | <a href=\"#S\">S</a> | <a href=\"#T\">T</a> | <a href=\"#U\">U</a> | <a href=\"#V\">V</a> | <a href=\"#W\">W</a> | <a href=\"#X\">X</a> | <a href=\"#Y\">Y</a> | <a href=\"#Z\" >Z</a>\n</li>\n</ul>\n",
+                "pages" : {
+                  "XMLCascade" : "Y",
+                  "items" : [ {
+                    "rank" : 4,
+                    "viewId" : 0,
+                    "_id" : 11465882,
+                    "name" : "KC A-to-Z Guide - S",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-22T00:00:00-0400",
+                    "userDate" : "2010-06-22T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20S",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "short_title" : "S",
+                      "long_title" : "S",
+                      "is_web_only" : "N",
+                      "id" : "ballpark_guide_s",
+                      "body" : "<p id=\"S\"><strong>SCHEDULES</strong>\nPocket schedules are available at ticket booths, the Future Game and Advance Ticket Windows, at Guest Services and can be requested online for the 2010 season via <ul class=\"related_content\"><li>the <a class=\"primaryVlink\" href=\"/kc/fan_forum/pocket_schedule.jsp\">Pocket Schedule Request form</a> on </li></ul>royals.com.  </p>\n\n<p id=\"scorecards\"><strong>SCORECARDS</strong>\nScorecards come in every issue of Royals Gameday Magazine, available for purchase at the stadium on game days for $5, at the stadium ticket office, by calling 1-800-6-Royals or on-line at royals.com beginning in April 2009. Scorecards can also be purchased separately for $2 at souvenir stands.</p>\n\n<p><strong>SECURITY MEASURES</strong>\nThe following items are prohibited from Kauffman Stadium:</p>\n<ul class=\"bullet_round_black\">\n<li>Bags/purses in excess of 16\"x 16\"X8\"</li>\n<li>Backpacks in excess of 16\"x16\"x8\"</li>\n<li>Liquid containers of any kind/type (water in plastic cups or bottles is acceptable)</li>\n<li>Weapons/fireworks</li>\n<li>Items that could be projectiles</li>\n<li>Cameras with 12\" or more lenses</li>\n<li>Banners or flags with sticks in them</li>\n<li>Bullhorns/airhorns</li>\n<li>Lasers or laser pens</li>\n<li>Brooms in excess of 4 feet in height</li>\n<li>Coolers of any kind</li>\n<li>Anything that can obstruct a fans view</li>\n<li>Wrapped presents and/or gifts of any kind*</li>\n</ul>\n\n<p>*Please note that if you have a planned party of any kind that includes gifts, we advise either wrapping the gift item at Kauffman Stadium after the item has been inspected or place the unboxed gift item in a gift bag. Our security staff will ask guests to open any wrapped items.</p>\n<p>If any of the above items are discovered at our gates, our security staff members will ask that you return these items to your vehicle or be thrown away. Prohibited items will not be stored at the gates or guest services.</p>\n\n\n<p><strong>SEASON TICKETS</strong>\nVarious season ticket packages are available to fit the needs of any fan and budget. <ul class=\"related_content\"><li><a class=\"primaryVlink\" href=\"/kc/ticketing/seasontix.jsp\"><strong>Click Here</strong></a></li></ul> for more information about Royals Season Tickets or visit the Ticket Sales and Services Booth located behind Section 230 on the Plaza Concourse or call (816) 504-4040, option 2.</p>\n\n<p><strong>SEATING POLICY</strong>\nGuests should sit only in the seats for which they hold valid tickets. </p>\n\n<p><strong>SLUGGERRR</strong>\nSluggerrr, the Royals mascot, makes numerous public appearances throughout the season. Sluggerrr is available for corporate events, charity fundraisers, birthdays or other private parties. Through Royal Rallies, Sluggerrr visits area elementary schools stressing the importance of staying in school, avoiding drugs, getting involved in positive activities, and using 'Royal' manners. For more information on scheduling Sluggerrr appearances, contact 816-504-4436.\n<ul class=\"related_content\"><li><a class=\"primaryVlink\" href=\"/kc/fan_forum/sluggerrr.jsp\"><strong>Visit Sluggerrr's page ?</strong></a></li></ul></p>\n\n<p><strong>SMOKING</strong>\nSmoking is not permitted anywhere inside the structure of Kauffman Stadium. Designated smoking areas are located along the perimeter fence line between Gates B & D and along the perimeter fence line between Gates A & E. Smoking is allowed in these designated areas only.</p>\n\n<p><strong>SONIC SLAM SEATS</strong> - NEW IN 2010!\nIf a Royals player hits a home run that lands in the Sonic Slam Seats located in left field, ALL fans win a free medium Sonic Slush by redeeming their ticket stub at participating Sonic locations by midnight the following day! Fans sitting in the Sonic Slam Seats will also win a $5 My Sonic Card. All fans sitting in the Sonic Slam Seats will need to report to Guest Services by the end of the game in which the home run is hit to receive their card.<ul class=\"related_content\"><li> <a class=\"primaryVlink\" href=\"/kc/ticketing/ways_to_win.jsp\"><strong>More Info ?</strong></a></li></ul></p>\n\n<p><strong>SOUVENIRS</strong><br>\nKansas City Royals merchandise is available at the Royals Majestic Team Store located at Gate C behind home plate, Loge level first base side, View level, Royals Hall of Fame, Kids Store and New Era Store both located in the Outfield Experience.  There is also a Baseball Card Kiosk located by the John Deere Little K open on select games.  Merchandise includes name and number t-shirts, personalized jersey's and baseball bats, on-field clothing and hats, including the new alt. hat and BP hat, baseballs, photos of players, publications and other numerous other novelties.  \n</p>\n\n<p>The Royals Majestic Team Store features exclusive product from Majestic, Nike, New Era, Banner, and more. Support your Royals and find the best selection of merchandise right here at The K.</p>\n<p>Royals Majestic Team Store hours are as follows:</p>\n<p>In Season: Non- Game Days, Monday - Saturday, 10:00am - 4:00pm<br>\n<p>Night Game Days, the store closes 30 minutes before gates and will stay open until the end of the game</p>\n<p>Day Game Days, store will open when gates open and remain open until after the game</p>\n<p>Off Season: Tuesday - Saturday, 10:00am - 4:00pm</p>\n<p>RMTS Phone # 816-504-4045.  Phone orders are welcomed.</p>\n\n<p><strong>SPEAKERS BUREAU</strong><br>\nAs you plan your organization's event schedule, please keep in mind that the Royals provide speakers and/or appearances for civic and charitable functions. Members of the Royals senior management team, Royals alumni and current players are available to share their experiences in an informative and entertaining presentation. <ul class=\"related_content\"><li>Please submit a <a class=\"primaryVlink\" href=\"/kc/community/help.jsp#speaker\"><strong>Speakers Bureau Request form ?</strong></a><./li></ul></p>\n\n<p id=\"special_events\"><strong>SPECIAL EVENTS</strong><br>\nKauffman Stadium is the perfect unique location to hold your upcoming event. Give your guests an event to remember through excellent catering services, breathtaking views of the field and brand new venues. From a small business meeting to a large wedding reception or conference, exceptional service and amenities are guaranteed. <ul class=\"related_content\"><li><a class=\"primaryVlink\" href=\"/kc/special_events/index.jsp\">More ?</a> </li></ul></p>\n\n\n<p><strong>STADIUM CLUB</strong><br>\nThe Stadium Club at Kauffman Stadium is a benefit available to any 2010 Season Ticket Holder and provides a great environment to enjoy dinner before or during a game or stop in for a drink at the bar while staying connected to the game. The 2010 Stadium Club Membership and menu options have received a number of enhancements and new amenities for the 2010 season.</p>\n<p>Details on Membership availability for the Stadium Club are provided on the Membership link (below). To learn more about the Stadium Club or secure a Silver Membership for the 2010 Season contact the Royals Ticket Services Department at (816) 504-4040, option 3 or <a href=\"mailto:ticketservices@royals.com\">ticketservices@royals.com</a>.</p>\n\n<p><strong>STROLLERS</strong><br>\nStrollers must fold up and fit under a seat without restricting aisle access.</p>\n\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>\n\n\n \n"
+                    }
+                  }, {
+                    "rank" : 5,
+                    "viewId" : 0,
+                    "_id" : 11465884,
+                    "name" : "KC A-to-Z Guide - R",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-22T00:00:00-0400",
+                    "userDate" : "2010-06-22T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20R",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "is_web_only" : "N",
+                      "long_title" : "R",
+                      "short_title" : "R",
+                      "id" : "ballpark_guide_r",
+                      "body" : "<p id=\"R\"><strong>RADIO AFFILIATES</strong>\nRoyals games are broadcast locally on KCSP 610 AM, plus additional stations throughout the Midwest (subject to change).\n<ul class=\"related_content\"><a class=\"primaryVlink\" href=\"/kc/schedule/radio_affiliates.jsp\"><strong>Complete list of Royals on Radio affiliates ?</strong></a></li></ul></p>\n\n<p><strong>RADIOS/TELEVISIONS</strong>\nHand-held radios and televisions are welcome at Kauffman Stadium as long as they do not interfere with other guests' enjoyment of the game. The Royals reserve the right to ask any guest to discontinue the use of such devices.</p>\n\n<p id=\"rain\"><strong>RAINOUTS</strong \nIn the event five (5) innings of the game are not played (except when the home team is leading at the end of 4 1/2 innings) and the game is rescheduled, this ticket will be honored for admission to the officially rescheduled game (location of this ticket - section, row and seat - carries over to the rescheduled game). In the event that the game is cancelled (and not rescheduled) or played as part of a \"traditional\" doubleheader (one admission for both games), the Kansas City Royals will publicize specific directions and guidelines for ticket exchange. Should a special event/promotion be cancelled for reasons or developments beyond the control of the Royals, there will be no refunds or exchanges. This ticket is good only for this particular game and no part of the purchase price will be refunded by reason of the failure of the holder to use it for this game.</p>\n\n<p><strong>RE-ENTRY POLICY</strong>\nThere is no re-entry permitted for any event held at Kauffman Stadium. Once a fan has exited through the stadium gates, they are not permitted back into the stadium unless it is an emergency situation.</p>\n\n\n<p><strong>RIVALS SPORTS BAR</strong>\nRivals Sports Bar, located just beyond the stadium's signature fountains in right field, boasts one of the best vantage points in the New K. Floor-to-ceiling glass offers dynamic views of the playing field and they are enhanced even further on warm days when the retractable warehouse doors provide an open-air setting. A bank of flat screen HDTVs - including an exceptional 103\" display-- compliments the custom-made 360 degree bar.   In addition, fans may purchase a Rivals Front Row Seating table package, which includes four game tickets, seats for four at a window-side table overlooking the field.  <ul class=\"related_content\"><li><a href=\"/kc/ballpark/rivals.jsp\">Book a table ?</a></li></ul></p>\n\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>\n\n"
+                    }
+                  }, {
+                    "rank" : 6,
+                    "viewId" : 0,
+                    "_id" : 11465886,
+                    "name" : "KC A-to-Z Guide - P",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-22T00:00:00-0400",
+                    "userDate" : "2010-06-22T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20P",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "id" : "ballpark_guide_p",
+                      "short_title" : "P",
+                      "long_title" : "P",
+                      "is_web_only" : "N",
+                      "body" : "<p id=\"P\"><strong>PAGING SERVICES</strong>\nPaging is available for extreme medical emergency situations only. Should an emergency exist, please contact a Royals associate or go to Guest Services, on Plaza Level behind the Diamond Club Lobby, or on View Level behind home plate at section 420. Please leave your seat location with babysitters so a Royals associate may locate you, should the need arise.</p>\n\n<p><strong>PARKING</strong>\nParking spaces are available for vehicles and buses. The Truman Sports Complex provides spaces reserved for vehicles displaying disabled permits or tags. The complex exceeds in the number of disabled parking spaces required by the ADA. Parking is $10* for cars and motorcycles, $11* for oversized vehicles and $15* for buses and empty tractor-trailers. An oversized vehicle is any vehicle that takes up more than one parking space. In case of a rainout, parking is refundable and season ticket holders receive a new parking pass.</p>\n<p><em>*Day of parking is <strong>cash only</strong>.</em></p>\n\n\n<p><strong>PETS</strong>\nPets are not permitted inside Kauffman Stadium. However, service dogs (guide dogs for persons with disabilities) are permitted in the stadium.</p>\n\n<p><strong>PLAYERS - CONTACTING</strong>\nSee <a class=\"primaryVlink\" href=\"#fanmail\"><strong>Fan Mail/E-mail ?</strong></a></p>\n\n<p><strong>POCKET SCHEDULES</strong>\nPocket Schedules are available for the 2010 season<ul class=\"related_content\"><li> via the   <a href=\"http://kansascity.royals.mlb.com/kc/fan_forum/pocket_schedule.jsp\">Pocket Schedule Request form</a></li></ul> on royals.com.</p>\n\n<p><strong>PROMOTIONAL ITEMS</strong>\nSee <a class=\"primaryVlink\" href=\"#giveaways\"><strong>Giveaways ?</strong></a></p>\n\n\n<p id=\"public_transpo\"><strong>PUBLIC TRANSPORTATION</strong>\nThe Royals Express service has been discontinued as of February 2009.\n</p>\n\n<p id=\"publications\"><strong>PUBLICATIONS</strong>\nRoyals Gameday Magazines, the Royals Yearbook and the Official Team Media Guides will be available for purchase at Kauffman Stadium, by calling the Ticket Office at 1-800-6ROYALS<ul class=\"related_content\"><li> and on <a href=\"/kc/fan_forum/publications.jsp\">royals.com</a>.</li></ul>\n</p>\n\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>"
+                    }
+                  }, {
+                    "rank" : 7,
+                    "viewId" : 0,
+                    "_id" : 11465888,
+                    "name" : "KC A-to-Z Guide - O",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-22T00:00:00-0400",
+                    "userDate" : "2010-06-22T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20O",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "is_web_only" : "N",
+                      "long_title" : "O",
+                      "short_title" : "O",
+                      "id" : "ballpark_guide_o",
+                      "body" : "<P id=\"O\"><strong>OUTFIELD EXPERIENCE</strong>\nDebuting in 2009, the Outfield Experience consists of the John Deere Little K, MLB2K9 Game Lounge and the Carousel. Also included is Sluggerrr's Mini Golf at The K, Pitching Mound, Batting Challenge and Base Run all presented by Farmers Insurance. The Outfield Experience includes the Royals Hall of Fame, Rivals Sports Bar, Bud Light Party Deck, Sheridan's Frozen Custard, Topsy's, Sonic Slam Seats, Miller Lite Fountain Bar, DRI DUCK Fountain Seats, Pepsi Party Porch, and the Fox Sports Broadcast booth.  <ul class=\"related_content\"><li><a href=\"/kc/ballpark/outfield_experience.jsp\"><strong>More ?</strong></a></li></ul></p>\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>\n\n"
+                    }
+                  }, {
+                    "rank" : 8,
+                    "viewId" : 0,
+                    "_id" : 11465890,
+                    "name" : "KC A-to-Z Guide - N",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-22T00:00:00-0400",
+                    "userDate" : "2010-06-22T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20N",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "short_title" : "N",
+                      "long_title" : "N",
+                      "is_web_only" : "N",
+                      "id" : "ballpark_guide_n",
+                      "body" : "<p id=\"N\"><strong>NATIONAL ANTHEM</strong>\nRequests to perform the National Anthem may be submitted to the Royals Front Offices.\n<ul class=\"related_content\"><li><a class=\"primaryVlink\" href=\"/kc/fan_forum/anthems.jsp\"><strong>More about Anthem Auditions ?</strong></a></li></ul>\n</p>\n\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>\n"
+                    }
+                  }, {
+                    "rank" : 9,
+                    "viewId" : 0,
+                    "_id" : 11465892,
+                    "name" : "KC A-to-Z Guide - M",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-22T00:00:00-0400",
+                    "userDate" : "2010-06-22T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20M",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "id" : "ballpark_guide_m",
+                      "is_web_only" : "N",
+                      "long_title" : "M",
+                      "short_title" : "M",
+                      "body" : "<p id=\"M\"><strong>MARRIAGE PROPOSALS</strong>\nPop the big question at Kauffman Stadium with the help of the Marriage Proposal Package. For $500, you can receive a package that includes a public address announcement and personalized \"Will You Marry Me?\" announcement on CrownVision. In addition, you will receive a souvenir video of you proposal, a special Newlywed Gift Bag featuring Royals memorabilia and a complimentary honeymoon suite at the Hyatt Regency Crown Center! The package also includes four Dugout Box tickets (a $172 value) to the game. Please note that the Marriage Proposal Package is available for Monday-Thursday home games and is limited to one per game. Proceeds from the proposal benefit Royals Charities. For more information, call the Royals Community Affairs & Publicity Department at (816) 921-8000. <ul class=\"related_content\"><li><a class=\"primaryVlink\" href=\"/kc/fan_forum/marriage_proposals.jsp\"><strong>More ?</strong></a></li></ul></p>\n\n<p><strong>MEDIA GUIDES</strong>\nSee <a class=\"primaryVlink\" href=\"#publications\"><strong>Publications ?</strong></a></p>\n\n<p><strong>MINOR LEAGUE AFFILIATES</strong>\nCheck out the list of Royals Minor League affiliates as well as team contact information, schedules, statistics and rosters.\n<ul class=\"related_content\"><a class=\"primaryVlink\" href=\"/mlb/minorleagues/team_index.jsp?c_id=kc\"><strong>More about Minor League Affiliates ?</strong></a></li></ul></p>\n\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>\n\n"
+                    }
+                  }, {
+                    "rank" : 10,
+                    "viewId" : 0,
+                    "_id" : 11465894,
+                    "name" : "KC A-to-Z Guide - L",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-22T00:00:00-0400",
+                    "userDate" : "2010-06-22T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20L",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "short_title" : "L",
+                      "long_title" : "L",
+                      "is_web_only" : "N",
+                      "id" : "ballpark_guide_l",
+                      "body" : "<p id=\"L\"><strong>LANCERS</strong>\nThe Royal Lancers are an organized group of business and civic leaders, and loyal Royals supporters that volunteer to assist the club's season ticket and group sales efforts. For information on season ticket, group sales or the Lancers, guests may go to the Ticket Sales and Services Booth located behind Section 230 on the Plaza Concourse or call 816-540-4040.</p>\n\n<p><strong>THE LITTLE K</strong>\nSee \"<a href=\"#O\">Outfield Experience</a>\"\n\n<p><strong>LOST AND FOUND</strong>\nDuring a game, you may inquire about lost and found items in one of the Guest Services offices, located on Plaza Level behind the Diamond Club Lobby, or on View Level behind home plate at section 420.To inquire about lost or found items after a game, call 816.921.8000 from 9 a.m. to 5 p.m. Monday through Friday.</p>\n\n\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>"
+                    }
+                  }, {
+                    "rank" : 11,
+                    "viewId" : 0,
+                    "_id" : 11465896,
+                    "name" : "KC A-to-Z Guide - K",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-22T00:00:00-0400",
+                    "userDate" : "2010-06-22T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20K",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "is_web_only" : "N",
+                      "short_title" : "K",
+                      "id" : "ballpark_guide_k",
+                      "long_title" : "K",
+                      "body" : "<p id=\"K\"><strong>K CREW</strong>\nFirst formed in 2007, the K Crew is a fun and energetic bunch dedicated to entertaining Royals fans young and old. From firing t-shirts and prizes into the stands to hosting various interactive promotions around the ballpark, the K Crew is a group of true blue Royals baseball fans with a passion for the game!  Fans may also schedule appearances with the K Crew.  <ul class=\"related_content\">\n<li><a class=\"primaryVlink\" href=\"/kc/fan_forum/kcrew.jsp\"><strong>More about the K Crew ?</strong></a></li></ul></p>\n\n<p><strong>KAUFFMAN STADIUM SPECIAL EVENTS</strong>\n<a class=\"primaryVlink\" href=\"#special_events\"><strong>See Special Events ?</strong></a></p>\n\n<p id=\"tours\"><strong>KAUFFMAN STADIUM TOURS</strong>\nThe Royals will offer tours of Kauffman Stadium beginning March 15th. Tours will be offered Monday through Sunday throughout the regular season. Off-season tours are available by reservation. There are three Kauffman Stadium Tour options: (1) \"The Classic\" - with stops at the Royals Hall of Fame, Joe McGuff Press Box, Royals Interview Room, Royals Dugout, and visitors clubhouse (when available). (2) \"The All-Star\" - which adds stops at a Triple Crown Suite, Dugout Suite, Stadium Club, Bud Light Party Deck, and the Royals Bullpen - plus a commemorative Kauffman Stadium Baseball cap for each guest. (3) \"The Grand Slam\" - everything above with even more stops escorted in style via limousine golf cart transportation - plus bottled water, a memento photo and an autographed baseball!  For more information <ul class=\"related_content\"><li><a href=\"/kc/ballpark/ballpark_tours.jsp\">click here</a>,</li></ul> contact the Royals Tour Department at 816-504-4222 or e-mail <a href=\"mailto:tours@royals.com\">tours@royals.com</a>.</p>\n\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>\n"
+                    }
+                  }, {
+                    "rank" : 12,
+                    "viewId" : 0,
+                    "_id" : 11465898,
+                    "name" : "KC A-to-Z Guide - I",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-22T00:00:00-0400",
+                    "userDate" : "2010-06-22T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20I",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "id" : "ballpark_guide_i",
+                      "short_title" : "I",
+                      "long_title" : "I",
+                      "is_web_only" : "N",
+                      "body" : "<p id=\"I\"><strong>INFIELD PRACTICE</strong>\nRoyals take infield practice from 4:40 to 4:50 p.m., 3:40-3:50 p.m. and 10:40 to 10:50 a.m. for 7:10 p.m., 6:10 p.m. and 1:10 p.m. games, respectively. Visitors take infield from 6:30-6:40 p.m., 5:30 to 5:40 p.m. and 12:30 to 12:40 p.m., respectively. Infield Practice times are subject to change or cancellation.</p>\n\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>"
+                    }
+                  }, {
+                    "rank" : 13,
+                    "viewId" : 0,
+                    "_id" : 11465900,
+                    "name" : "KC A-to-Z Guide - H",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-22T00:00:00-0400",
+                    "userDate" : "2010-06-22T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20H",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "short_title" : "H ",
+                      "id" : "ballpark_guide_h",
+                      "long_title" : "H",
+                      "is_web_only" : "N",
+                      "body" : "<p id=\"H\"><strong>ROYALS HALL OF FAME </strong> (Now Open!)\nVisit the Royals Hall of Fame located inside Gate A on the left-field Plaza Level concourse. Stop by and learn the history of the Royals and professional baseball in Kansas City. Fans can see the Royals 1985 World Series Championship trophy and other artifacts from Cy Young Awards to Frank White's eight Gold Gloves and George Brett's 3,000th hit bat and baseball. Plus, check out the plaques which honor each of the twenty-three members of the Royals Hall of Fame. <ul class=\"related_content\"><li><a href=\"/kc/ballpark/hall_of_fame.jsp\">Royals Hall of Fame ?</a>   </li></ul>\n</p>\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>"
+                    }
+                  }, {
+                    "rank" : 14,
+                    "viewId" : 0,
+                    "_id" : 11459974,
+                    "name" : "KC A-to-Z Guide - G",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-22T00:00:00-0400",
+                    "userDate" : "2010-06-22T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20G",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "is_web_only" : "N",
+                      "long_title" : "G",
+                      "short_title" : "G",
+                      "id" : "ballpark_guide_g",
+                      "body" : "<p id=\"G\"><strong>GAMEDAY GREETINGS </strong>\nCommemorate a special birthday or anniversary or just say \"Hi!\" with a Gameday Greeting shown on the video boards at Kauffman Stadium. Each message is $50 and includes a 4x6 commemorative photo recreated at a later date (game information will NOT be displayed in the photo). Gameday Greetings must be submitted no later than noon two business days prior to selected game date. <ul class=\"related_content\"><li><a href=\"/kc/fan_forum/greetings.jsp\"><strong>Order Gameday Greetings ?</strong></a> </li></ul></p>\n<a name=\"gates\"></a>\n<p><strong>GATES OPEN</strong>\nAll gates will open 1 ? hours prior to game time 7 days a week*.</p>\n<p>*On Wednesday, June 16, all gates will open at 4:30 p.m. to accommodate a Special Announcement at 5:00 p.m. On Saturday, September 18, Gates A & E will open for <ul class=\"related_content\"><li><a href=\"/kc/ticketing/girlsnightout.jsp\">Girls Night Out</a></li></ul> VIP ticket holders one hour early starting at 3:30 p.m.</p>\n\n<p><strong>GIFT CARDS</strong>\nSurprise a friend or family member with a Kauffman Stadium gift card! Now, you can <a href=\"/kc/fan_forum/giftcard.jsp\">order online!</a></p>\n\n<p><strong>GIFT SHOP</strong>\nThe Kansas City Royals Majestic Team Store is located at Gate C, behind home plate. The 7,000 square foot store is your home for all your Kansas City Royals merchandise, novelties, collectibles, game-used products and more! <ul class=\"related_content\"><li> For more information including store hours please visit the <a href=\"/kc/ballpark/team_shop.jsp\">Royals Majestic Team Store</A> information page.  </li></ul> </p>\n\n<p id=\"giveaways\"><strong>GIVEAWAYS</strong> \nPromotional items or \"Giveaways,\" are available on selected game dates to fans with a valid, paid ticket on a first-come, first-served basis. Guests must be in attendance at a game to receive a promotional item.</p>\n<ul class=\"related_content\"><li><p><a class=\"primaryVlink\" href=\"/schedule/promotions.jsp?c_id=kc&y=2010\"><strong>Promotional Schedule ?</strong></a></p>\n<p><a class=\"primaryVlink\" href=\"/kc/schedule/promotions_guidelines.jsp\"><strong>Promotional Guidelines ?</strong></a></p></li></ul>\n\n<p><strong>GROUP TICKET SALES</strong>\nGroups of all sizes are welcome at Kauffman Stadium with groups of 20 or more receiving significant discounts based on size and game date. Group Tickets and Party Facilities are available throughout the season for any type of event. For more information, <ul class=\"related_content\"><li>see the  <a class=\"primaryVlink\" href=\"/kc/ticketing/group_index.jsp\"><strong>Group Sales page</strong></a> or</li></ul>call the Royals Group Sales Department at 816.504.4040. </p>\n\n\n<p><strong>GUEST SERVICES</strong>\nGuests are welcome to address questions or concerns before or during games in Guest Services. The main office is located on Plaza Level behind the Diamond Club Lobby, and the satellite office is located on View Level behind home plate at section 420. The office is available at gate opening and closes approximately 15 minutes after game ending. </p>\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>"
+                    }
+                  }, {
+                    "rank" : 15,
+                    "viewId" : 0,
+                    "_id" : 11459976,
+                    "name" : "KC A-to-Z Guide - F",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-22T00:00:00-0400",
+                    "userDate" : "2010-06-22T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20F",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "short_title" : "F",
+                      "long_title" : "F",
+                      "is_web_only" : "N",
+                      "id" : "ballpark_guide_f",
+                      "body" : "<p id=\"F\"></p>\n<p id=\"fanmail\"><strong>FAN MAIL/E-MAIL</strong>\nLetters to all Royals players should be addressed to the individual player and mailed to: Kansas City Royals Baseball Club, Fan Mail, P.O. Box 419969, Kansas City, MO 64141-6969. If a response is desired, please enclose a self-addressed, stamped envelope. We cannot guarantee the items will be answered or returned.  Royals players and coaches do not have e-mail.</p>\n\n<dl>\n<dd> Mail your requests directly to: </dD>\n<dd> (Player's Name) </dd>\n<dd> c/o Kansas City Royals </dd>\n<dd> P.O. Box 419969 </dd>\n<dd> Kansas City, MO 64141 <</dd>\n</dl>\n\n<p><strong>FIREWORKS</strong><br>\nA burst of fireworks follows each Royals home run. There are firework displays after every <ul class=\"related_content\"><a href=\"/schedule/promotions.jsp?c_id=kc\">Friday night home game</a></li></ul> (weather and wind conditions permitting). </p>\n\n<p><strong>FIRST AID</strong>\nThe main First Aid office is located on Plaza Level behind the Diamond Club Lobby. There is a satellite First Aid office located on View Level behind home plate at section 420.</p>\n\n<p><strong>FIRST GAME CERTIFICATE</strong>\nFirst Royals game? Visit either of the Guest Services offices to receive an official certificate to celebrate your first Royals game! The main Guest Services office is located on Plaza Level behind the Diamond Club Lobby, and the satellite office is located on View Level behind home plate at section 420.</p>\n\n<p><strong>FIRST PITCH</strong>\nFirst pitch opportunities are provided to corporate sponsors, dignitaries or Royals Charities auction opportunities. The most common way for a person to throw out a first pitch is through a large group that visits the stadium. Groups of 1,500 or more are allowed the opportunity to have a representative throw out a first pitch (subject to availability). For information on bringing a group to the game, please visit the  <ul class=\"related_content\"><a class=\"primaryVlink\" href=\"/kc/ticketing/group_index.jsp\"><strong>Groups Sales Information page</strong></a> or</li></ul> contact the Group Sales Department at 816.504.4040.</p>\n\n<p><strong>FOOD AND DRINK</strong>\nTo ensure the safety and enjoyment of all guests at the ballpark, large bags, coolers, alcoholic beverages or other liquid containers are not permitted. Guests may bring food and water into the stadium, provided the water is in a plastic bottle or cup and the food is packaged in soft-sided containers that do not exceed the maximum size of 16x16x8 inches. Purses and diaper bags (with accompanying infants) will be permitted, provided they do not exceed the maximum size.\n<ul class=\"related_content\"><li><a class=\"primaryVlink\" href=\"/kc/ballpark/kc_ballpark_security.jsp\"><strong>Read more about Ballpark Security ?</strong></a></li></ul></p>\n\n\n<p><strong>FOUL BALLS</strong>\nGuests are permitted to keep foul balls. However, guests must not enter the playing area or lean over the rails to retrieve baseballs.</p> \n\n<p><strong>FUN RUN</strong>\nFollowing each Sunday afternoon home game, field conditions permitting, all fans can run once around the bases on the field courtesy of Sprint. A parent or guardian should escort young children. For specific lineup procedures, guests should ask an event associate. <ul class=\"related_content\"><li><a href=\"/schedule/promotions.jsp?c_id=kc&y=2009\">Promotional Schedule ?</a></li></ul> </p>\n\n<p><strong>FUND-RAISING OPPORTUNITIES</strong>\nGroups may participate in fundraisers by working in the concession stands or with event staff during Royals games. For event staff, please contact our Event Operations Department at 816.504.4204. For concession stands, please contact Aramark, our concessionaire, at 816.504.4051. <ul class=\"related_content\"><li><a href=\"/kc/ticketing/group_pricing_fund.jsp\"><strong>More about Fund-Raising Opportunities ?</strong></a></li></ul></p>\n\n<p><strong>FUTURE GAME TICKET WINDOW</strong>\nFuture game tickets are available during games at the Future Game Ticket Window, which is located on Plaza Level behind the Diamond Club. The window is open until 30 minutes after the last out of the game.</p>\n\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>"
+                    }
+                  }, {
+                    "rank" : 16,
+                    "viewId" : 0,
+                    "_id" : 11459978,
+                    "name" : "KC A-to-Z Guide - E",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-22T00:00:00-0400",
+                    "userDate" : "2010-06-22T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20E",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "id" : "ballpark_guide_e",
+                      "is_web_only" : "N",
+                      "long_title" : "E",
+                      "short_title" : "E",
+                      "body" : "<p id=\"E\"><strong>ELEVATORS</strong>\nElevators are located near the escalators on both the first and third base side and in the Diamond Club Lobby. Diamond Club Lobby elevators are designated for guests with tickets for the Crown Club, Diamond Club, Loge and Triple Crown Suites, and are accessible for any handicapped guests. In the event of an emergency evacuation of the stadium or during inclement weather, elevators will be used for handicapped guests only.\n\n<p><strong>EMPLOYMENT</strong>\nAll open positions are located under <ul class=\"related_content\"><li><a href=\"/mlb/help/jobs.jsp?c_id=kc\">Job Opportunities</a></li></ul> on royals.com.  We do not accept applications for unopened positions.\n\n<p><strong>ESCALATORS</strong>\nThere is one escalator located behind home plate on the Plaza Level, and there are escalators located next to the spiral ramps on both the first and third base side. The escalators will not be operated during an emergency evacuation of the stadium or during inclement weather. Guests who have difficulty walking should use the elevators. </p>\n\n<p><strong>EVENTS</strong>\n<a class=\"primaryVlink\" href=\"#special_events\"><strong>See Special Events ?</strong></a></p>\n\n<p><strong>EXIT AND RE-ENTRY</strong>\nTo help ensure everyone's safety, the Kansas City Royals have a no re-entry policy at Kauffman Stadium. Guests will be allowed to exit and re-enter the stadium through the Truck Gate in the event an emergency is encountered while attending any event at the stadium. The Truck Gate is located behind section 234 on street level. All guests should remember to have his or her game ticket punched by a Royals associate at the Truck Gate to re-enter the stadium.</p>\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>"
+                    }
+                  }, {
+                    "rank" : 17,
+                    "viewId" : 0,
+                    "_id" : 11459980,
+                    "name" : "KC A-to-Z Guide - D",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-22T00:00:00-0400",
+                    "userDate" : "2010-06-22T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20D",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "short_title" : "D",
+                      "long_title" : "D",
+                      "is_web_only" : "N",
+                      "id" : "ballpark_guide_d",
+                      "body" : "<p id=\"D\"></p>\n<p id=\"disabled_guest\"><strong>DISABLED GUEST SERVICES</strong></p>\n<p>For your convenience, there are ample reserved parking spaces available for disabled fans with properly licensed or tagged vehicles. There is also a designated entrance at each gate for easy access into Kauffman Stadium. All restrooms are accessible throughout the stadium. Elevators are located near the escalators on both the first and third base side and in the Diamond Club Lobby. Reserved seat locations for wheelchairs with one companion are available on every level. Should a guest need assistance in reaching their seat, transportation wheelchairs are available at Gates A, B, D & E. Wheelchairs must be returned once the disabled guest has reached his or her seat.</p>\n<p>To purchase seats in Accessible Seating sections, click on the <img src=\"/images/schedule/icon_ticket.gif\" width=\"13\" height=\"13\" border=\"0\" hspace=\"1\" vspace=\"1\" alt=\"Purchase Tickets\" align=\"absmiddle\" /> link in the schedule for the game you would like to attend.  On the bottom of the purchase page, there is a link titled \"Click Here for Accessible Seating Requests\". Click this link and fill out the form to request seating in Accessible Seating sections.</p>\n<p>Arrangements for the wheelchair seating areas may be made in advance by calling the Royals Charge Card Line at 800-6-ROYALS and are subject to ticket availability. These seats are sold on a first-come, first-served basis. Accessible ticket windows are available day of game at all gates. </p>\n\n<p><strong>DESIGNATED DRIVER PROGRAM</strong>\nRegistrants for the Budweiser Designated Good Sport Program must be 21 years of age or older and have a valid Drivers License. In return for promising responsibility for the safe and sober transportation of their group from the Stadium, all participants' names will be entered into a drawing and the winner's name will be displayed/announced on the CrownVision video board. To register visit Guest Services located on the Plaza Level behind the Diamond Club lobby or on the View Level behind home plate at section 420. The winner can pick up his/her prize at Guest Services located on the Plaza Level behind the Diamond Club Lobby.  The office is available at gate opening and closes approximately 15 minutes after game ending. </p>\n\n<p><strong>DIRECTIONS</strong>\n<ul class=\"related_content\">\n<li><a class=\"primaryVlink\" href=\"/kc/ballpark/getting_there.jsp\"><strong>Directions to Kauffman Stadium ?</strong></a></li></ul></p>\n<dl>\n<dd>Physical address: </dd>\n<dd>One Royal Way</dd>\n<dd>Kansas City, MO 64129</dd>\n</dl>\n<p><strong>DONATIONS</strong><br>\nCharities and nonprofit organizations seeking support for an upcoming event or program should complete the <a class=\"primaryVlink\" href=\"/kc/community/help.jsp#donation\"><strong>Donation Request Form ?</strong></a> The form must be received four weeks prior to the event. Organizations located within the Royals drawing area are eligible to apply (Arkansas, Iowa, Kansas, Missouri, Nebraska, Oklahoma).</p>\n\n\n<p><strong>DRI DUCK Fountain Seats</strong>\nDRI DUCK Fountain Seats are available only at the Kauffman Stadium Ticket Windows on the day of the game.  Seats may be purchased (max 8 tickets per person) at the Gate E Ticket Windows when the Outfield Experience <a href=\"#gates\">opens</a> on a first come first served basis.  Fans may queue at Gate E any time prior to the game but no earlier than 7:00 a.m.   Should Fountain Seats remain available after one (1) hour of sales at Gate E, tickets will then be offered at all Kauffman Stadium ticket windows. The first 100 fans in the DRI DUCK seating area each Royals home game will receive a free cap (one per person).  Fans must show their DRI DUCK Fountain Seat ticket to the ushers at the seating entrance to receive a cap. Any pre-sale of DRI DUCK Fountain seats for select, high demand games (e.g. Opening Day) will be announced on royals.com or via email to Royals Report and Ticket Alert subscribers. Fans may subscribe at <ul class=\"related_content\"><li><a href=\"/kc/fan_forum/newsletters.jsp\">www.royals.com/reg</a>. </li></ul>\n\n<p><strong>DUGOUT SUITES</strong>\nDugout suites seat up to 35 people in each and are available on a single-game basis. Food and beverages are included in the price of the tickets and customized menus may be added.  For more information, guests may go to the Ticket Sales and Services Booth located behind Section 230, call the Ticket Sales Department  at 816-504-4040, option 2 <ul class=\"related_content\"><li>or <a href=\"/kc/ticketing/suites.jsp\">click here</a> </li></ul>for more information.</p>\n\n\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>"
+                    }
+                  }, {
+                    "rank" : 19,
+                    "viewId" : 0,
+                    "_id" : 11447346,
+                    "name" : "KC A-to-Z Guide - B",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-22T00:00:00-0400",
+                    "userDate" : "2010-06-22T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20B",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "short_title" : "B",
+                      "long_title" : "B",
+                      "id" : "ballpark_guide_b",
+                      "is_web_only" : "N",
+                      "body" : "<p id=\"B\"><strong>BABY CHANGING AREAS</strong>\nBaby-changing tables are available in all men's and women's public restrooms at Kauffman Stadium.</p>\n\n<p><strong>BAGS</strong>\nBags that exceed a maximum size of 16x16x8 and hard-sided coolers are not allowed into the stadium. <br>\n<ul class=\"related_content\"><li><a class=\"primaryVlink\" href=\"/kc/ballpark/kc_ballpark_security.jsp\"><strong>More Ballpark Security ?</strong></a></li></ul></p>\n\n<p><strong>BANNERS & SIGNS</strong>\nBanners may be displayed in the stadium provided the banner/sign does not block the view of others, interfere with the game, contain advertising of any form, present a safety hazard, or contain political or obscene material. Banners may not be affixed with any type of material that is permanent in nature that alters the facility in any manner or covers any existing stadium signs. Poles and sticks are prohibited. The Royals reserve the right to remove any banner.</p>\n\n<p><strong>BASEBALL BATS</strong>\nGuests are not permitted to have baseball bats inside Kauffman Stadium. Guests who bring bats to the gates must return them to their cars. Guests who receive bats from players must check them at Guest Services. When available, broken bats may be purchased at stadium novelty stores.</p>\n\n<p><strong>BATTING PRACTICE</strong>\nNormally, the Royals conduct batting practice from 5:00 p.m. to 5:55 p.m. while visiting teams hit from 5:55 p.m. to 6:40 p.m. for a 7:10 p.m. game. The Royals take BP from 4:00 p.m. to 4:55 p.m. and visiting teams from 4:55 p.m. to 5:40 p.m. for a 6:10 p.m. game. The Royals hit from 11:00 a.m. to 11:55 a.m. and visiting teams hit from 11:55 a.m. to 12:40 p.m. for a 1:10 p.m. game. Batting practice times are subject to change or cancellation.</p>\n\n\n<p><strong>BLUE CREW</strong>\nGive your young Royals fans ages 14 and under what they really want this year by signing them up for the Blue Crew Fan Club! As members, they can be a part of the fun at Kauffman Stadium all summer long - plus, get cool Royals gear made especially for BC Members only. Blue Crew is brought to you by Hy-Vee. \n<ul class=\"related_content\"><li> <a href=\"/kc/fan_forum/bluecrew_form.jsp\">Join Now ?</a></li></ul> </p>\n\n<p><strong>BUS TRANSPORTATION</strong>\nThe Royals Express service has been discontinued as of February 2009. </p>\n\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>"
+                    }
+                  }, {
+                    "rank" : 18,
+                    "viewId" : 0,
+                    "_id" : 11459098,
+                    "name" : "KC A-to-Z Guide - C",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-22T00:00:00-0400",
+                    "userDate" : "2010-06-22T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20C",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "id" : "ballpark_guide_c",
+                      "short_title" : "C",
+                      "long_title" : "C",
+                      "is_web_only" : "N",
+                      "body" : "<p id=\"C\"></p>\n<p id=\"cabs\"><strong>CABS</strong>\nCabs are available at the intersection of Red Coat Drive and Royal Way just outside Kauffman Stadium near Gate D. Guests may go to Guest Services to order a cab.</p>\n\n<p><strong>CAMERAS/VIDEO EQUIPMENT</strong> \nAlthough still and video cameras are welcome in the stadium, please do not set up tripods or block the view of other guests. Flash photography of the game and videotaping of the game action, however, is strictly prohibited.</p>\n\n<p><strong>CATERING</strong>\nLooking for a unique place to host a wedding, meeting, reunion or corporate event? The newly remodeled Kauffman Stadium is the perfect place for any of these. For more information please contact Catering Sales Department at 816-504-4016.</p>\n\n<p><strong>CHILD ADMISSION</strong>\nChildren 32 inches in height and under do not need a ticket to enter Kauffman Stadium. However, they must sit on the lap of an accompanying adult. Fold-up strollers must be stored under your seat. Fans are encouraged to leave non-folding strollers in the car. Please be aware of those seated around you.</p>\n\n<p><strong>COURTESY GOLF CARTS</strong>\nSponsored by Enterprise, the fan-assist shuttles will operate for each of the Royals 81 home games, shuttling fans from the Truman Sports Complex parking lots to the Kauffman Stadium gates. Prior to the game, Fan Assist staff members provide shuttle service from for guests from the parking lots. After the event, cart shuttles pick up guests at Gates A, B, D, and E. All cart shuttles will drop off on the perimeter of the parking lots. Disabled courtesy cart pick up locations are available at all Gates and will transport handicapped guests to their vehicles. </p>\n\n\n<p><strong>CREDIT CARDS</strong>\nVisa, MasterCard, Discover and American Express credit cards are accepted for ticket orders placed on the Royals Charge Card Line (1-800-6-ROYALS), at the Stadium Advance/Future Ticket Windows, Stadium Ticket Booths and on-line.</p>\n\n<p><strong>CROWN SEATS</strong>\nGuests wanting to purchase seats in the BATS Crown Club, may call the Ticket Sales Department at 816-504-4040, option 2 or <a href=\"/kc/ballpark/kc_ballpark_seating.jsp\">click here</a>. In addition to some of the closest seating in all of MLB, BATS Crown Club ticket holders enjoy a number of benefits including meals, snacks and beverages, and in-seat service.</p>\n\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>"
+                    }
+                  }, {
+                    "rank" : 3,
+                    "viewId" : 0,
+                    "_id" : 11465880,
+                    "name" : "KC A-to-Z Guide - T",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-22T00:00:00-0400",
+                    "userDate" : "2010-06-22T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20T",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "is_web_only" : "N",
+                      "long_title" : "T",
+                      "id" : "ballpark_guide_t",
+                      "short_title" : "T",
+                      "body" : "<p id=\"T\"><strong>TAXIS</strong>\nSee <a class=\"primaryVlink\" href=\"#cabs\"><strong>Cabs </strong></a></p>\n\n<p><strong>TEAM STORE</strong>\nThe Kansas City Royals Majestic Team Store is located at Gate C, behind home plate. The 7,000 square foot store is your home for all your Kansas City Royals merchandise, novelties, collectibles, game-used products and more!  <ul class=\"related_content\"><li>For more information including store hours please visit the <a href=\"/kc/ballpark/team_shop.jsp\">Royals Majestic Team Store</A> information page.  </li></ul></p>\n\n<p><strong>TICKET OFFICE HOURS</strong><br>\nThe ticket office are as follows:</p>\n\n<table align=\"center\" cellspacing=\"2\" cellpadding=\"3\" border=\"0\" class=\"textSm\">\n<tr>\n    <th>Day</th>\n    <th>Game Day</th>\n    <th>Non-Game Day</th>\n</tr>\n<tr valign=\"top\">\n    <td>Monday through Friday</td>\n    <td>9:00 am - Gametime<br>(or 6:00 pm - whichever is later)</td>\n    <td>9:00 am - 6:00 pm</td>\n</tr>\n<tr>\n    <td>Saturday</td>\n    <td>10:00 am - Gametime</td>\n    <td>10:00 am - 4:00 pm</td>\n</tr>\n<tr>\n    <td>Sunday</td>\n    <td>10:00 am - Gametime</td>\n    <td>10:00 am - 4:00 pm</td>\n</tr>\n</table>\n<p><strong>TICKETS BY PHONE</strong>\nTickets can be ordered by phone 7 days a week from 9 am - 9 pm by calling 1-800-6ROYALS.</p>\n\n<p><strong>TICKET SCALPING</strong>\nRe-sale of Royals tickets and/or parking passes is not permitted on the Complex. To avoid problems with counterfeit, stolen or inflated-priced tickets, guests should purchase tickets only through authorized ticket outlets.</p>\n\n<p><strong>TOURS</strong>\nSee <a href=\"#tours\">Kauffman Stadium Tours ?</a>\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>\n\n"
+                    }
+                  }, {
+                    "rank" : 2,
+                    "viewId" : 0,
+                    "_id" : 11465878,
+                    "name" : "KC A-to-Z Guide - U",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-22T00:00:00-0400",
+                    "userDate" : "2010-06-22T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20U",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "short_title" : "U",
+                      "id" : "ballpark_guide_u",
+                      "long_title" : "U",
+                      "is_web_only" : "N",
+                      "body" : "<p id=\"U\"><strong>UMBRELLAS</strong><br>\nGuests may bring small umbrellas into Kauffman Stadium as long as they do not interfere with other guests' enjoyment of the game. For the comfort and consideration of all guests, it is requested that those using umbrellas be considerate of those around them.</p>\n\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>"
+                    }
+                  }, {
+                    "rank" : 1,
+                    "viewId" : 0,
+                    "_id" : 11465876,
+                    "name" : "KC A-to-Z Guide - W",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-22T00:00:00-0400",
+                    "userDate" : "2010-06-22T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20W",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "id" : "ballpark_guide_w",
+                      "short_title" : "W",
+                      "long_title" : "W",
+                      "is_web_only" : "N",
+                      "body" : "<p id=\"W\"><strong>Wheelchair Assistance/Seating</strong><br>\nSee <a class=\"primaryVlink\" href=\"#disabled_guest\"><strong>Disabled Guest Information ?</strong></a></p>\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>"
+                    }
+                  }, {
+                    "rank" : 20,
+                    "viewId" : 0,
+                    "_id" : 10109724,
+                    "name" : "KC A-to-Z Guide - A",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-05-17T00:00:00-0400",
+                    "userDate" : "2010-05-17T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20A",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "is_web_only" : "N",
+                      "id" : "ballpark_guide_a",
+                      "long_title" : "A",
+                      "short_title" : "A",
+                      "body" : "<p id=\"A\"><strong>ADDRESS & PHONE NUMBERS</strong></p>\n<dl>\n<dd>Kansas City Royals</dd>\n<dd> P.O. Box 419969 </dD>\n<dd>Kansas City, MO 64141-6969</dd>\n<dd></dd>\n<dd>One Royal Way</dd>\n<dd>Kansas City, MO 64129</dd>\n<dd>Toll Free Phone Number: 1-800-6ROYALS</dd>\n</dl>\n\n<p><strong>AAA COURTESY SERVICE</strong> AAA provides a courtesy truck for guests who experience vehicle trouble. The truck is available from approximately 30 minutes prior to each home game until 45 minutes after each game. Guests may go to Guest Services to arrange AAA courtesy service.</p>\n\n<p><strong>ALCOHOL POLICY</strong>\nKauffman Stadium guests are encouraged to drink responsibly.  Guest must be 21 years of age or older to purchase and consume alcohol.  Proper identification is necessary to purchase any alcoholic beverages.  All alcohol sales will conclude in the end of the 7th inning.  Stadium Management reserves the right to discontinue sales at any time.  Guests will not be allowed to bring alcohol into or out of Kauffman Stadium.  Guests will not be permitted to enter the stadium if they appear intoxicated.  Drunk and disorderly behavior, or violation of any alcohol policy will result in ejection from the stadium without refund.</p>\n\n<p><strong>ANTHEM AUDITIONS</strong><br>\nYour star could shine brightly right here at Kauffman Stadium. Help us salute our country with a National Anthem performance! Bands, choirs, groups and superstar individuals are all invited to participate in one of baseball's finest traditions. Email <a href=\"mailto:perform@royals.com\">perform@royals.com</a> for information. <ul class=\"related_content\"><li><a href=\"/kc/fan_forum/anthems.jsp\">Performance Auditions ?</a> </li></ul>\n\n<p><strong>ATMs</strong><br>\nCash dispensing machines are available on Plaza level at section 244 & 211; on Loge Level near the escalator behind home plate; and on View Level in both food court areas. Service is provided by Commerce Bank. </p>\n\n\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>"
+                    }
+                  }, {
+                    "rank" : 0,
+                    "viewId" : 0,
+                    "_id" : 11465874,
+                    "name" : "KC A-to-Z Guide - Y",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-06-22T00:00:00-0400",
+                    "userDate" : "2010-06-22T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20A-to-Z%20Guide%20-%20Y",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "is_web_only" : "N",
+                      "short_title" : "Y",
+                      "id" : "ballpark_guide_y",
+                      "long_title" : "Y",
+                      "body" : "<p id=\"Y\"><strong>YOU</strong>\nYou, our guests, are the focus of everything we do. Royals employees are committed to making your experience at Kauffman Stadium a memorable one. We welcome your comments and suggestions at our Guest Services office, located on Plaza Level behind the Diamond Club Lobby, or on View Level behind home plate at section 420.  Thank you for visiting Kauffman Stadium.</p>\n<ul class=\"related_content\">\n<li><a href=\"#top\">Back to top</a></li>\n</ul>"
+                    }
+                  } ]
+                }
+              }
+            } ]
+          }
+        }
+      }, {
+        "rank" : 4,
+        "viewId" : 0,
+        "_id" : 12216390,
+        "name" : "kc / Parking at The K",
+        "itemType" : "page",
+        "state" : "A",
+        "createdOn" : "2010-07-12T00:00:00-0400",
+        "userDate" : "2010-07-12T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=kc%20%2F%20Parking%20at%20The%20K",
+        "appAccountIds" : [ 14 ],
+        "fields" : {
+          "id" : "parking",
+          "is_web_only" : "N",
+          "short_title" : "Parking at The K",
+          "long_title" : "Parking at The K",
+          "url" : "/kc/ballpark_demo/parking/index.jsp",
+          "body" : "<p>Parking at The K has been updated as part of the $250 million renovation of Kauffman Stadium. Because of this, you won't be able to drive your vehicle from the West Parking Lot to the East Parking Lot (or vice-versa) once you've entered the stadium complex.</p>\n<p>That's why we've produced this handy parking guide -- to show you the easiest way to park where you want. Just decide on which side of The K you want to park and follow the simple color-coded directions for the fastest route.</p>",
+          "items" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 12216900,
+              "name" : "kc / Parking FAQ",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-07-12T00:00:00-0400",
+              "userDate" : "2010-07-12T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20%2F%20Parking%20FAQ",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "long_title" : "Parking FAQ",
+                "is_web_only" : "N",
+                "url" : "/kc/ballpark_demo/parking/index.jsp?content=faq",
+                "short_title" : "Parking FAQ",
+                "id" : "parking_faq",
+                "body" : "<ul class=\"photo_container\">\n\t<li><img src=\"/images/2008/04/01/F9vDQ4mV.gif\" width=\"132\" height=\"92\" /></li>\n</ul>\n<p>Answer Your Questions about parking at the New K</p>\n<ul class=\"related_content\">\n\t<li><a href=\"/kc/ballpark_demo/parking/index.jsp?content=faq\">More Info</a></li>\n</ul>"
+              }
+            }, {
+              "rank" : 1,
+              "viewId" : 0,
+              "_id" : 12216898,
+              "name" : "kc/ Parking Map",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-07-12T00:00:00-0400",
+              "userDate" : "2010-07-12T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%2F%20Parking%20Map",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "url" : "/kc/ballpark/parking.jsp",
+                "short_title" : "Parking Map",
+                "long_title" : "Parking Map",
+                "id" : "map",
+                "is_web_only" : "N",
+                "body" : "<ul class=\"photo_container\">\n\t<li><img src=\"/images/2008/04/01/F9vDQ4mV.gif\" width=\"132\" height=\"92\" /></li>\n</ul>\n<p>Just decide on which side of The K you want to park and follow the simple color-coded directions for the fastest route.</p>\n<ul class=\"related_content\">\n\t<li><a href=\"/kc/ballpark/parking.jsp\">More Info</a></li>\n</ul>"
+              }
+            } ]
+          },
+          "pages" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 12216896,
+              "name" : "kc / Parking FAQ",
+              "itemType" : "page",
+              "state" : "A",
+              "createdOn" : "2010-07-12T00:00:00-0400",
+              "userDate" : "2010-07-12T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=kc%20%2F%20Parking%20FAQ",
+              "appAccountIds" : [ 14 ],
+              "fields" : {
+                "is_web_only" : "N",
+                "long_title" : "Parking FAQ",
+                "short_title" : "Parking FAQ",
+                "url" : "/kc/ballpark_demo/parking/index.jsp?content=faq",
+                "id" : "parking_faq",
+                "body" : "<p> Answer Your Questions about parking below</p>",
+                "pages" : {
+                  "XMLCascade" : "Y",
+                  "items" : [ {
+                    "rank" : 1,
+                    "viewId" : 0,
+                    "_id" : 12399910,
+                    "name" : "KC / Gold and Blue Reserved",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-07-19T00:00:00-0400",
+                    "userDate" : "2010-07-19T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20%2F%20Gold%20and%20Blue%20Reserved",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "is_web_only" : "N",
+                      "id" : "blue_gold",
+                      "url" : "/kc/ballpark_demo/parking/index.jsp?content=faq",
+                      "short_title" : "Gold and Blue Reserved",
+                      "long_title" : "Gold and Blue Reserved",
+                      "body" : "  <dl>   \n   <dt><strong> I have reserved parking and, in the past, I was issued passes for a specific lot. This year I have passes for Blue Reserved, which is on both sides of the Stadium. Do I have to park in one specific lot? </strong></dt>\n    <dd>You may park in any lot designated as Blue Reserved Parking. This is designed to give guests more flexibility since you can decide on which side of the stadium you would like to park. </dd>\n \n \t<dt><strong>Am I required to park in the Reserved Lot closest to the Stadium? I would prefer to park in a Reserved Lot closer to an exit gate so it's easier to leave the Stadium. </strong></dt>\n    <dd>Assuming spaces are available, you may park in any lot corresponding to your parking level (Gold Reserved, Blue Reserved or general). </dd>\n  \n\n \t<dt><strong> With Gold Reserved Parking, am I required to use the dedicated Gold Reserved entrance on Royals Way (just north of Gate 6)? </strong></dt>\n    <dd>No, you may access Gold Reserved parking from any gate. However, for those Gold Reserved customers accessing the Complex from the west side of Kauffman, we do encourage you to use the Gold Reserved entrance on Royals Way - it's designed to provide the quickest access. </dd>\n  </dl>\n<ul class=\"related_content\"><li>\n<p><a class=\"primaryVlink\" href=\"/kc/ballpark/parking.jsp\"><strong>Return to the Kauffman Stadium Parking page</strong></a></p>\n</li>"
+                    }
+                  }, {
+                    "rank" : 2,
+                    "viewId" : 0,
+                    "_id" : 12255130,
+                    "name" : "KC / General Info",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-07-15T00:00:00-0400",
+                    "userDate" : "2010-07-15T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20%2F%20General%20Info",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "is_web_only" : "N",
+                      "short_title" : "General Info",
+                      "long_title" : "General Info",
+                      "url" : "/kc/ballpark_demo/parking/index.jsp?content=faq",
+                      "id" : "parking_faqs",
+                      "body" : "\n<dl>\n<dt><strong>What has changed?</strong><br>\n <dd>The redesigned access and parking system was implemented in 2008 and was just one of the first visible steps in the overall Kauffman Stadium improvement project.  The parking procedures will remain in place in 2009 and beyond. The Royals designed this system in order to provide a safer, more efficient experience for our fans.\n<br><br>The plan will safely accommodate more fans by using all points-of-entry and reducing pedestrian-vehicle congestion points. These updates are consistent with the parking and access plans utilized at most major sports and entertainment venues, including Arrowhead Stadium.</dd>\n \n\n  <dt><strong>What, specifically, is the number one thing fans can do to ensure a smooth experience when parking at Kauffman Stadium?</strong></dt>\n  <dd>The overall message is simple: please take a couple of minutes before your trip to Kauffman Stadium and plan your route by consulting royals.com/parking. By doing so, you'll ensure a pleasant experience when arriving at the Stadium.</dd>\n  \n  <dt><strong>Who should I contact if I have questions about parking?</strong></dt>\n  <dd><strong>For additional information, please e-mail <a href=\"mailto:ticketservices@royals.com\">ticketservices@royals.com</a> or call 816-504-4040 option 3.</strong> Fans may also visit royals.com/parking for more information and detailed maps.</dd>\n \n  <dt><strong> Will it take longer to enter the Stadium now that the parking plan has changed?</strong></dt>\n  <dd>No. In fact, the redesigned plan was created to streamline traffic flow throughout the complex, especially for games that will draw large crowds, by utilizing all points-of-entry and eliminating pedestrian-vehicle congestion.\n\t<br><br>\nOf course, the key to make parking at Kauffman Stadium quick and easy is to take a few minutes to plan your route prior to departing for the ballpark.\n</dd>\n\t\n\t<dt><strong>How much does it cost to park at Kauffman Stadium?</strong></dt>\n\t<dd>Parking is $10 for cars and motorcycles, $11 for oversized vehicles and $15 for buses and empty tractor-trailers. An oversized vehicle is any vehicle that takes up more than one parking space. </dd>\n\t<dd>*Day of parking is cash only.</dd>\n\n  <dt><strong> What time do the tollgates open on gamedays?</strong></dt>\n  <dd>The tollgates are staffed with parking personnel beginning several hours prior to the scheduled first pitch. The specific time depends on the anticipated attendance. Please note that the Royals Box Office opens at 9:00 a.m. on gamedays and is accessible through Gates 2, 5 and 6 for fans purchasing tickets and then exiting the Truman Sports Complex. You can also <strong>buy your tickets on royals.com</strong> up to game time, and <strong>print your tickets at home</strong>, get them <strong>delivered to your mobile phone</strong>, or have them waiting for you at Will Call. <br />\n <ul class=\"related_content\"><li> <a href=\"/ticketing/index.jsp?c_id=kc\"><img src=\"/mlb/images/buttons/green/bu_buytixnow_154x17.gif\" width=\"154\" height=\"17\" alt=\"Buy Tickets Now\" border=\"0\"/></a></li></dd>\n\n  <dt><strong>How will you determine in which specific lot I park?</strong></dt>\n  <dd>Upon entering, parking personnel will direct you to the appropriate lot (Gold Reserved, Blue Reserved or general) closest to the Stadium with available spaces.</dd>\n\n  <dt><strong>I noticed Gate 1 is now closed to the general public. Why the change and what is the best gate for entering from Blue Ridge Cutoff?</strong></dt>\n  <dd>Gate 1 posed multiple access issues: 1) With only one toll-gate, this entrance regularly became backed-logged with guests trying to access the Stadium parking lot. 2) Gate 1 required cars to travel on Red Coat Drive, which is a main pedestrian walk-way.\n\t<br><BR>For fans accessing the Stadium from Blue Ridge Cutoff, simply travel a short distance past Gate 1 and enter at Gate 2, Gate 3 or Gate 4.</dd>\n\t\n\n  <dt><strong> I usually sit on the third-base side but prefer to enter the Stadium from Blue Ridge Cutoff. Can I still do this?</strong></dt>\n  <dd>Absolutely. While the new plan is designed to eliminate cross-traffic between the east and west parking lots, we understand that fans may choose to park on the side of the Stadium that is most convenient for them to access. In this example, fans may enter the parking lot from Blue Ridge Cutoff, park on the east side of the Stadium, and make their way to the third-base (west) side of the seating bowl.</dd>\n\n  <dt><strong>Will I be parking farther from the Stadium than I have in the past?</strong></dt>\n   <dd>No. The new parking plan will utilize the same lots as in past years, but the lots will now be categorized differently - Gold Reserved for officials and VIP guests, Blue Reserved for season ticket holders and general parking for guests who purchase parking on a game-by-game basis. All lot types will be available on each side of the stadium.</dD>\n   \n \t  <dt><strong> How does this new parking plan affect how I'll exit the Stadium?</strong></dt>\n   <dd>All tollgates and roads used to access Kauffman Stadium will also be open to accommodate traffic exiting the Truman Sports Complex, and guests will be directed out of the complex via access roads that are nearest to their parking lot. Simply put, you will be asked to exit the same way that you entered.</dd>\n\n  <dt><strong>I would like to purchase tickets at Kauffman Stadium early in the day before the crowd arrives for the game. What procedures do I need to follow?</strong></dt>\n  <dd>The Royals will have advance ticket booths located at the main box office at Gate C that are open Mon-Fri 9am-6pm and Sat & Sun 9a.m.-4p.m. As in parking for the game, please refer to royals.com/parking for the best route to access the stadium from your point-of-origin.</dd>\n</dl>\n<ul class=\"related_content\"><li>\n<p><a class=\"primaryVlink\" href=\"/kc/ballpark/parking.jsp\"><strong> Return to the Kauffman Stadium Parking page</strong></a></p>\n</li>"
+                    }
+                  }, {
+                    "rank" : 0,
+                    "viewId" : 0,
+                    "_id" : 12399912,
+                    "name" : "KC / Disabled Parking",
+                    "itemType" : "page",
+                    "state" : "A",
+                    "createdOn" : "2010-07-19T00:00:00-0400",
+                    "userDate" : "2010-07-19T00:00:00-0400",
+                    "namespaceId" : 1,
+                    "displayData" : "name=KC%20%2F%20Disabled%20Parking",
+                    "appAccountIds" : [ 14 ],
+                    "fields" : {
+                      "url" : "/kc/ballpark_demo/parking/index.jsp?content=faq",
+                      "long_title" : "Disabled Parking",
+                      "is_web_only" : "N",
+                      "id" : "disabled_parking",
+                      "short_title" : "Disabled Parking",
+                      "body" : " <dl>\n    <dt><strong> How is the drop-off process for disabled customers handled?</strong></dt>\n    <dd>The Royals encourage vehicles dropping off a guest to enter the complex through either Gates 3 or 4 and to let the traffic directors know they wish to drop-off a guest. The car will be directed to Gate D and can drop off at the curb.\n\t<br><BR>The Royals will have staff at all gates beginning 90 minutes before game time to assist with getting guests to their seats. The drop-off vehicle can then join the regular flow of traffic from that location and park in the appropriate lot.</dD>\n\t\n  \n    <dt><strong> Has the number of disabled parking spaces changed since the new plan was implemented? </strong></dt>\n    <dd>The Royals remain committed to the needs of our fans, especially those who may need a little extra help getting around the ballpark, and exceed the number of disabled parking spaces required by the ADA. In addition, there is an increased number of shuttles available to help transport guests to the Stadium gates, and Royals staff present at all gates to assist fans.</dd>\n\t\n\t\t<dt>I have an oversized vehicle - Where will I be directed to park?</dt>\n<dd>Oversized vehicles (taking up more than one space in the lot) will directed to park in Lot L. </dd>\n\n<dt>We are traveling to the Stadium by bus.  Where should we enter and is there a drop off point near the Stadium entrances for buses?</dt>\n<dd>Buses should enter Gate 1 or Gate 3 off Blue Ridge Cutoff and indicate to the attendant that they will be dropping off passengers. Buses will be directed to the curbside between Gate E and Gate D where passengers may depart the bus and enter the Stadium. Buses will then be directed to leave the Complex via Gate 2. Buses parking at the Stadium during the game they will be directed to Lot L. Guests will also be directed to Lot L for bus pick ups.  </dd>\n\n\t</dl>\n\t\n\n<ul class=\"related_content\"><li>\n<p><a class=\"primaryVlink\" href=\"/kc/ballpark/parking.jsp\"><strong>? Return to the Kauffman Stadium Parking page</strong></a></p>\n</li>"
+                    }
+                  } ]
+                }
+              }
+            } ]
+          }
+        }
+      } ]
+    }
+  },
+  "tags" : {
+    "team_id" : [ {
+      "value" : "118",
+      "displayName" : "Kansas City Royals"
+    } ],
+    "team_file_code" : [ {
+      "value" : "kc",
+      "displayName" : "kc"
+    } ]
+  }
+}

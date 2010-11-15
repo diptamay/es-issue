@@ -1,0 +1,878 @@
+{
+  "_id" : 10990513,
+  "name" : "DAM Media: 10990513 ARI@WSH: Kennedy fans seven in seven innings",
+  "itemType" : "video",
+  "state" : "A",
+  "createdOn" : "2010-08-15T00:00:00-0400",
+  "userDate" : "2010-08-15T00:00:00-0400",
+  "lastSave" : "2010-08-15T00:00:00-0400",
+  "lastPublish" : "2010-08-15T00:00:00-0400",
+  "namespaceId" : 1,
+  "displayData" : "headline=Kennedy%27s%20strong%20start&kicker=Top%20Play%20D-backs&blurb=ARI%40WSH%3A%20Kennedy%20fans%20seven%20in%20seven%20innings&createdOn=2010-08-15%2001%3A39%3A19.0&thumbnail=http%3A%2F%2Fmediadownloads.mlb.com%2Fmlbam%2F2010%2F08%2F14%2Fimages%2Fmlbf_10990513_th_7.jpg",
+  "appAccountIds" : [ 14,179 ],
+  "fields" : {
+    "bigblurb" : "8/14/10: Ian Kennedy throws seven innings of two-run ball, striking out seven",
+    "headline" : "Kennedy's strong start",
+    "namespace" : "1",
+    "blurb" : "ARI@WSH: Kennedy fans seven in seven innings",
+    "duration" : "00:01:23",
+    "kicker" : "Top Play D-backs",
+    "guid" : "5adc41b2a77b93b5",
+    "media-urls" : {
+      "XMLCascade" : "Y",
+      "items" : [ {
+        "rank" : 9,
+        "viewId" : 0,
+        "_id" : 13477508,
+        "name" : "URL mediaId: 3116316 FLASH_800K_640X360 content: 10990513",
+        "itemType" : "media-url",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=URL%20mediaId%3A%203116316%20FLASH_800K_640X360%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "cdn" : "MLB_FLASH_STREAM",
+          "filesize" : "0",
+          "can-override-blackout" : "Y",
+          "platform" : "WEB_MEDIAPLAYER",
+          "secure" : "N",
+          "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/mlbtv_ariwas_10990513_800K.mp4",
+          "auth-required" : "N",
+          "playback-scenario" : "FLASH_800K_640X360",
+          "video-state" : "MEDIA_ON",
+          "cat-code" : "mlb_mlb_lg",
+          "mediaid" : "3116316",
+          "login-required" : "N",
+          "sequence" : "1",
+          "location-details" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 13477506,
+              "name" : "PRIMARY_MLB",
+              "itemType" : "location-detail",
+              "state" : "A",
+              "createdOn" : "2010-08-15T00:00:00-0400",
+              "userDate" : "2010-08-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=PRIMARY_MLB",
+              "appAccountIds" : [ 14,179 ],
+              "fields" : {
+                "cdn" : "MLB_FLASH_STREAM",
+                "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/mlbtv_ariwas_10990513_800K.mp4",
+                "name" : "PRIMARY_MLB"
+              }
+            } ]
+          }
+        }
+      }, {
+        "rank" : 6,
+        "viewId" : 0,
+        "_id" : 13477516,
+        "name" : "URL mediaId: 3116318 FLASH_600K_400X224 content: 10990513",
+        "itemType" : "media-url",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=URL%20mediaId%3A%203116318%20FLASH_600K_400X224%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "mediaid" : "3116318",
+          "cat-code" : "mlb_mlb_lg",
+          "video-state" : "MEDIA_ON",
+          "playback-scenario" : "FLASH_600K_400X224",
+          "sequence" : "1",
+          "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/mlbtv_ariwas_10990513_400K.mp4",
+          "auth-required" : "N",
+          "secure" : "N",
+          "platform" : "WEB_MEDIAPLAYER",
+          "can-override-blackout" : "Y",
+          "filesize" : "0",
+          "cdn" : "MLB_FLASH_STREAM",
+          "login-required" : "N",
+          "delivery-type" : "demand",
+          "location-details" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 13477514,
+              "name" : "PRIMARY_MLB",
+              "itemType" : "location-detail",
+              "state" : "A",
+              "createdOn" : "2010-08-15T00:00:00-0400",
+              "userDate" : "2010-08-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=PRIMARY_MLB",
+              "appAccountIds" : [ 14,179 ],
+              "fields" : {
+                "cdn" : "MLB_FLASH_STREAM",
+                "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/mlbtv_ariwas_10990513_400K.mp4",
+                "name" : "PRIMARY_MLB"
+              }
+            } ]
+          }
+        }
+      }, {
+        "rank" : 0,
+        "viewId" : 0,
+        "_id" : 13478680,
+        "name" : "URL mediaId: 3116319 MOBILE_IPHONE_56 content: 10990513",
+        "itemType" : "media-url",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=URL%20mediaId%3A%203116319%20MOBILE_IPHONE_56%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "delivery-type" : "demand",
+          "mediaid" : "3116319",
+          "video-state" : "MEDIA_ON",
+          "playback-scenario" : "MOBILE_IPHONE_56",
+          "sequence" : "1",
+          "location" : "http://mobilevideo.mlb.com.edgesuite.net/2010/open/mlbam/2010/08/14/mlbtv_ariwas_10990513_iphone_56K.3gp",
+          "secure" : "N",
+          "can-override-blackout" : "Y",
+          "filesize" : "0",
+          "cdn" : "AKAMAI_FLASH_STREAM_ONDEMAND",
+          "login-required" : "N",
+          "auth-required" : "N",
+          "location-details" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 13478678,
+              "name" : "PRIMARY_AKAMAI",
+              "itemType" : "location-detail",
+              "state" : "A",
+              "createdOn" : "2010-08-15T00:00:00-0400",
+              "userDate" : "2010-08-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=PRIMARY_AKAMAI",
+              "appAccountIds" : [ 14,179 ],
+              "fields" : {
+                "cdn" : "AKAMAI_FLASH_STREAM_ONDEMAND",
+                "location" : "http://mobilevideo.mlb.com.edgesuite.net/2010/open/mlbam/2010/08/14/mlbtv_ariwas_10990513_iphone_56K.3gp",
+                "name" : "PRIMARY_AKAMAI"
+              }
+            } ]
+          }
+        }
+      }, {
+        "rank" : 1,
+        "viewId" : 0,
+        "_id" : 13478684,
+        "name" : "URL mediaId: 3116320 MOBILE_IPHONE_900 content: 10990513",
+        "itemType" : "media-url",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=URL%20mediaId%3A%203116320%20MOBILE_IPHONE_900%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "mediaid" : "3116320",
+          "video-state" : "MEDIA_ON",
+          "playback-scenario" : "MOBILE_IPHONE_900",
+          "sequence" : "1",
+          "location" : "http://mobilevideo.mlb.com.edgesuite.net/2010/open/mlbam/2010/08/14/mlbtv_ariwas_10990513_iphone_ref.mov",
+          "login-required" : "N",
+          "can-override-blackout" : "Y",
+          "filesize" : "0",
+          "cdn" : "AKAMAI_FLASH_STREAM_ONDEMAND",
+          "auth-required" : "N",
+          "delivery-type" : "demand",
+          "secure" : "N",
+          "location-details" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 13478682,
+              "name" : "PRIMARY_AKAMAI",
+              "itemType" : "location-detail",
+              "state" : "A",
+              "createdOn" : "2010-08-15T00:00:00-0400",
+              "userDate" : "2010-08-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=PRIMARY_AKAMAI",
+              "appAccountIds" : [ 14,179 ],
+              "fields" : {
+                "cdn" : "AKAMAI_FLASH_STREAM_ONDEMAND",
+                "location" : "http://mobilevideo.mlb.com.edgesuite.net/2010/open/mlbam/2010/08/14/mlbtv_ariwas_10990513_iphone_ref.mov",
+                "name" : "PRIMARY_AKAMAI"
+              }
+            } ]
+          }
+        }
+      }, {
+        "rank" : 8,
+        "viewId" : 0,
+        "_id" : 13478688,
+        "name" : "URL mediaId: 3116321 FLASH_300K_256X144 content: 10990513",
+        "itemType" : "media-url",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=URL%20mediaId%3A%203116321%20FLASH_300K_256X144%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "login-required" : "N",
+          "auth-required" : "N",
+          "cdn" : "MLB_FLASH_STREAM",
+          "filesize" : "0",
+          "can-override-blackout" : "Y",
+          "platform" : "WEB_MEDIAPLAYER",
+          "secure" : "N",
+          "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/mlbtv_ariwas_10990513_300K.mp4",
+          "sequence" : "1",
+          "playback-scenario" : "FLASH_300K_256X144",
+          "video-state" : "MEDIA_ON",
+          "cat-code" : "mlb_mlb_lg",
+          "mediaid" : "3116321",
+          "location-details" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 13478686,
+              "name" : "PRIMARY_MLB",
+              "itemType" : "location-detail",
+              "state" : "A",
+              "createdOn" : "2010-08-15T00:00:00-0400",
+              "userDate" : "2010-08-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=PRIMARY_MLB",
+              "appAccountIds" : [ 14,179 ],
+              "fields" : {
+                "cdn" : "MLB_FLASH_STREAM",
+                "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/mlbtv_ariwas_10990513_300K.mp4",
+                "name" : "PRIMARY_MLB"
+              }
+            } ]
+          }
+        }
+      }, {
+        "rank" : 5,
+        "viewId" : 0,
+        "_id" : 13478692,
+        "name" : "URL mediaId: 3116322 3GP_H264_200K_320X240 content: 10990513",
+        "itemType" : "media-url",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=URL%20mediaId%3A%203116322%203GP_H264_200K_320X240%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "auth-required" : "N",
+          "cdn" : "AKAMAI_FLASH_STREAM_ONDEMAND",
+          "filesize" : "0",
+          "can-override-blackout" : "Y",
+          "secure" : "N",
+          "delivery-type" : "demand",
+          "sequence" : "1",
+          "playback-scenario" : "3GP_H264_200K_320X240",
+          "video-state" : "MEDIA_ON",
+          "mediaid" : "3116322",
+          "login-required" : "N",
+          "location" : "rtsp://a870.v10869f.c10869.g.vq.akamaistream.net/7/870/10869/v0001/mlb2003.download.akamai.com/10869/2010/open/mlbam/2010/08/14/mlbtv_ariwas_10990513_3gpp_200K.3gp",
+          "location-details" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 13478690,
+              "name" : "PRIMARY_AKAMAI",
+              "itemType" : "location-detail",
+              "state" : "A",
+              "createdOn" : "2010-08-15T00:00:00-0400",
+              "userDate" : "2010-08-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=PRIMARY_AKAMAI",
+              "appAccountIds" : [ 14,179 ],
+              "fields" : {
+                "cdn" : "AKAMAI_FLASH_STREAM_ONDEMAND",
+                "location" : "rtsp://a870.v10869f.c10869.g.vq.akamaistream.net/7/870/10869/v0001/mlb2003.download.akamai.com/10869/2010/open/mlbam/2010/08/14/mlbtv_ariwas_10990513_3gpp_200K.3gp",
+                "name" : "PRIMARY_AKAMAI"
+              }
+            } ]
+          }
+        }
+      }, {
+        "rank" : 10,
+        "viewId" : 0,
+        "_id" : 13478696,
+        "name" : "URL mediaId: 3116323 HTTP_CLOUD_MOBILE content: 10990513",
+        "itemType" : "media-url",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=URL%20mediaId%3A%203116323%20HTTP_CLOUD_MOBILE%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "login-required" : "N",
+          "mediaid" : "3116323",
+          "video-state" : "MEDIA_ON",
+          "playback-scenario" : "HTTP_CLOUD_MOBILE",
+          "sequence" : "1",
+          "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/10990513_m3u8/master_mobile.m3u8",
+          "secure" : "N",
+          "can-override-blackout" : "Y",
+          "filesize" : "0",
+          "cdn" : "AKAMAI_FLASH_STREAM_ONDEMAND",
+          "auth-required" : "N",
+          "location-details" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 13478694,
+              "name" : "PRIMARY_AKAMAI",
+              "itemType" : "location-detail",
+              "state" : "A",
+              "createdOn" : "2010-08-15T00:00:00-0400",
+              "userDate" : "2010-08-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=PRIMARY_AKAMAI",
+              "appAccountIds" : [ 14,179 ],
+              "fields" : {
+                "cdn" : "AKAMAI_FLASH_STREAM_ONDEMAND",
+                "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/10990513_m3u8/master_mobile.m3u8",
+                "name" : "PRIMARY_AKAMAI"
+              }
+            } ]
+          }
+        }
+      }, {
+        "rank" : 11,
+        "viewId" : 0,
+        "_id" : 13478700,
+        "name" : "URL mediaId: 3116324 HTTP_CLOUD_TABLET content: 10990513",
+        "itemType" : "media-url",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=URL%20mediaId%3A%203116324%20HTTP_CLOUD_TABLET%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "cdn" : "AKAMAI_FLASH_STREAM_ONDEMAND",
+          "filesize" : "0",
+          "can-override-blackout" : "Y",
+          "secure" : "N",
+          "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/10990513_m3u8/master_tablet.m3u8",
+          "auth-required" : "N",
+          "playback-scenario" : "HTTP_CLOUD_TABLET",
+          "video-state" : "MEDIA_ON",
+          "mediaid" : "3116324",
+          "login-required" : "N",
+          "sequence" : "1",
+          "location-details" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 13478698,
+              "name" : "PRIMARY_AKAMAI",
+              "itemType" : "location-detail",
+              "state" : "A",
+              "createdOn" : "2010-08-15T00:00:00-0400",
+              "userDate" : "2010-08-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=PRIMARY_AKAMAI",
+              "appAccountIds" : [ 14,179 ],
+              "fields" : {
+                "cdn" : "AKAMAI_FLASH_STREAM_ONDEMAND",
+                "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/10990513_m3u8/master_tablet.m3u8",
+                "name" : "PRIMARY_AKAMAI"
+              }
+            } ]
+          }
+        }
+      }, {
+        "rank" : 12,
+        "viewId" : 0,
+        "_id" : 13478704,
+        "name" : "URL mediaId: 3116325 3GP_H264_550K_320X240 content: 10990513",
+        "itemType" : "media-url",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=URL%20mediaId%3A%203116325%203GP_H264_550K_320X240%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "secure" : "N",
+          "location" : "http://mobilevideo.mlb.com.edgesuite.net/2010/open/mlbam/2010/08/14/mlbtv_ariwas_10990513_iphone_900K.3gp",
+          "sequence" : "1",
+          "playback-scenario" : "3GP_H264_550K_320X240",
+          "video-state" : "MEDIA_ON",
+          "login-required" : "N",
+          "can-override-blackout" : "Y",
+          "filesize" : "0",
+          "cdn" : "AKAMAI_FLASH_STREAM_ONDEMAND",
+          "auth-required" : "N",
+          "mediaid" : "3116325",
+          "location-details" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 13478702,
+              "name" : "PRIMARY_AKAMAI",
+              "itemType" : "location-detail",
+              "state" : "A",
+              "createdOn" : "2010-08-15T00:00:00-0400",
+              "userDate" : "2010-08-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=PRIMARY_AKAMAI",
+              "appAccountIds" : [ 14,179 ],
+              "fields" : {
+                "cdn" : "AKAMAI_FLASH_STREAM_ONDEMAND",
+                "location" : "http://mobilevideo.mlb.com.edgesuite.net/2010/open/mlbam/2010/08/14/mlbtv_ariwas_10990513_iphone_900K.3gp",
+                "name" : "PRIMARY_AKAMAI"
+              }
+            } ]
+          }
+        }
+      }, {
+        "rank" : 2,
+        "viewId" : 0,
+        "_id" : 13478730,
+        "name" : "URL mediaId: 3116343 3GP_H264_128K_320X240 content: 10990513",
+        "itemType" : "media-url",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=URL%20mediaId%3A%203116343%203GP_H264_128K_320X240%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "cdn" : "AKAMAI_FLASH_STREAM_ONDEMAND",
+          "auth-required" : "N",
+          "login-required" : "N",
+          "mediaid" : "3116343",
+          "video-state" : "MEDIA_ON",
+          "playback-scenario" : "3GP_H264_128K_320X240",
+          "sequence" : "1",
+          "location" : "rtsp://a870.v10869f.c10869.g.vq.akamaistream.net/7/870/10869/v0001/mlb2003.download.akamai.com/10869/2010/open/mlbam/2010/08/14/mlbtv_ariwas_10990513_3gpp_h264_128K.3gp",
+          "secure" : "N",
+          "can-override-blackout" : "Y",
+          "filesize" : "0",
+          "delivery-type" : "demand",
+          "location-details" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 13478728,
+              "name" : "PRIMARY_AKAMAI",
+              "itemType" : "location-detail",
+              "state" : "A",
+              "createdOn" : "2010-08-15T00:00:00-0400",
+              "userDate" : "2010-08-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=PRIMARY_AKAMAI",
+              "appAccountIds" : [ 14,179 ],
+              "fields" : {
+                "cdn" : "AKAMAI_FLASH_STREAM_ONDEMAND",
+                "location" : "rtsp://a870.v10869f.c10869.g.vq.akamaistream.net/7/870/10869/v0001/mlb2003.download.akamai.com/10869/2010/open/mlbam/2010/08/14/mlbtv_ariwas_10990513_3gpp_h264_128K.3gp",
+                "name" : "PRIMARY_AKAMAI"
+              }
+            } ]
+          }
+        }
+      }, {
+        "rank" : 3,
+        "viewId" : 0,
+        "_id" : 13478734,
+        "name" : "URL mediaId: 3116344 3GP_MP4_128K_176X144 content: 10990513",
+        "itemType" : "media-url",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=URL%20mediaId%3A%203116344%203GP_MP4_128K_176X144%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "filesize" : "0",
+          "cdn" : "AKAMAI_FLASH_STREAM_ONDEMAND",
+          "auth-required" : "N",
+          "delivery-type" : "demand",
+          "login-required" : "N",
+          "mediaid" : "3116344",
+          "video-state" : "MEDIA_ON",
+          "playback-scenario" : "3GP_MP4_128K_176X144",
+          "sequence" : "1",
+          "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/mlbtv_ariwas_10990513_3gpp_mp4_128K.3gp",
+          "secure" : "N",
+          "can-override-blackout" : "Y",
+          "location-details" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 13478732,
+              "name" : "PRIMARY_AKAMAI",
+              "itemType" : "location-detail",
+              "state" : "A",
+              "createdOn" : "2010-08-15T00:00:00-0400",
+              "userDate" : "2010-08-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=PRIMARY_AKAMAI",
+              "appAccountIds" : [ 14,179 ],
+              "fields" : {
+                "cdn" : "AKAMAI_FLASH_STREAM_ONDEMAND",
+                "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/mlbtv_ariwas_10990513_3gpp_mp4_128K.3gp",
+                "name" : "PRIMARY_AKAMAI"
+              }
+            } ]
+          }
+        }
+      }, {
+        "rank" : 4,
+        "viewId" : 0,
+        "_id" : 13478738,
+        "name" : "URL mediaId: 3116345 WM9_128K_160X120 content: 10990513",
+        "itemType" : "media-url",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=URL%20mediaId%3A%203116345%20WM9_128K_160X120%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "login-required" : "N",
+          "mediaid" : "3116345",
+          "video-state" : "MEDIA_ON",
+          "playback-scenario" : "WM9_128K_160X120",
+          "sequence" : "1",
+          "delivery-type" : "demand",
+          "secure" : "N",
+          "can-override-blackout" : "Y",
+          "filesize" : "0",
+          "cdn" : "AKAMAI_FLASH_STREAM_ONDEMAND",
+          "auth-required" : "N",
+          "location" : "mms://a1984.v10869d.c10869.g.vm.akamaistream.net/7/1984/10869/v0001/mlb2003.download.akamai.com/10869/2010/open/mlbam/2010/08/14/mlbtv_ariwas_10990513_wmv_128K.wmv",
+          "location-details" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 13478736,
+              "name" : "PRIMARY_AKAMAI",
+              "itemType" : "location-detail",
+              "state" : "A",
+              "createdOn" : "2010-08-15T00:00:00-0400",
+              "userDate" : "2010-08-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=PRIMARY_AKAMAI",
+              "appAccountIds" : [ 14,179 ],
+              "fields" : {
+                "cdn" : "AKAMAI_FLASH_STREAM_ONDEMAND",
+                "location" : "mms://a1984.v10869d.c10869.g.vm.akamaistream.net/7/1984/10869/v0001/mlb2003.download.akamai.com/10869/2010/open/mlbam/2010/08/14/mlbtv_ariwas_10990513_wmv_128K.wmv",
+                "name" : "PRIMARY_AKAMAI"
+              }
+            } ]
+          }
+        }
+      }, {
+        "rank" : 7,
+        "viewId" : 0,
+        "_id" : 13477512,
+        "name" : "URL mediaId: 3116317 FLASH_1000K_640X360 content: 10990513",
+        "itemType" : "media-url",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=URL%20mediaId%3A%203116317%20FLASH_1000K_640X360%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "auth-required" : "N",
+          "cdn" : "MLB_FLASH_STREAM",
+          "filesize" : "0",
+          "can-override-blackout" : "Y",
+          "platform" : "WEB_MEDIAPLAYER",
+          "secure" : "N",
+          "sequence" : "1",
+          "playback-scenario" : "FLASH_1000K_640X360",
+          "video-state" : "MEDIA_ON",
+          "cat-code" : "mlb_mlb_lg",
+          "mediaid" : "3116317",
+          "login-required" : "N",
+          "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/mlbtv_ariwas_10990513_1m.mp4",
+          "location-details" : {
+            "XMLCascade" : "Y",
+            "items" : [ {
+              "rank" : 0,
+              "viewId" : 0,
+              "_id" : 13477510,
+              "name" : "PRIMARY_MLB",
+              "itemType" : "location-detail",
+              "state" : "A",
+              "createdOn" : "2010-08-15T00:00:00-0400",
+              "userDate" : "2010-08-15T00:00:00-0400",
+              "namespaceId" : 1,
+              "displayData" : "name=PRIMARY_MLB",
+              "appAccountIds" : [ 14,179 ],
+              "fields" : {
+                "cdn" : "MLB_FLASH_STREAM",
+                "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/mlbtv_ariwas_10990513_1m.mp4",
+                "name" : "PRIMARY_MLB"
+              }
+            } ]
+          }
+        }
+      } ]
+    },
+    "thumbnails" : {
+      "XMLCascade" : "Y",
+      "items" : [ {
+        "rank" : 9,
+        "viewId" : 0,
+        "_id" : 13478726,
+        "name" : "Thumbnail: 13 content: 10990513",
+        "itemType" : "image",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=Thumbnail%3A%2013%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/images/mlbf_10990513_th_13.jpg",
+          "thumbnail-type" : "13"
+        }
+      }, {
+        "rank" : 0,
+        "viewId" : 0,
+        "_id" : 13478706,
+        "name" : "Thumbnail: 1 content: 10990513",
+        "itemType" : "image",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=Thumbnail%3A%201%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "thumbnail-type" : "1",
+          "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/images/mlbf_10990513_th_1.jpg"
+        }
+      }, {
+        "rank" : 1,
+        "viewId" : 0,
+        "_id" : 13478708,
+        "name" : "Thumbnail: 2 content: 10990513",
+        "itemType" : "image",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=Thumbnail%3A%202%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "thumbnail-type" : "2",
+          "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/images/mlbf_10990513_th_2.jpg"
+        }
+      }, {
+        "rank" : 2,
+        "viewId" : 0,
+        "_id" : 13478710,
+        "name" : "Thumbnail: 3 content: 10990513",
+        "itemType" : "image",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=Thumbnail%3A%203%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "thumbnail-type" : "3",
+          "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/images/mlbf_10990513_th_3.jpg"
+        }
+      }, {
+        "rank" : 3,
+        "viewId" : 0,
+        "_id" : 13478712,
+        "name" : "Thumbnail: 4 content: 10990513",
+        "itemType" : "image",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=Thumbnail%3A%204%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/images/mlbf_10990513_th_4.jpg",
+          "thumbnail-type" : "4"
+        }
+      }, {
+        "rank" : 4,
+        "viewId" : 0,
+        "_id" : 13478714,
+        "name" : "Thumbnail: 5 content: 10990513",
+        "itemType" : "image",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=Thumbnail%3A%205%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/images/mlbf_10990513_th_5.jpg",
+          "thumbnail-type" : "5"
+        }
+      }, {
+        "rank" : 5,
+        "viewId" : 0,
+        "_id" : 13478716,
+        "name" : "Thumbnail: 6 content: 10990513",
+        "itemType" : "image",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=Thumbnail%3A%206%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/images/mlbf_10990513_th_6.jpg",
+          "thumbnail-type" : "6"
+        }
+      }, {
+        "rank" : 6,
+        "viewId" : 0,
+        "_id" : 13478718,
+        "name" : "Thumbnail: 7 content: 10990513",
+        "itemType" : "image",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=Thumbnail%3A%207%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "thumbnail-type" : "7",
+          "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/images/mlbf_10990513_th_7.jpg"
+        }
+      }, {
+        "rank" : 7,
+        "viewId" : 0,
+        "_id" : 13478720,
+        "name" : "Thumbnail: 8 content: 10990513",
+        "itemType" : "image",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=Thumbnail%3A%208%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/images/mlbf_10990513_th_8.jpg",
+          "thumbnail-type" : "8"
+        }
+      }, {
+        "rank" : 10,
+        "viewId" : 0,
+        "_id" : 13478722,
+        "name" : "Thumbnail: 10 content: 10990513",
+        "itemType" : "image",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=Thumbnail%3A%2010%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/images/mlbf_10990513_th_10.jpg",
+          "thumbnail-type" : "10"
+        }
+      }, {
+        "rank" : 8,
+        "viewId" : 0,
+        "_id" : 13478724,
+        "name" : "Thumbnail: 25 content: 10990513",
+        "itemType" : "image",
+        "state" : "A",
+        "createdOn" : "2010-08-15T00:00:00-0400",
+        "userDate" : "2010-08-15T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=Thumbnail%3A%2025%20content%3A%2010990513",
+        "appAccountIds" : [ 14,179 ],
+        "fields" : {
+          "location" : "http://mediadownloads.mlb.com/mlbam/2010/08/14/images/mlbf_10990513_th_25.jpg",
+          "thumbnail-type" : "25"
+        }
+      } ]
+    }
+  },
+  "tags" : {
+    "away_team_id" : [ {
+      "value" : "109"
+    } ],
+    "combined_media_state" : [ {
+      "value" : "MEDIA_ON",
+      "displayName" : "MEDIA_ON"
+    } ],
+    "weight" : [ {
+      "value" : "1",
+      "displayName" : "1"
+    } ],
+    "subject" : [ {
+      "value" : "MLBCOM_TOP_PLAY",
+      "displayName" : "MLBCOM_TOP_PLAY"
+    }, {
+      "value" : "MLBMOBILE_FEATURES",
+      "displayName" : "MLBMOBILE_FEATURES"
+    }, {
+      "value" : "MLBMOBILE_APPLICATION_HIGHLIGHT",
+      "displayName" : "MLBMOBILE_APPLICATION_HIGHLIGHT"
+    } ],
+    "game_pk" : [ {
+      "value" : "265544",
+      "displayName" : "2010/08/14/arimlb-wasmlb-1"
+    } ],
+    "yahoo_player_id" : [ {
+      "value" : "8099",
+      "displayName" : "453178"
+    } ],
+    "game_id" : [ {
+      "value" : "2010/08/14/arimlb-wasmlb-1"
+    } ],
+    "mlbtax" : [ {
+      "value" : "pitching",
+      "displayName" : "pitching"
+    }, {
+      "value" : "mm_hightlight_reel",
+      "displayName" : "highlight reel"
+    } ],
+    "event_date" : [ {
+      "value" : "2010-08-14T19:05:00-0400",
+      "displayName" : "2010-08-14T19:05:00-0400"
+    } ],
+    "home_team_id" : [ {
+      "value" : "120"
+    } ],
+    "player_id" : [ {
+      "value" : "453178",
+      "displayName" : "Ian Kennedy"
+    } ],
+    "calendar_event_id" : [ {
+      "value" : "14-265544-2010-08-14"
+    } ],
+    "team_id" : [ {
+      "value" : "109",
+      "displayName" : "Arizona Diamondbacks"
+    } ]
+  }
+}
