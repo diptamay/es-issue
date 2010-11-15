@@ -1,0 +1,375 @@
+{
+  "_id" : 15447096,
+  "name" : "Minnesota Twins in 14-286318-2010-10-06",
+  "itemType" : "lineup",
+  "state" : "A",
+  "createdOn" : "2010-10-06T00:00:00-0400",
+  "userDate" : "2010-10-06T00:00:00-0400",
+  "lastSave" : "2010-10-06T00:00:00-0400",
+  "lastPublish" : "2010-10-06T00:00:00-0400",
+  "namespaceId" : 1,
+  "displayData" : "name=Minnesota%20Twins%20in%2014-286318-2010-10-06",
+  "appAccountIds" : [ 14 ],
+  "fields" : {
+    "lineup-players" : {
+      "XMLCascade" : "Y",
+      "items" : [ {
+        "rank" : 3,
+        "viewId" : 0,
+        "_id" : 8806624,
+        "name" : "Delmon Young",
+        "itemType" : "lineup-player",
+        "state" : "A",
+        "createdOn" : "2010-03-16T00:00:00-0400",
+        "userDate" : "2010-03-16T00:00:00-0400",
+        "lastSave" : "2010-03-16T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=Delmon%20Young",
+        "appAccountIds" : [ 14 ],
+        "tags" : {
+          "name_first" : [ {
+            "value" : "Delmon"
+          } ],
+          "name_use" : [ {
+            "value" : "Delmon"
+          } ],
+          "player_id" : [ {
+            "value" : "430321"
+          } ],
+          "name_last" : [ {
+            "value" : "Young"
+          } ],
+          "team_id" : [ {
+            "value" : "142"
+          } ]
+        }
+      }, {
+        "rank" : 2,
+        "viewId" : 0,
+        "_id" : 8806628,
+        "name" : "Joe Mauer",
+        "itemType" : "lineup-player",
+        "state" : "A",
+        "createdOn" : "2010-03-16T00:00:00-0400",
+        "userDate" : "2010-03-16T00:00:00-0400",
+        "lastSave" : "2010-03-16T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=Joe%20Mauer",
+        "appAccountIds" : [ 14 ],
+        "tags" : {
+          "name_first" : [ {
+            "value" : "Joseph"
+          } ],
+          "name_use" : [ {
+            "value" : "Joe"
+          } ],
+          "player_id" : [ {
+            "value" : "408045"
+          } ],
+          "name_last" : [ {
+            "value" : "Mauer"
+          } ],
+          "team_id" : [ {
+            "value" : "142"
+          } ]
+        }
+      }, {
+        "rank" : 0,
+        "viewId" : 0,
+        "_id" : 8805360,
+        "name" : "Denard Span",
+        "itemType" : "lineup-player",
+        "state" : "A",
+        "createdOn" : "2010-03-16T00:00:00-0400",
+        "userDate" : "2010-03-16T00:00:00-0400",
+        "lastSave" : "2010-03-16T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=Denard%20Span",
+        "appAccountIds" : [ 14 ],
+        "tags" : {
+          "name_first" : [ {
+            "value" : "Keiunta"
+          } ],
+          "name_use" : [ {
+            "value" : "Denard"
+          } ],
+          "player_id" : [ {
+            "value" : "452655"
+          } ],
+          "name_last" : [ {
+            "value" : "Span"
+          } ],
+          "team_id" : [ {
+            "value" : "142"
+          } ]
+        }
+      }, {
+        "rank" : 4,
+        "viewId" : 0,
+        "_id" : 9123854,
+        "name" : "Jim Thome",
+        "itemType" : "lineup-player",
+        "state" : "A",
+        "createdOn" : "2010-04-07T00:00:00-0400",
+        "userDate" : "2010-04-07T00:00:00-0400",
+        "lastSave" : "2010-04-07T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=Jim%20Thome",
+        "appAccountIds" : [ 14 ],
+        "tags" : {
+          "name_first" : [ {
+            "value" : "James"
+          } ],
+          "name_use" : [ {
+            "value" : "Jim"
+          } ],
+          "player_id" : [ {
+            "value" : "123272"
+          } ],
+          "name_last" : [ {
+            "value" : "Thome"
+          } ],
+          "team_id" : [ {
+            "value" : "142"
+          } ]
+        }
+      }, {
+        "rank" : 5,
+        "viewId" : 0,
+        "_id" : 7377082,
+        "name" : "Michael Cuddyer",
+        "itemType" : "lineup-player",
+        "state" : "A",
+        "createdOn" : "2009-10-07T00:00:00-0400",
+        "userDate" : "2009-10-07T00:00:00-0400",
+        "lastSave" : "2009-10-07T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=Michael%20Cuddyer",
+        "appAccountIds" : [ 14 ],
+        "tags" : {
+          "name_first" : [ {
+            "value" : "Michael"
+          } ],
+          "name_use" : [ {
+            "value" : "Michael"
+          } ],
+          "player_id" : [ {
+            "value" : "150212"
+          } ],
+          "name_last" : [ {
+            "value" : "Cuddyer"
+          } ],
+          "team_id" : [ {
+            "value" : "142"
+          } ]
+        }
+      }, {
+        "rank" : 6,
+        "viewId" : 0,
+        "_id" : 8806052,
+        "name" : "Jason Kubel",
+        "itemType" : "lineup-player",
+        "state" : "A",
+        "createdOn" : "2010-03-16T00:00:00-0400",
+        "userDate" : "2010-03-16T00:00:00-0400",
+        "lastSave" : "2010-03-16T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=Jason%20Kubel",
+        "appAccountIds" : [ 14 ],
+        "tags" : {
+          "name_first" : [ {
+            "value" : "Jason"
+          } ],
+          "name_use" : [ {
+            "value" : "Jason"
+          } ],
+          "player_id" : [ {
+            "value" : "430585"
+          } ],
+          "name_last" : [ {
+            "value" : "Kubel"
+          } ],
+          "team_id" : [ {
+            "value" : "142"
+          } ]
+        }
+      }, {
+        "rank" : 7,
+        "viewId" : 0,
+        "_id" : 10770726,
+        "name" : "Danny Valencia",
+        "itemType" : "lineup-player",
+        "state" : "A",
+        "createdOn" : "2010-06-03T00:00:00-0400",
+        "userDate" : "2010-06-03T00:00:00-0400",
+        "lastSave" : "2010-06-03T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=Danny%20Valencia",
+        "appAccountIds" : [ 14 ],
+        "tags" : {
+          "name_first" : [ {
+            "value" : "Daniel"
+          } ],
+          "name_use" : [ {
+            "value" : "Danny"
+          } ],
+          "player_id" : [ {
+            "value" : "502143"
+          } ],
+          "name_last" : [ {
+            "value" : "Valencia"
+          } ],
+          "team_id" : [ {
+            "value" : "142"
+          } ]
+        }
+      }, {
+        "rank" : 8,
+        "viewId" : 0,
+        "_id" : 8805534,
+        "name" : "J.J. Hardy",
+        "itemType" : "lineup-player",
+        "state" : "A",
+        "createdOn" : "2010-03-16T00:00:00-0400",
+        "userDate" : "2010-03-16T00:00:00-0400",
+        "lastSave" : "2010-03-16T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=J.J.%20Hardy",
+        "appAccountIds" : [ 14 ],
+        "tags" : {
+          "name_first" : [ {
+            "value" : "James"
+          } ],
+          "name_use" : [ {
+            "value" : "J.J."
+          } ],
+          "player_id" : [ {
+            "value" : "429666"
+          } ],
+          "name_last" : [ {
+            "value" : "Hardy"
+          } ],
+          "team_id" : [ {
+            "value" : "142"
+          } ]
+        }
+      }, {
+        "rank" : 9,
+        "viewId" : 0,
+        "_id" : 9171144,
+        "name" : "Francisco Liriano",
+        "itemType" : "lineup-player",
+        "state" : "A",
+        "createdOn" : "2010-04-09T00:00:00-0400",
+        "userDate" : "2010-04-09T00:00:00-0400",
+        "lastSave" : "2010-04-09T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=Francisco%20Liriano",
+        "appAccountIds" : [ 14 ],
+        "tags" : {
+          "name_first" : [ {
+            "value" : "Francisco"
+          } ],
+          "name_use" : [ {
+            "value" : "Francisco"
+          } ],
+          "player_id" : [ {
+            "value" : "434538"
+          } ],
+          "name_last" : [ {
+            "value" : "Liriano"
+          } ],
+          "team_id" : [ {
+            "value" : "142"
+          } ]
+        }
+      }, {
+        "rank" : 1,
+        "viewId" : 0,
+        "_id" : 8806050,
+        "name" : "Orlando Hudson",
+        "itemType" : "lineup-player",
+        "state" : "A",
+        "createdOn" : "2010-03-16T00:00:00-0400",
+        "userDate" : "2010-03-16T00:00:00-0400",
+        "lastSave" : "2010-03-16T00:00:00-0400",
+        "namespaceId" : 1,
+        "displayData" : "name=Orlando%20Hudson",
+        "appAccountIds" : [ 14 ],
+        "tags" : {
+          "name_first" : [ {
+            "value" : "Orlando"
+          } ],
+          "name_use" : [ {
+            "value" : "Orlando"
+          } ],
+          "player_id" : [ {
+            "value" : "407861"
+          } ],
+          "name_last" : [ {
+            "value" : "Hudson"
+          } ],
+          "team_id" : [ {
+            "value" : "142"
+          } ]
+        }
+      } ]
+    }
+  },
+  "tags" : {
+    "player_430321_pos" : [ {
+      "value" : "7",
+      "displayName" : "LF"
+    } ],
+    "player_429666_pos" : [ {
+      "value" : "6",
+      "displayName" : "SS"
+    } ],
+    "game_pk" : [ {
+      "value" : "286318",
+      "displayName" : "2010/10/06/nyamlb-minmlb-1"
+    } ],
+    "player_434538_pos" : [ {
+      "value" : "1",
+      "displayName" : "P"
+    } ],
+    "player_123272_pos" : [ {
+      "value" : "D",
+      "displayName" : "DH"
+    } ],
+    "player_452655_pos" : [ {
+      "value" : "8",
+      "displayName" : "CF"
+    } ],
+    "player_407861_pos" : [ {
+      "value" : "4",
+      "displayName" : "2B"
+    } ],
+    "player_408045_pos" : [ {
+      "value" : "2",
+      "displayName" : "C"
+    } ],
+    "event_date" : [ {
+      "value" : "2010-10-06"
+    } ],
+    "player_502143_pos" : [ {
+      "value" : "5",
+      "displayName" : "3B"
+    } ],
+    "player_430585_pos" : [ {
+      "value" : "9",
+      "displayName" : "RF"
+    } ],
+    "calendar_event_id" : [ {
+      "value" : "14-286318-2010-10-06"
+    } ],
+    "player_150212_pos" : [ {
+      "value" : "3",
+      "displayName" : "1B"
+    } ],
+    "team_id" : [ {
+      "value" : "142",
+      "displayName" : "Minnesota Twins"
+    } ]
+  }
+}
