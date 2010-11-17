@@ -14,6 +14,10 @@ Steps to setup and reproduce:
    c) Then it puts the new mapping for audio and does a load of the sample data.
    d) Then it fires a query, same as step 2b above, which returns results incorrectly now i.e 1 video is only returned.
 
+Note:
+----
+1) If I had used the new re-configured audio mapping at the time of creation of the index, then there is no problem.
+
 Configuration of ES:
 --------------------
 cluster:
