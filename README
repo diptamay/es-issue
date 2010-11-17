@@ -1,6 +1,6 @@
 Scenario:
 --------
-Re-Indexing issues resulting in invalid search results, when mappings are changed in a live system and re-applied after all the documents and the respective mappings were deleted.
+Re-Indexing results in invalid search results, when mappings are changed in a live system and re-applied after all the documents and the respective mappings were deleted.
  
 Steps to setup and reproduce:
 ------------------------------
