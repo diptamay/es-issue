@@ -1,42 +1,41 @@
-curl -XGET 'http://localhost:9200/es-test/video/_search?pretty=true' -d '
+curl -XGET 'http://localhost:9200/es-test/_search?pretty=true' -d '
 {
-    "query" : {
-        "bool" : {
-            "must" : {
-                "field" : {
-                    "appAccountIds" : 179 
+    "from": 0,
+    "size": 100,
+    "query": {
+        "bool": {
+            "must": {
+                "field": {
+                    "state": "A"
                 }
-            } 
-        } 
-    },
-    "size" : 10
-}'
-
-curl -XGET 'http://localhost:9200/es-test/video/_search?pretty=true' -d '
-{
-    "query" : {
-        "bool" : {
-            "must" : {
-                "field" : {
-                    "state" : "D" 
+            },
+            "must": {
+                "bool": {
+                    "should": {
+                        "field": {
+                            "tags.subject.value": "LIVE_EVENT_COVERAGE"
+                        }
+                    },
+                    "minimum_number_should_match": 1
                 }
-            } 
-        } 
+            },
+            "must": {
+                "bool": {
+                    "should": {
+                        "field": {
+                            "tags.calendar_event_id.value": "14-263896-2010-04-11"
+                        }
+                    },
+                    "minimum_number_should_match": 1
+                }
+            }
+        }
     },
-    "size" : 10
+    "sort": [
+        {
+            "userDate": {
+                "reverse": true
+            }
+        }
+    ]
 }'
-
-#curl -XGET 'http://localhost:9200/es-test/_search?pretty=true' -d '
-#{
-#    "query" : {
-#        "bool" : {
-#            "should" : {
-#                "term" : {
-#                    "_id" : 10990239 
-#                } 
-#            },
-#            "minimum_number_should_match" : 1 
-#        } 
-#    },
-#    "size" : 5 
-#}'

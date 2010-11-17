@@ -1,0 +1,21 @@
+{
+    "audio" : {
+        "properties" : {
+            "state" : {
+                "type" : "string",
+                "index" : "not_analyzed"
+            }
+        },
+        "dynamic_templates" : [
+            {
+                "template_1" : {
+                    "path_match" : "tags.*.value",
+                    "mapping" : {
+                        "type" : "string",
+                        "index" : "not_analyzed"
+                    }
+                }
+            }
+        ]
+    }
+}

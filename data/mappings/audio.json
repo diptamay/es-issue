@@ -1,5 +1,5 @@
 {
-    "video" : {
+    "audio" : {
         "properties" : {
             "state" : {
                 "type" : "string",

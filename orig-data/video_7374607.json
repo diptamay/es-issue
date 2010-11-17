@@ -1,0 +1,659 @@
+{
+    "_id": 7374607,
+    "name": "DAM Media: 7374607 2010-04-11 : sln at mil | MLBTV",
+    "itemType": "video",
+    "state": "A",
+    "createdOn": "2010-04-10T00:00:00-0400",
+    "userDate": "2010-04-10T00:00:00-0400",
+    "lastSave": "2010-04-10T00:00:00-0400",
+    "lastPublish": "2010-04-25T00:00:00-0400",
+    "namespaceId": 1,
+    "displayData": "headline=2010-04-11%20%3A%20sln%20at%20mil%20%7C%20MLBTV&kicker=2010-04-11%20%3A%20sln%20at%20mil%20%7C%20MLBTV&blurb=2010-04-11%20%3A%20sln%20at%20mil%20%7C%20MLBTV&createdOn=2010-04-10%2021%3A52%3A10.0&thumbnail=http%3A%2F%2Fmediadownloads.mlb.com%2Fmlbam%2Fpreview%2Fslnmil_preview.jpg",
+    "appAccountIds": [
+        14
+    ],
+    "fields": {
+        "headline": "2010-04-11 : sln at mil | MLBTV",
+        "feature-context": "MLBTV2010.DEFAULTARCHIVE",
+        "namespace": "1",
+        "bigblurb": "2010-04-11 : sln at mil | MLBTV",
+        "blurb": "2010-04-11 : sln at mil | MLBTV",
+        "guid": "b1926b596fff7484",
+        "kicker": "2010-04-11 : sln at mil | MLBTV",
+        "media-urls": {
+            "XMLCascade": "Y",
+            "items": [
+                {
+                    "listItemId": 46612415,
+                    "rank": 0,
+                    "viewId": 0,
+                    "_id": 9211440,
+                    "name": "URL mediaId: 2028588 HTTP_CLOUD_WIRED content: 7374607",
+                    "itemType": "media-url",
+                    "state": "A",
+                    "createdOn": "2010-04-10T00:00:00-0400",
+                    "userDate": "2010-04-10T00:00:00-0400",
+                    "namespaceId": 1,
+                    "displayData": "name=URL%20mediaId%3A%202028588%20HTTP_CLOUD_WIRED%20content%3A%207374607",
+                    "appAccountIds": [
+                        14
+                    ],
+                    "fields": {
+                        "login-required": "Y",
+                        "auth-required": "Y",
+                        "tbyb-location": "http://mediadownloads.mlb.com/mlbam/preview/slnmil_1200_preview.mp4",
+                        "mediaid": "2028588",
+                        "sequence": "1",
+                        "location": "http://mlbvod-akc.mlb.com/mlbam/2010/04/11/MLB_GAME_VIDEO_SLNMIL_NATIONAL_20100411/master_wired.m3u8",
+                        "playback-scenario": "HTTP_CLOUD_WIRED",
+                        "platform": "BOXEE,ENABLED_APPLIANCE,IPAD,LG,LGBDP,POPBOX,PS3,ROKU,WEB_MEDIAPLAYER,SAMSUNG",
+                        "filesize": "0",
+                        "can-override-blackout": "Y",
+                        "video-state": "MEDIA_ARCHIVE",
+                        "innings-index": "http://mlb.mlb.com/mlb/mmls2010/263896.xml",
+                        "cat-code": "mlb_media_mlb_lg",
+                        "delivery-type": "demand",
+                        "secure": "Y",
+                        "has-synched-data": "N",
+                        "location-parameters": "kid.1=H9UbWAHokJgqpIOLZBamhw==",
+                        "cdn": "HTTP_ENCAPSULATED",
+                        "location-details": {
+                            "XMLCascade": "Y",
+                            "items": [
+                                {
+                                    "listItemId": 46766801,
+                                    "rank": 0,
+                                    "viewId": 0,
+                                    "_id": 9234480,
+                                    "name": "PRIMARY_AKAMAI",
+                                    "itemType": "location-detail",
+                                    "state": "A",
+                                    "createdOn": "2010-04-11T00:00:00-0400",
+                                    "userDate": "2010-04-11T00:00:00-0400",
+                                    "namespaceId": 1,
+                                    "displayData": "name=PRIMARY_AKAMAI",
+                                    "appAccountIds": [
+                                        14
+                                    ],
+                                    "fields": {
+                                        "location": "http://mlbvod-akc.mlb.com/mlbam/2010/04/11/MLB_GAME_VIDEO_SLNMIL_NATIONAL_20100411/master_wired.m3u8",
+                                        "location-parameters": "kid.1=H9UbWAHokJgqpIOLZBamhw==",
+                                        "name": "PRIMARY_AKAMAI",
+                                        "cdn": "HTTP_ENCAPSULATED"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "listItemId": 46612416,
+                    "rank": 1,
+                    "viewId": 0,
+                    "_id": 9211442,
+                    "name": "URL mediaId: 2028589 FLASH_1200K_800X448 content: 7374607",
+                    "itemType": "media-url",
+                    "state": "A",
+                    "createdOn": "2010-04-10T00:00:00-0400",
+                    "userDate": "2010-04-10T00:00:00-0400",
+                    "namespaceId": 1,
+                    "displayData": "name=URL%20mediaId%3A%202028589%20FLASH_1200K_800X448%20content%3A%207374607",
+                    "appAccountIds": [
+                        14
+                    ],
+                    "fields": {
+                        "can-override-blackout": "Y",
+                        "cdn": "AKAMAI_FLASH_STREAM_ONDEMAND",
+                        "location": "rtmp://cp65670.edgefcs.net/ondemand/mp4:secure/mlbam/2010/04/11/mlbtv_slnmil_national_1200k.mp4?aifp=v0004&auth={1}&slist=secure/mlbam/2010/04/11/mlbtv_slnmil_national_1200k.mp4",
+                        "location-parameters": "host=cp65670.edgefcs.net&tokenPath=secure/mlbam/2010/04/11/mlbtv_slnmil_national_1200k.mp4&path=mp4:secure/mlbam/2010/04/11/mlbtv_slnmil_national_1200k.mp4",
+                        "sequence": "1",
+                        "mediaid": "2028589",
+                        "auth-required": "Y",
+                        "cat-code": "mlb_media_mlb_lg",
+                        "has-synched-data": "N",
+                        "secure": "Y",
+                        "delivery-type": "demand",
+                        "innings-index": "http://mlb.mlb.com/mlb/mmls2010/263896.xml",
+                        "video-state": "MEDIA_ARCHIVE",
+                        "filesize": "0",
+                        "platform": "WEB_MEDIAPLAYER",
+                        "playback-scenario": "FLASH_1200K_800X448",
+                        "login-required": "Y",
+                        "tbyb-location": "http://mediadownloads.mlb.com/mlbam/preview/slnmil_1200_preview.mp4",
+                        "location-details": {
+                            "XMLCascade": "Y",
+                            "items": [
+                                {
+                                    "listItemId": 46797300,
+                                    "rank": 0,
+                                    "viewId": 0,
+                                    "_id": 9241638,
+                                    "name": "PRIMARY_AKAMAI",
+                                    "itemType": "location-detail",
+                                    "state": "A",
+                                    "createdOn": "2010-04-11T00:00:00-0400",
+                                    "userDate": "2010-04-11T00:00:00-0400",
+                                    "namespaceId": 1,
+                                    "displayData": "name=PRIMARY_AKAMAI",
+                                    "appAccountIds": [
+                                        14
+                                    ],
+                                    "fields": {
+                                        "location": "rtmp://cp65670.edgefcs.net/ondemand/mp4:secure/mlbam/2010/04/11/mlbtv_slnmil_national_1200k.mp4?aifp=v0004&auth={1}&slist=secure/mlbam/2010/04/11/mlbtv_slnmil_national_1200k.mp4",
+                                        "cdn": "AKAMAI_FLASH_STREAM_ONDEMAND",
+                                        "location-parameters": "host=cp65670.edgefcs.net&tokenPath=secure/mlbam/2010/04/11/mlbtv_slnmil_national_1200k.mp4&path=mp4:secure/mlbam/2010/04/11/mlbtv_slnmil_national_1200k.mp4",
+                                        "name": "PRIMARY_AKAMAI"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "listItemId": 46612417,
+                    "rank": 2,
+                    "viewId": 0,
+                    "_id": 9212064,
+                    "name": "URL mediaId: 2028590 FLASH_1800K_800X448 content: 7374607",
+                    "itemType": "media-url",
+                    "state": "A",
+                    "createdOn": "2010-04-10T00:00:00-0400",
+                    "userDate": "2010-04-10T00:00:00-0400",
+                    "namespaceId": 1,
+                    "displayData": "name=URL%20mediaId%3A%202028590%20FLASH_1800K_800X448%20content%3A%207374607",
+                    "appAccountIds": [
+                        14
+                    ],
+                    "fields": {
+                        "sequence": "1",
+                        "cdn": "AKAMAI_FLASH_STREAM_ONDEMAND",
+                        "auth-required": "Y",
+                        "cat-code": "mlb_media_mlb_lg",
+                        "has-synched-data": "N",
+                        "secure": "Y",
+                        "delivery-type": "demand",
+                        "innings-index": "http://mlb.mlb.com/mlb/mmls2010/263896.xml",
+                        "video-state": "MEDIA_DONE",
+                        "can-override-blackout": "Y",
+                        "filesize": "0",
+                        "platform": "WEB_MEDIAPLAYER",
+                        "playback-scenario": "FLASH_1800K_800X448",
+                        "login-required": "Y",
+                        "tbyb-location": "http://mediadownloads.mlb.com/mlbam/preview/",
+                        "mediaid": "2028590",
+                        "location-details": {
+                            "XMLCascade": "Y",
+                            "items": [
+                                {
+                                    "listItemId": 46766819,
+                                    "rank": 0,
+                                    "viewId": 0,
+                                    "_id": 9234484,
+                                    "name": "PRIMARY_AKAMAI",
+                                    "itemType": "location-detail",
+                                    "state": "A",
+                                    "createdOn": "2010-04-11T00:00:00-0400",
+                                    "userDate": "2010-04-11T00:00:00-0400",
+                                    "namespaceId": 1,
+                                    "displayData": "name=PRIMARY_AKAMAI",
+                                    "appAccountIds": [
+                                        14
+                                    ],
+                                    "fields": {
+                                        "location": "rtmp://cp65670.live.edgefcs.net/live/mlb_c26_s1800@s22179?aifp=v0006&auth={1}",
+                                        "location-parameters": "host=cp65670.live.edgefcs.net&path=/mlb_c26_s1800@s22179&tokenPath=mlb_c26_s1800@s22179",
+                                        "name": "PRIMARY_AKAMAI",
+                                        "cdn": "AKAMAI_FLASH_STREAM_LIVE"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "listItemId": 46612418,
+                    "rank": 3,
+                    "viewId": 0,
+                    "_id": 9212066,
+                    "name": "URL mediaId: 2028591 FLASH_500K_400X224 content: 7374607",
+                    "itemType": "media-url",
+                    "state": "A",
+                    "createdOn": "2010-04-10T00:00:00-0400",
+                    "userDate": "2010-04-10T00:00:00-0400",
+                    "namespaceId": 1,
+                    "displayData": "name=URL%20mediaId%3A%202028591%20FLASH_500K_400X224%20content%3A%207374607",
+                    "appAccountIds": [
+                        14
+                    ],
+                    "fields": {
+                        "tbyb-location": "http://mediadownloads.mlb.com/mlbam/preview/slnmil_500_preview.mp4",
+                        "login-required": "Y",
+                        "playback-scenario": "FLASH_500K_400X224",
+                        "platform": "WEB_MEDIAPLAYER",
+                        "filesize": "0",
+                        "can-override-blackout": "Y",
+                        "video-state": "MEDIA_ARCHIVE",
+                        "innings-index": "http://mlb.mlb.com/mlb/mmls2010/263896.xml",
+                        "delivery-type": "demand",
+                        "secure": "Y",
+                        "has-synched-data": "N",
+                        "cat-code": "mlb_media_mlb_lg",
+                        "auth-required": "Y",
+                        "mediaid": "2028591",
+                        "sequence": "1",
+                        "cdn": "AKAMAI_FLASH_STREAM_ONDEMAND",
+                        "location": "rtmp://cp65670.edgefcs.net/ondemand/mp4:secure/mlbam/2010/04/11/mlbtv_slnmil_national_500k.mp4?aifp=v0004&auth={1}&slist=secure/mlbam/2010/04/11/mlbtv_slnmil_national_500k.mp4",
+                        "location-parameters": "host=cp65670.edgefcs.net&tokenPath=secure/mlbam/2010/04/11/mlbtv_slnmil_national_500k.mp4&path=mp4:secure/mlbam/2010/04/11/mlbtv_slnmil_national_500k.mp4",
+                        "location-details": {
+                            "XMLCascade": "Y",
+                            "items": [
+                                {
+                                    "listItemId": 46797359,
+                                    "rank": 0,
+                                    "viewId": 0,
+                                    "_id": 9241566,
+                                    "name": "PRIMARY_AKAMAI",
+                                    "itemType": "location-detail",
+                                    "state": "A",
+                                    "createdOn": "2010-04-11T00:00:00-0400",
+                                    "userDate": "2010-04-11T00:00:00-0400",
+                                    "namespaceId": 1,
+                                    "displayData": "name=PRIMARY_AKAMAI",
+                                    "appAccountIds": [
+                                        14
+                                    ],
+                                    "fields": {
+                                        "location-parameters": "host=cp65670.edgefcs.net&tokenPath=secure/mlbam/2010/04/11/mlbtv_slnmil_national_500k.mp4&path=mp4:secure/mlbam/2010/04/11/mlbtv_slnmil_national_500k.mp4",
+                                        "cdn": "AKAMAI_FLASH_STREAM_ONDEMAND",
+                                        "location": "rtmp://cp65670.edgefcs.net/ondemand/mp4:secure/mlbam/2010/04/11/mlbtv_slnmil_national_500k.mp4?aifp=v0004&auth={1}&slist=secure/mlbam/2010/04/11/mlbtv_slnmil_national_500k.mp4",
+                                        "name": "PRIMARY_AKAMAI"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "listItemId": 46612422,
+                    "rank": 7,
+                    "viewId": 0,
+                    "_id": 9212074,
+                    "name": "URL mediaId: 2028595 FLASH_128K_256X144 content: 7374607",
+                    "itemType": "media-url",
+                    "state": "A",
+                    "createdOn": "2010-04-10T00:00:00-0400",
+                    "userDate": "2010-04-10T00:00:00-0400",
+                    "namespaceId": 1,
+                    "displayData": "name=URL%20mediaId%3A%202028595%20FLASH_128K_256X144%20content%3A%207374607",
+                    "appAccountIds": [
+                        14
+                    ],
+                    "fields": {
+                        "tbyb-location": "http://mediadownloads.mlb.com/mlbam/preview/slnmil_164_preview.mp4",
+                        "location": "rtmp://cp65670.edgefcs.net/ondemand/mp4:secure/mlbam/2010/04/11/mlbtv_slnmil_national_200k.mp4?aifp=v0004&auth={1}&slist=secure/mlbam/2010/04/11/mlbtv_slnmil_national_200k.mp4",
+                        "playback-scenario": "FLASH_128K_256X144",
+                        "platform": "WEB_MEDIAPLAYER",
+                        "filesize": "0",
+                        "can-override-blackout": "Y",
+                        "video-state": "MEDIA_ARCHIVE",
+                        "innings-index": "http://mlb.mlb.com/mlb/mmls2010/263896.xml",
+                        "delivery-type": "demand",
+                        "secure": "Y",
+                        "has-synched-data": "N",
+                        "cat-code": "mlb_media_mlb_lg",
+                        "auth-required": "Y",
+                        "mediaid": "2028595",
+                        "sequence": "1",
+                        "location-parameters": "host=cp65670.edgefcs.net&tokenPath=secure/mlbam/2010/04/11/mlbtv_slnmil_national_200k.mp4&path=mp4:secure/mlbam/2010/04/11/mlbtv_slnmil_national_200k.mp4",
+                        "cdn": "AKAMAI_FLASH_STREAM_ONDEMAND",
+                        "login-required": "Y",
+                        "location-details": {
+                            "XMLCascade": "Y",
+                            "items": [
+                                {
+                                    "listItemId": 46797267,
+                                    "rank": 0,
+                                    "viewId": 0,
+                                    "_id": 9239656,
+                                    "name": "PRIMARY_AKAMAI",
+                                    "itemType": "location-detail",
+                                    "state": "A",
+                                    "createdOn": "2010-04-11T00:00:00-0400",
+                                    "userDate": "2010-04-11T00:00:00-0400",
+                                    "namespaceId": 1,
+                                    "displayData": "name=PRIMARY_AKAMAI",
+                                    "appAccountIds": [
+                                        14
+                                    ],
+                                    "fields": {
+                                        "location": "rtmp://cp65670.edgefcs.net/ondemand/mp4:secure/mlbam/2010/04/11/mlbtv_slnmil_national_200k.mp4?aifp=v0004&auth={1}&slist=secure/mlbam/2010/04/11/mlbtv_slnmil_national_200k.mp4",
+                                        "name": "PRIMARY_AKAMAI",
+                                        "location-parameters": "host=cp65670.edgefcs.net&tokenPath=secure/mlbam/2010/04/11/mlbtv_slnmil_national_200k.mp4&path=mp4:secure/mlbam/2010/04/11/mlbtv_slnmil_national_200k.mp4",
+                                        "cdn": "AKAMAI_FLASH_STREAM_ONDEMAND"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "listItemId": 46612421,
+                    "rank": 6,
+                    "viewId": 0,
+                    "_id": 9212072,
+                    "name": "URL mediaId: 2028594 HTTP_CLOUD_TABLET content: 7374607",
+                    "itemType": "media-url",
+                    "state": "A",
+                    "createdOn": "2010-04-10T00:00:00-0400",
+                    "userDate": "2010-04-10T00:00:00-0400",
+                    "namespaceId": 1,
+                    "displayData": "name=URL%20mediaId%3A%202028594%20HTTP_CLOUD_TABLET%20content%3A%207374607",
+                    "appAccountIds": [
+                        14
+                    ],
+                    "fields": {
+                        "tbyb-location": "http://mediadownloads.mlb.com/mlbam/preview/slnmil_1200_preview.mp4",
+                        "sequence": "1",
+                        "playback-scenario": "HTTP_CLOUD_TABLET",
+                        "platform": "IPAD",
+                        "filesize": "0",
+                        "can-override-blackout": "Y",
+                        "video-state": "MEDIA_DONE",
+                        "innings-index": "http://mlb.mlb.com/mlb/mmls2010/263896.xml",
+                        "delivery-type": "live",
+                        "secure": "Y",
+                        "has-synched-data": "N",
+                        "cat-code": "mlb_media_mlb_lg",
+                        "auth-required": "Y",
+                        "mediaid": "2028594",
+                        "login-required": "Y",
+                        "location-details": {
+                            "XMLCascade": "Y",
+                            "items": [
+                                {
+                                    "listItemId": 46766855,
+                                    "rank": 0,
+                                    "viewId": 0,
+                                    "_id": 9234492,
+                                    "name": "PRIMARY_AKAMAI",
+                                    "itemType": "location-detail",
+                                    "state": "A",
+                                    "createdOn": "2010-04-11T00:00:00-0400",
+                                    "userDate": "2010-04-11T00:00:00-0400",
+                                    "namespaceId": 1,
+                                    "displayData": "name=PRIMARY_AKAMAI",
+                                    "appAccountIds": [
+                                        14
+                                    ],
+                                    "fields": {
+                                        "location": "http://mlblive-akc.mlb.com/mlbam/2010/04/11/MLB_GAME_VIDEO_SLNMIL_NATIONAL_20100411/master_tablet.m3u8",
+                                        "location-parameters": "kid.1=H9UbWAHokJgqpIOLZBamhw==",
+                                        "name": "PRIMARY_AKAMAI",
+                                        "cdn": "HTTP_ENCAPSULATED"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "listItemId": 46612420,
+                    "rank": 5,
+                    "viewId": 0,
+                    "_id": 9212070,
+                    "name": "URL mediaId: 2028593 HTTP_CLOUD_MOBILE content: 7374607",
+                    "itemType": "media-url",
+                    "state": "A",
+                    "createdOn": "2010-04-10T00:00:00-0400",
+                    "userDate": "2010-04-10T00:00:00-0400",
+                    "namespaceId": 1,
+                    "displayData": "name=URL%20mediaId%3A%202028593%20HTTP_CLOUD_MOBILE%20content%3A%207374607",
+                    "appAccountIds": [
+                        14
+                    ],
+                    "fields": {
+                        "tbyb-location": "http://mediadownloads.mlb.com/mlbam/preview/slnmil_1200_preview.mp4",
+                        "sequence": "1",
+                        "playback-scenario": "HTTP_CLOUD_MOBILE",
+                        "platform": "IPAD,IPHONE_MEDIAPLAYER",
+                        "filesize": "0",
+                        "can-override-blackout": "Y",
+                        "video-state": "MEDIA_DONE",
+                        "innings-index": "http://mlb.mlb.com/mlb/mmls2010/263896.xml",
+                        "delivery-type": "live",
+                        "secure": "Y",
+                        "has-synched-data": "N",
+                        "cat-code": "mlb_media_mlb_lg",
+                        "auth-required": "Y",
+                        "mediaid": "2028593",
+                        "login-required": "Y",
+                        "location-details": {
+                            "XMLCascade": "Y",
+                            "items": [
+                                {
+                                    "listItemId": 46766846,
+                                    "rank": 0,
+                                    "viewId": 0,
+                                    "_id": 9234490,
+                                    "name": "PRIMARY_AKAMAI",
+                                    "itemType": "location-detail",
+                                    "state": "A",
+                                    "createdOn": "2010-04-11T00:00:00-0400",
+                                    "userDate": "2010-04-11T00:00:00-0400",
+                                    "namespaceId": 1,
+                                    "displayData": "name=PRIMARY_AKAMAI",
+                                    "appAccountIds": [
+                                        14
+                                    ],
+                                    "fields": {
+                                        "location": "http://mlblive-akc.mlb.com/mlbam/2010/04/11/MLB_GAME_VIDEO_SLNMIL_NATIONAL_20100411/master_mobile.m3u8",
+                                        "location-parameters": "kid.1=H9UbWAHokJgqpIOLZBamhw==",
+                                        "name": "PRIMARY_AKAMAI",
+                                        "cdn": "HTTP_ENCAPSULATED"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "listItemId": 46612419,
+                    "rank": 4,
+                    "viewId": 0,
+                    "_id": 9212068,
+                    "name": "URL mediaId: 2028592 FLASH_800K_400X448 content: 7374607",
+                    "itemType": "media-url",
+                    "state": "A",
+                    "createdOn": "2010-04-10T00:00:00-0400",
+                    "userDate": "2010-04-10T00:00:00-0400",
+                    "namespaceId": 1,
+                    "displayData": "name=URL%20mediaId%3A%202028592%20FLASH_800K_400X448%20content%3A%207374607",
+                    "appAccountIds": [
+                        14
+                    ],
+                    "fields": {
+                        "tbyb-location": "http://mediadownloads.mlb.com/mlbam/preview/slnmil_800_preview.mp4",
+                        "location-parameters": "host=cp65670.edgefcs.net&tokenPath=secure/mlbam/2010/04/11/mlbtv_slnmil_national_800k.mp4&path=mp4:secure/mlbam/2010/04/11/mlbtv_slnmil_national_800k.mp4",
+                        "playback-scenario": "FLASH_800K_400X448",
+                        "platform": "WEB_MEDIAPLAYER",
+                        "filesize": "0",
+                        "can-override-blackout": "Y",
+                        "video-state": "MEDIA_ARCHIVE",
+                        "innings-index": "http://mlb.mlb.com/mlb/mmls2010/263896.xml",
+                        "delivery-type": "demand",
+                        "secure": "Y",
+                        "has-synched-data": "N",
+                        "cat-code": "mlb_media_mlb_lg",
+                        "auth-required": "Y",
+                        "mediaid": "2028592",
+                        "sequence": "1",
+                        "cdn": "AKAMAI_FLASH_STREAM_ONDEMAND",
+                        "location": "rtmp://cp65670.edgefcs.net/ondemand/mp4:secure/mlbam/2010/04/11/mlbtv_slnmil_national_800k.mp4?aifp=v0004&auth={1}&slist=secure/mlbam/2010/04/11/mlbtv_slnmil_national_800k.mp4",
+                        "login-required": "Y",
+                        "location-details": {
+                            "XMLCascade": "Y",
+                            "items": [
+                                {
+                                    "listItemId": 46797392,
+                                    "rank": 0,
+                                    "viewId": 0,
+                                    "_id": 9241568,
+                                    "name": "PRIMARY_AKAMAI",
+                                    "itemType": "location-detail",
+                                    "state": "A",
+                                    "createdOn": "2010-04-11T00:00:00-0400",
+                                    "userDate": "2010-04-11T00:00:00-0400",
+                                    "namespaceId": 1,
+                                    "displayData": "name=PRIMARY_AKAMAI",
+                                    "appAccountIds": [
+                                        14
+                                    ],
+                                    "fields": {
+                                        "name": "PRIMARY_AKAMAI",
+                                        "location-parameters": "host=cp65670.edgefcs.net&tokenPath=secure/mlbam/2010/04/11/mlbtv_slnmil_national_800k.mp4&path=mp4:secure/mlbam/2010/04/11/mlbtv_slnmil_national_800k.mp4",
+                                        "cdn": "AKAMAI_FLASH_STREAM_ONDEMAND",
+                                        "location": "rtmp://cp65670.edgefcs.net/ondemand/mp4:secure/mlbam/2010/04/11/mlbtv_slnmil_national_800k.mp4?aifp=v0004&auth={1}&slist=secure/mlbam/2010/04/11/mlbtv_slnmil_national_800k.mp4"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "dam-views": {
+            "XMLCascade": "Y",
+            "items": [
+                {
+                    "listItemId": 46612413,
+                    "rank": 0,
+                    "viewId": 0,
+                    "_id": 3864528,
+                    "name": "MLBTV_MP_4",
+                    "itemType": "dam_view",
+                    "state": "A",
+                    "createdOn": "2009-02-22T00:00:00-0500",
+                    "userDate": "2009-01-28T00:00:00-0500",
+                    "lastSave": "2009-02-22T00:00:00-0500",
+                    "namespaceId": 0,
+                    "displayData": "name=MLBTV_MP_4",
+                    "appAccountIds": [
+                        179,
+                        164,
+                        14
+                    ],
+                    "fields": {
+                        "key": "MLBTV_MP_4",
+                        "description": "MLBTV_MP_4"
+                    }
+                }
+            ]
+        },
+        "thumbnails": {
+            "XMLCascade": "Y",
+            "items": [
+                {
+                    "listItemId": 46612411,
+                    "rank": 0,
+                    "viewId": 0,
+                    "_id": 7659381,
+                    "name": "Thumbnail: 7 content: 7374607",
+                    "itemType": "image",
+                    "state": "A",
+                    "createdOn": "2010-04-25T00:00:00-0400",
+                    "userDate": "2010-04-10T00:00:00-0400",
+                    "namespaceId": 1,
+                    "displayData": "name=Thumbnail%3A%207%20content%3A%207374607",
+                    "appAccountIds": [
+                        14
+                    ],
+                    "fields": {
+                        "location": "http://mediadownloads.mlb.com/mlbam/preview/slnmil_preview.jpg",
+                        "thumbnail-type": "7"
+                    }
+                }
+            ]
+        }
+    },
+    "tags": {
+        "combined_media_state": [
+            {
+                "value": "MEDIA_ARCHIVE",
+                "displayName": "MEDIA_ARCHIVE"
+            }
+        ],
+        "away_team_id": [
+            {
+                "value": "138"
+            }
+        ],
+        "subject": [
+            {
+                "value": "MLBTV",
+                "displayName": "MLBTV"
+            },
+            {
+                "value": "LIVE_EVENT_COVERAGE",
+                "displayName": "LIVE_EVENT_COVERAGE"
+            }
+        ],
+        "game_pk": [
+            {
+                "value": "263896",
+                "displayName": "2010/04/11/slnmlb-milmlb-1"
+            }
+        ],
+        "in_epg": [
+            {
+                "value": "mlb_mp4_epg"
+            }
+        ],
+        "call_letters": [
+            {
+                "value": "ESPN-HD"
+            }
+        ],
+        "coverage_type": [
+            {
+                "value": "out-of-market"
+            }
+        ],
+        "default_dam_view_key": [
+            {
+                "value": "MLBTV_MP_4",
+                "displayName": "MLBTV_MP_4"
+            }
+        ],
+        "event_date": [
+            {
+                "value": "2010-04-11T20:05:00-0400",
+                "displayName": "2010-04-11T20:05:00-0400"
+            }
+        ],
+        "game_id": [
+            {
+                "value": "2010/04/11/slnmlb-milmlb-1"
+            }
+        ],
+        "coverage_association": [
+            {
+                "value": "0"
+            }
+        ],
+        "home_team_id": [
+            {
+                "value": "158"
+            }
+        ],
+        "calendar_event_id": [
+            {
+                "value": "14-263896-2010-04-11"
+            }
+        ],
+        "source_aspect_ratio": [
+            {
+                "value": "HD"
+            }
+        ]
+    }
+}

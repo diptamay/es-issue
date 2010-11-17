@@ -10,7 +10,8 @@
    echo ""
    echo "SEARCHING"
    echo ""
-   ./lineup.sh
+   #./lineup.sh
+   ./not_working.sh
    #echo ""
    #echo "DELETING"
    #echo ""

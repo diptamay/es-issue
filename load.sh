@@ -14,3 +14,7 @@ do
 	# take action on each file. $f store current file name
 	./send.sh $f $type $id es-test
 done
+
+curl -XPOST 'http://localhost:9200/_refresh?pretty=true'
+
+exit 0

@@ -9,7 +9,7 @@ echo host = ${host}
 
 curl -XPUT ${host}/es-test
 
-types=(video section lineup)
+types=(video section lineup audio)
 
 for type in ${types[@]};
 do

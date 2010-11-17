@@ -1,0 +1,97 @@
+{
+    "_id": 7374607,
+    "name": "DAM Media: 7374607 2010-04-11 : sln at mil | MLBTV",
+    "itemType": "video",
+    "state": "A",
+    "createdOn": "2010-04-10T00:00:00-0400",
+    "userDate": "2010-04-10T00:00:00-0400",
+    "lastSave": "2010-04-10T00:00:00-0400",
+    "lastPublish": "2010-04-25T00:00:00-0400",
+    "namespaceId": 1,
+    "displayData": "headline=2010-04-11%20%3A%20sln%20at%20mil%20%7C%20MLBTV&kicker=2010-04-11%20%3A%20sln%20at%20mil%20%7C%20MLBTV&blurb=2010-04-11%20%3A%20sln%20at%20mil%20%7C%20MLBTV&createdOn=2010-04-10%2021%3A52%3A10.0&thumbnail=http%3A%2F%2Fmediadownloads.mlb.com%2Fmlbam%2Fpreview%2Fslnmil_preview.jpg",
+    "appAccountIds": [ 14 ],
+    "fields": {
+        "headline": "2010-04-11 : sln at mil | MLBTV",
+        "feature-context": "MLBTV2010.DEFAULTARCHIVE",
+        "namespace": "1",
+        "bigblurb": "2010-04-11 : sln at mil | MLBTV",
+        "blurb": "2010-04-11 : sln at mil | MLBTV",
+        "guid": "b1926b596fff7484",
+        "kicker": "2010-04-11 : sln at mil | MLBTV"
+    },
+    "tags": {
+        "away_team_id": [
+            {
+                "value": "138"
+            }
+        ],
+        "subject": [
+            {
+                "value": "MLBTV",
+                "displayName": "MLBTV"
+            },
+            {
+                "value": "LIVE_EVENT_COVERAGE",
+                "displayName": "LIVE_EVENT_COVERAGE"
+            }
+        ],
+        "game_pk": [
+            {
+                "value": "263896",
+                "displayName": "2010/04/11/slnmlb-milmlb-1"
+            }
+        ],
+        "in_epg": [
+            {
+                "value": "mlb_mp4_epg"
+            }
+        ],
+        "call_letters": [
+            {
+                "value": "ESPN-HD"
+            }
+        ],
+        "coverage_type": [
+            {
+                "value": "out-of-market"
+            }
+        ],
+        "default_dam_view_key": [
+            {
+                "value": "MLBTV_MP_4",
+                "displayName": "MLBTV_MP_4"
+            }
+        ],
+        "event_date": [
+            {
+                "value": "2010-04-11T20:05:00-0400",
+                "displayName": "2010-04-11T20:05:00-0400"
+            }
+        ],
+        "game_id": [
+            {
+                "value": "2010/04/11/slnmlb-milmlb-1"
+            }
+        ],
+        "coverage_association": [
+            {
+                "value": "0"
+            }
+        ],
+        "home_team_id": [
+            {
+                "value": "158"
+            }
+        ],
+        "calendar_event_id": [
+            {
+                "value": "14-263896-2010-04-11"
+            }
+        ],
+        "source_aspect_ratio": [
+            {
+                "value": "HD"
+            }
+        ]
+    }
+}

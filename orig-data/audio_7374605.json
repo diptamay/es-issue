@@ -1,0 +1,446 @@
+{
+    "_id": 7374605,
+    "name": "DAM Media: 7374605 2010-04-11 : sln at mil | MLBTV",
+    "itemType": "audio",
+    "state": "A",
+    "createdOn": "2010-04-10T00:00:00-0400",
+    "userDate": "2010-04-10T00:00:00-0400",
+    "lastSave": "2010-04-10T00:00:00-0400",
+    "lastPublish": "2010-04-12T00:00:00-0400",
+    "namespaceId": 1,
+    "displayData": "headline=2010-04-11%20%3A%20sln%20at%20mil%20%7C%20MLBTV&kicker=2010-04-11%20%3A%20sln%20at%20mil%20%7C%20MLBTV&blurb=2010-04-11%20%3A%20sln%20at%20mil%20%7C%20MLBTV&createdOn=2010-04-10%2021%3A52%3A03.0",
+    "appAccountIds": [
+        14
+    ],
+    "fields": {
+        "guid": "2854bc31e9ca21f0",
+        "blurb": "2010-04-11 : sln at mil | MLBTV",
+        "headline": "2010-04-11 : sln at mil | MLBTV",
+        "kicker": "2010-04-11 : sln at mil | MLBTV",
+        "namespace": "1",
+        "feature-context": "MLBTV2010.DEFAULTARCHIVE",
+        "bigblurb": "2010-04-11 : sln at mil | MLBTV",
+        "duration": "04:13:13",
+        "media-urls": {
+            "XMLCascade": "Y",
+            "items": [
+                {
+                    "listItemId": 46612236,
+                    "rank": 2,
+                    "viewId": 0,
+                    "_id": 9211434,
+                    "name": "URL mediaId: 2028585 AUDIO_AMR_3GPP_16K content: 7374605",
+                    "itemType": "media-url",
+                    "state": "A",
+                    "createdOn": "2010-04-10T00:00:00-0400",
+                    "userDate": "2010-04-10T00:00:00-0400",
+                    "namespaceId": 1,
+                    "displayData": "name=URL%20mediaId%3A%202028585%20AUDIO_AMR_3GPP_16K%20content%3A%207374605",
+                    "appAccountIds": [
+                        14
+                    ],
+                    "fields": {
+                        "login-required": "Y",
+                        "playback-scenario": "AUDIO_AMR_3GPP_16K",
+                        "platform": "ANDROID",
+                        "filesize": "0",
+                        "can-override-blackout": "Y",
+                        "video-state": "MEDIA_DONE",
+                        "delivery-type": "demand",
+                        "secure": "Y",
+                        "authorized-by": "ANDROIDATBAT",
+                        "cat-code": "mlb_media_mlb_ga",
+                        "auth-required": "Y",
+                        "mediaid": "2028585",
+                        "sequence": "1",
+                        "location-parameters": "server=rtsp://211.43.148.146/ch51004.sdp",
+                        "cdn": "TMI_AMR_STREAM",
+                        "location": "rtsp://211.43.148.146/ch51004.sdp",
+                        "location-details": {
+                            "XMLCascade": "Y",
+                            "items": [
+                                {
+                                    "listItemId": 46766293,
+                                    "rank": 0,
+                                    "viewId": 0,
+                                    "_id": 9233860,
+                                    "name": "PRIMARY_TMI",
+                                    "itemType": "location-detail",
+                                    "state": "A",
+                                    "createdOn": "2010-04-11T00:00:00-0400",
+                                    "userDate": "2010-04-11T00:00:00-0400",
+                                    "namespaceId": 1,
+                                    "displayData": "name=PRIMARY_TMI",
+                                    "appAccountIds": [
+                                        14
+                                    ],
+                                    "fields": {
+                                        "location": "rtsp://211.43.148.146/ch51004.sdp",
+                                        "location-parameters": "server=rtsp://211.43.148.146/ch51004.sdp",
+                                        "cdn": "TMI_AMR_STREAM",
+                                        "name": "PRIMARY_TMI"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "listItemId": 46612237,
+                    "rank": 3,
+                    "viewId": 0,
+                    "_id": 9211436,
+                    "name": "URL mediaId: 2028586 AUDIO_SHOUTCAST_32K content: 7374605",
+                    "itemType": "media-url",
+                    "state": "A",
+                    "createdOn": "2010-04-10T00:00:00-0400",
+                    "userDate": "2010-04-10T00:00:00-0400",
+                    "namespaceId": 1,
+                    "displayData": "name=URL%20mediaId%3A%202028586%20AUDIO_SHOUTCAST_32K%20content%3A%207374605",
+                    "appAccountIds": [
+                        14
+                    ],
+                    "fields": {
+                        "location": "http://mlb-ga-sc-34.ng.akacast.akamaistream.net/7/570/81690/v1/mlb.akacast.akamaistream.net/mlb_!/mlb_ga_sc_34?aifp=v0004&auth={1}",
+                        "cdn": "AKAMAI_SHOUTCAST_STREAM_LIVE",
+                        "location-parameters": "tokenPath=/mlb.akacast.akamaistream.net/mlb_!/mlb_ga_sc_34",
+                        "sequence": "1",
+                        "mediaid": "2028586",
+                        "auth-required": "Y",
+                        "cat-code": "mlb_media_mlb_ga",
+                        "authorized-by": "IPHONEATBAT,IPADAPP,ANDROIDATBAT,BLACKBERRYATBAT",
+                        "secure": "Y",
+                        "delivery-type": "demand",
+                        "video-state": "MEDIA_DONE",
+                        "can-override-blackout": "Y",
+                        "filesize": "0",
+                        "platform": "IPHONE,ANDROID,IPAD,BLACKBERRY",
+                        "login-required": "Y",
+                        "playback-scenario": "AUDIO_SHOUTCAST_32K",
+                        "location-details": {
+                            "XMLCascade": "Y",
+                            "items": [
+                                {
+                                    "listItemId": 46766302,
+                                    "rank": 0,
+                                    "viewId": 0,
+                                    "_id": 9233862,
+                                    "name": "PRIMARY_AKAMAI",
+                                    "itemType": "location-detail",
+                                    "state": "A",
+                                    "createdOn": "2010-04-11T00:00:00-0400",
+                                    "userDate": "2010-04-11T00:00:00-0400",
+                                    "namespaceId": 1,
+                                    "displayData": "name=PRIMARY_AKAMAI",
+                                    "appAccountIds": [
+                                        14
+                                    ],
+                                    "fields": {
+                                        "location": "http://mlb-ga-sc-34.ng.akacast.akamaistream.net/7/570/81690/v1/mlb.akacast.akamaistream.net/mlb_!/mlb_ga_sc_34?aifp=v0004&auth={1}",
+                                        "location-parameters": "tokenPath=/mlb.akacast.akamaistream.net/mlb_!/mlb_ga_sc_34",
+                                        "cdn": "AKAMAI_SHOUTCAST_STREAM_LIVE",
+                                        "name": "PRIMARY_AKAMAI"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "listItemId": 46612238,
+                    "rank": 4,
+                    "viewId": 0,
+                    "_id": 9211438,
+                    "name": "URL mediaId: 2028587 AUDIO_WMA_16K content: 7374605",
+                    "itemType": "media-url",
+                    "state": "A",
+                    "createdOn": "2010-04-10T00:00:00-0400",
+                    "userDate": "2010-04-10T00:00:00-0400",
+                    "namespaceId": 1,
+                    "displayData": "name=URL%20mediaId%3A%202028587%20AUDIO_WMA_16K%20content%3A%207374605",
+                    "appAccountIds": [
+                        14
+                    ],
+                    "fields": {
+                        "cdn": "AKAMAI_WINDOWSMEDIA_STREAM",
+                        "location": "reflector:65463",
+                        "mediaid": "2028587",
+                        "auth-required": "Y",
+                        "cat-code": "mlb_media_mlb_ga",
+                        "authorized-by": "MLBMOBILEAUDIO",
+                        "secure": "Y",
+                        "delivery-type": "demand",
+                        "video-state": "MEDIA_DONE",
+                        "can-override-blackout": "Y",
+                        "filesize": "0",
+                        "platform": "MOBILE",
+                        "playback-scenario": "AUDIO_WMA_16K",
+                        "login-required": "Y",
+                        "sequence": "1",
+                        "location-details": {
+                            "XMLCascade": "Y",
+                            "items": [
+                                {
+                                    "listItemId": 46766309,
+                                    "rank": 0,
+                                    "viewId": 0,
+                                    "_id": 9233864,
+                                    "name": "PRIMARY_AKAMAI",
+                                    "itemType": "location-detail",
+                                    "state": "A",
+                                    "createdOn": "2010-04-11T00:00:00-0400",
+                                    "userDate": "2010-04-11T00:00:00-0400",
+                                    "namespaceId": 1,
+                                    "displayData": "name=PRIMARY_AKAMAI",
+                                    "appAccountIds": [
+                                        14
+                                    ],
+                                    "fields": {
+                                        "location": "reflector:65463",
+                                        "cdn": "AKAMAI_WINDOWSMEDIA_STREAM",
+                                        "name": "PRIMARY_AKAMAI"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "listItemId": 46612234,
+                    "rank": 0,
+                    "viewId": 0,
+                    "_id": 9211430,
+                    "name": "URL mediaId: 2028583 AUDIO_FMS_32K content: 7374605",
+                    "itemType": "media-url",
+                    "state": "A",
+                    "createdOn": "2010-04-10T00:00:00-0400",
+                    "userDate": "2010-04-10T00:00:00-0400",
+                    "namespaceId": 1,
+                    "displayData": "name=URL%20mediaId%3A%202028583%20AUDIO_FMS_32K%20content%3A%207374605",
+                    "appAccountIds": [
+                        14
+                    ],
+                    "fields": {
+                        "location": "rtmp://cp65670.edgefcs.net/ondemand/mp3:secure/mlbam/2010/04/11/mlbtv_slnmil_home_32k?aifp=v0004&auth={1}&slist=secure/mlbam/2010/04/11/mlbtv_slnmil_home_32k",
+                        "location-parameters": "host=cp65670.edgefcs.net&tokenPath=secure/mlbam/2010/04/11/mlbtv_slnmil_home_32k&path=mp4:secure/mlbam/2010/04/11/mlbtv_slnmil_home_32k",
+                        "sequence": "1",
+                        "mediaid": "2028583",
+                        "auth-required": "Y",
+                        "cat-code": "mlb_media_mlb_ga",
+                        "authorized-by": "MLBVIDEO,MLBALL,SYNACOR,MLBAUDIO",
+                        "secure": "Y",
+                        "delivery-type": "demand",
+                        "video-state": "MEDIA_ARCHIVE",
+                        "can-override-blackout": "Y",
+                        "filesize": "0",
+                        "platform": "WEB_MEDIAPLAYER",
+                        "playback-scenario": "AUDIO_FMS_32K",
+                        "login-required": "Y",
+                        "cdn": "AKAMAI_FLASH_STREAM_ONDEMAND",
+                        "location-details": {
+                            "XMLCascade": "Y",
+                            "items": [
+                                {
+                                    "listItemId": 46797551,
+                                    "rank": 0,
+                                    "viewId": 0,
+                                    "_id": 9239658,
+                                    "name": "PRIMARY_AKAMAI",
+                                    "itemType": "location-detail",
+                                    "state": "A",
+                                    "createdOn": "2010-04-12T00:00:00-0400",
+                                    "userDate": "2010-04-12T00:00:00-0400",
+                                    "namespaceId": 1,
+                                    "displayData": "name=PRIMARY_AKAMAI",
+                                    "appAccountIds": [
+                                        14
+                                    ],
+                                    "fields": {
+                                        "location-parameters": "host=cp65670.edgefcs.net&tokenPath=secure/mlbam/2010/04/11/mlbtv_slnmil_home_32k&path=mp4:secure/mlbam/2010/04/11/mlbtv_slnmil_home_32k",
+                                        "cdn": "AKAMAI_FLASH_STREAM_ONDEMAND",
+                                        "location": "rtmp://cp65670.edgefcs.net/ondemand/mp3:secure/mlbam/2010/04/11/mlbtv_slnmil_home_32k?aifp=v0004&auth={1}&slist=secure/mlbam/2010/04/11/mlbtv_slnmil_home_32k",
+                                        "name": "PRIMARY_AKAMAI"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "listItemId": 46612235,
+                    "rank": 1,
+                    "viewId": 0,
+                    "_id": 9211432,
+                    "name": "URL mediaId: 2028584 AUDIO_AAC_LATM_16K content: 7374605",
+                    "itemType": "media-url",
+                    "state": "A",
+                    "createdOn": "2010-04-10T00:00:00-0400",
+                    "userDate": "2010-04-10T00:00:00-0400",
+                    "namespaceId": 1,
+                    "displayData": "name=URL%20mediaId%3A%202028584%20AUDIO_AAC_LATM_16K%20content%3A%207374605",
+                    "appAccountIds": [
+                        14
+                    ],
+                    "fields": {
+                        "sequence": "1",
+                        "location-parameters": "server=rtsp://211.43.148.135/CH61004.sdp",
+                        "auth-required": "Y",
+                        "cat-code": "mlb_media_mlb_ga",
+                        "authorized-by": "ANDROIDATBAT",
+                        "secure": "Y",
+                        "delivery-type": "demand",
+                        "video-state": "MEDIA_DONE",
+                        "can-override-blackout": "Y",
+                        "filesize": "0",
+                        "platform": "ANDROID",
+                        "playback-scenario": "AUDIO_AAC_LATM_16K",
+                        "login-required": "Y",
+                        "cdn": "TMI_AMR_STREAM",
+                        "location": "rtsp://211.43.148.135/CH61004.sdp",
+                        "mediaid": "2028584",
+                        "location-details": {
+                            "XMLCascade": "Y",
+                            "items": [
+                                {
+                                    "listItemId": 46766284,
+                                    "rank": 0,
+                                    "viewId": 0,
+                                    "_id": 9233858,
+                                    "name": "PRIMARY_TMI",
+                                    "itemType": "location-detail",
+                                    "state": "A",
+                                    "createdOn": "2010-04-11T00:00:00-0400",
+                                    "userDate": "2010-04-11T00:00:00-0400",
+                                    "namespaceId": 1,
+                                    "displayData": "name=PRIMARY_TMI",
+                                    "appAccountIds": [
+                                        14
+                                    ],
+                                    "fields": {
+                                        "location-parameters": "server=rtsp://211.43.148.135/CH61004.sdp",
+                                        "cdn": "TMI_AMR_STREAM",
+                                        "name": "PRIMARY_TMI",
+                                        "location": "rtsp://211.43.148.135/CH61004.sdp"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "dam-views": {
+            "XMLCascade": "Y",
+            "items": [
+                {
+                    "listItemId": 46612240,
+                    "rank": 0,
+                    "viewId": 0,
+                    "_id": 3864528,
+                    "name": "MLBTV_MP_4",
+                    "itemType": "dam_view",
+                    "state": "A",
+                    "createdOn": "2009-02-22T00:00:00-0500",
+                    "userDate": "2009-01-28T00:00:00-0500",
+                    "lastSave": "2009-02-22T00:00:00-0500",
+                    "namespaceId": 0,
+                    "displayData": "name=MLBTV_MP_4",
+                    "appAccountIds": [
+                        179,
+                        164,
+                        14
+                    ],
+                    "fields": {
+                        "description": "MLBTV_MP_4",
+                        "key": "MLBTV_MP_4"
+                    }
+                }
+            ]
+        }
+    },
+    "tags": {
+        "combined_media_state": [
+            {
+                "value": "MEDIA_ARCHIVE",
+                "displayName": "MEDIA_ARCHIVE"
+            }
+        ],
+        "away_team_id": [
+            {
+                "value": "138"
+            }
+        ],
+        "subject": [
+            {
+                "value": "LIVE_EVENT_COVERAGE",
+                "displayName": "LIVE_EVENT_COVERAGE"
+            },
+            {
+                "value": "MLBCOM_GAMEDAY_AUDIO",
+                "displayName": "MLBCOM_GAMEDAY_AUDIO"
+            },
+            {
+                "value": "MLBMOBILE_GAMEDAY_AUDIO",
+                "displayName": "MLBMOBILE_GAMEDAY_AUDIO"
+            }
+        ],
+        "game_pk": [
+            {
+                "value": "263896",
+                "displayName": "2010/04/11/slnmlb-milmlb-1"
+            }
+        ],
+        "in_epg": [
+            {
+                "value": "mlb_mp4_epg"
+            }
+        ],
+        "call_letters": [
+            {
+                "value": "WTMJ"
+            }
+        ],
+        "coverage_type": [
+            {
+                "value": "out-of-market"
+            }
+        ],
+        "default_dam_view_key": [
+            {
+                "value": "MLBTV_MP_4",
+                "displayName": "MLBTV_MP_4"
+            }
+        ],
+        "event_date": [
+            {
+                "value": "2010-04-11T20:05:00-0400",
+                "displayName": "2010-04-11T20:05:00-0400"
+            }
+        ],
+        "game_id": [
+            {
+                "value": "2010/04/11/slnmlb-milmlb-1"
+            }
+        ],
+        "coverage_association": [
+            {
+                "value": "158"
+            }
+        ],
+        "home_team_id": [
+            {
+                "value": "158"
+            }
+        ],
+        "calendar_event_id": [
+            {
+                "value": "14-263896-2010-04-11"
+            }
+        ],
+        "source_aspect_ratio": [
+            {
+                "value": "SD"
+            }
+        ]
+    }
+}
